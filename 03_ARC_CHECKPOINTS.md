@@ -109,6 +109,18 @@ dialogue, thoughts, memories, flashbacks, rumors, indirect references,
 off-screen events, and cameos. The roster applies to Arc 8 only unless
 the user explicitly changes it.
 
+## Arc 8 Chapter 65 --- "The Under Resort"
+
+- Bell independently enters the Dungeon intending to stay several days, potentially a week.
+- Haruhime prepares provisions for Bell before his departure.
+- Bell encounters multiple Minotaurs beginning on the fifteenth floor. Their unusually aggressive pursuit is noticed, but its cause is not established.
+- On the seventeenth floor, Bell destroys Goliath with a barrage of explosions. The scene leaves no recoverable remains.
+- Bell proceeds to the eighteenth floor, the Under Resort, where he senses a familiar presence and encounters Finn.
+- Finn and the Loki Familia expedition party have been away for nearly two months and are returning from the Dungeon.
+- Finn had expected the party to deal with Goliath on their return and investigates the explosion.
+- Bell and Finn recognize one another from their earlier encounter and agree to catch up.
+- The chapter's tone is a warm, uncomplicated reunion. The conversation that follows is not established by this chapter.
+
 ## Retrieval warning
 
 Before drafting any arc other than Arc 3 or the Arc 7/8 checkpoint
