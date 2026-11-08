@@ -986,7 +986,7 @@ The surrounding air trembled, and strands of wind began circling her body.
 
 Ais raised Desperate.
 
-"Tempest."
+"Ariel!"
 
 The spell activated.
 
