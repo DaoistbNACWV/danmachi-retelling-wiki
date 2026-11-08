@@ -121,6 +121,17 @@ the user explicitly changes it.
 - Bell and Finn recognize one another from their earlier encounter and agree to catch up.
 - The chapter's tone is a warm, uncomplicated reunion. The conversation that follows is not established by this chapter.
 
+## Arc 8 Chapter 67 --- "My Hero"
+
+- Bell prepares for a sparring session with Ais during the expedition/camp sequence.
+- Bell chooses Crimson Order, a rapier forged from synthetic mithril with orichalcum components and originally intended as a gift for Astrea. Astrea declined the gift; Bell has kept the weapon in spatial storage.
+- Bell recognizes Ais's swordsmanship as the Waldstein technique, which he encountered and learned in the Land of Dreams. He demonstrates his interpretation and points out that Ais is reproducing its movements without fully understanding their underlying principles.
+- Ais uses Ariel to enhance her combat abilities. The spar escalates when her wind turns black; Bell identifies the phenomenon as the combination of Ariel and Avenger.
+- Bell uses Ariel focused through Crimson Order to break through Ais's black wind, then uses Dispel to stop the magical effect and end the fight.
+- Ais is exhausted but conscious. Bell treats her injuries and discusses the difference between becoming stronger, understanding oneself, and knowing when to stop.
+- Ais tells Bell, "You're my hero." The chapter ends with Bell reflecting on what that means.
+- This checkpoint records the events depicted in Chapter 67; it does not establish unshown explanations or additional mechanics for Bell's Dispel or Ais's abilities.
+
 ## Retrieval warning
 
 Before drafting any arc other than Arc 3 or the Arc 7/8 checkpoint
