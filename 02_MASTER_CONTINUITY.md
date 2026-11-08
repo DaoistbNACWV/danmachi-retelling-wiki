@@ -163,6 +163,19 @@ The latest retrieved Arc 7 checkpoint is Chapter Forty-Six --- "Arson."
     be confirmed from current material.
 -   Arc 7's roster does not automatically carry into Arc 8.
 
+
+### Arc 8 Chapter 65 --- "The Under Resort"
+
+- Bell independently visits the Dungeon, intending to remain for several days and potentially a week.
+- Haruhime is at the manor and prepares provisions for his journey.
+- Bell encounters multiple Minotaurs beginning on the fifteenth floor. Their unusually aggressive pursuit is observed, but its cause remains unknown.
+- On the seventeenth floor, Bell destroys Goliath with a barrage of explosions. The scene depicts no recoverable remains.
+- Bell reaches the eighteenth floor, the Under Resort, and senses a familiar presence.
+- He reunites with Finn, whose Loki Familia expedition has lasted nearly two months.
+- Finn's party had intended to deal with Goliath on their return; Finn investigates the explosion and discovers Bell.
+- Bell and Finn recognize one another from their earlier encounter and agree to catch up.
+- The chapter establishes the reunion and invitation only. It does not establish the details of their subsequent conversation.
+
 ## Character knowledge and mystery rules
 
 -   Distinguish objective facts, POV knowledge, information told to a
