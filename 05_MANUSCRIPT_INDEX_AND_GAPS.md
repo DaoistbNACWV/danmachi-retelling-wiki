@@ -79,8 +79,8 @@ After every completed arc or major retcon: - Update
 `04_CHARACTER_AND_WORLD_REFERENCE.md` only with supported new facts. -
 Preserve older arc checkpoints as historical records. - Never silently
 overwrite a user-approved finalized chapter with a draft.
+## Newly added chapter files
 
-## Newly added chapter file
-
+- `Arc 8 - Crescendo/Chapter 65 - The Under Resort.md` — Chapter Sixty-Five, "The Under Resort." Bell independently visits the Dungeon, encounters Minotaurs on the fifteenth floor, destroys Goliath on the seventeenth floor, and reunites with Finn on the eighteenth floor. Finn's Loki Familia expedition has lasted nearly two months. The chapter ends with Bell accepting Finn's invitation to catch up.
 - `Arc 8 - Crescendo/Chapter 69 - The Trap.md` — Chapter Sixty-Nine, "The Trap." Added as a standalone narrative featuring Bell Cranel and Ein/Filvis Chalia. Its chapter record explicitly states that the encounter is not automatically binding continuity for later Arc 8 chapters unless the author confirms it.
-- This single chapter file does not make the repository a complete Arc 8 or Arcs 1--8 manuscript compilation.
+- These individual chapter files do not make the repository a complete Arc 8 or Arcs 1--8 manuscript compilation.
