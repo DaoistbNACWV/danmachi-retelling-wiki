@@ -176,6 +176,16 @@ The latest retrieved Arc 7 checkpoint is Chapter Forty-Six --- "Arson."
 - Bell and Finn recognize one another from their earlier encounter and agree to catch up.
 - The chapter establishes the reunion and invitation only. It does not establish the details of their subsequent conversation.
 
+### Arc 8 Chapter 67 --- "My Hero"
+
+- Bell spars with Ais at the expedition camp.
+- Bell uses Crimson Order, a rapier originally forged as a gift for Astrea. It is made primarily from synthetic mithril with orichalcum components; Astrea declined the gift.
+- Bell recognizes Ais's swordsmanship as the Waldstein technique, which he learned in the Land of Dreams, and demonstrates his own more refined application.
+- Ais activates Ariel during the spar. The confrontation escalates when she manifests black wind associated in the chapter with Ariel and Avenger.
+- Bell channels Ariel through Crimson Order, breaks through Ais's black wind, and uses Dispel to end the magical effect and stop the spar.
+- Bell treats Ais's injuries and discusses strength, emotional expression, self-understanding, and restraint.
+- Ais calls Bell her hero. This is an event and statement within the chapter; do not infer a broader relationship status from it alone.
+
 ## Character knowledge and mystery rules
 
 -   Distinguish objective facts, POV knowledge, information told to a
