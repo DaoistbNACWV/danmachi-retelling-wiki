@@ -82,5 +82,6 @@ overwrite a user-approved finalized chapter with a draft.
 ## Newly added chapter files
 
 - `Arc 8 - Crescendo/Chapter 65 - The Under Resort.md` — Chapter Sixty-Five, "The Under Resort." Bell independently visits the Dungeon, encounters Minotaurs on the fifteenth floor, destroys Goliath on the seventeenth floor, and reunites with Finn on the eighteenth floor. Finn's Loki Familia expedition has lasted nearly two months. The chapter ends with Bell accepting Finn's invitation to catch up.
+- `Arc 8 - Crescendo/Chapter 67 - My Hero.md` — Chapter Sixty-Seven, "My Hero." Bell spars with Ais using Crimson Order, a rapier originally forged as a gift for Astrea. Bell recognizes Ais's inherited Waldstein swordsmanship, demonstrates a more refined application, and the spar escalates through Ariel and Ais's black wind. Bell ends the fight with Dispel, then speaks with Ais about strength, self-understanding, and being a hero.
 - `Arc 8 - Crescendo/Chapter 69 - The Trap.md` — Chapter Sixty-Nine, "The Trap." Added as a standalone narrative featuring Bell Cranel and Ein/Filvis Chalia. Its chapter record explicitly states that the encounter is not automatically binding continuity for later Arc 8 chapters unless the author confirms it.
 - These individual chapter files do not make the repository a complete Arc 8 or Arcs 1--8 manuscript compilation.
