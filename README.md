@@ -9,15 +9,25 @@ This repository is the working source-control archive for the project.
 - `03_ARC_CHECKPOINTS.md` — arc handoffs and checkpoints.
 - `04_CHARACTER_AND_WORLD_REFERENCE.md` — character and setting reference.
 - `05_MANUSCRIPT_INDEX_AND_GAPS.md` — current manuscript inventory.
-- `06_MANUSCRIPT_CROSS_REFERENCE.md` — cross-reference for Chapters 1–61, based on the two source PDFs found in the ChatGPT Library.
+- `06_MANUSCRIPT_CROSS_REFERENCE.md` — cross-reference for Chapters 1–61.
 - `ARC_1_TO_8_MIGRATION_STATUS.md` — migration ledger, known gaps, and next steps.
 - `MASTER_WRITING_SYSTEM_Swiss_Knife_v1.0.md` — writing workflow.
 
-## Manuscript status
+## Source manuscripts committed
 
-The two source PDFs for Chapters 1–40 and Chapters 41–61 have been located in the ChatGPT Library, but have **not yet been copied into this GitHub repository**. The current repository contains only a partial set of Arc 8 chapters plus the reference pack.
+The original source PDFs are now stored at the repository root:
 
-The PDFs include revision/chat artifacts, so chapter text must be separated and validated before being treated as clean finalized Markdown. See the migration ledger before moving or renumbering anything.
+- `Chapter One- That Changes Everything (1).pdf` — 681 pages; Chapters 1–40.
+- `Forty one .pdf` — 586 pages; Chapters 41–61.
+
+These are preserved as source archives. They contain some chat/revision artifacts, so they are not yet clean, chapter-separated Markdown files. Consult the cross-reference and migration ledger before extracting, editing, or renumbering prose.
+
+## Current manuscript layout
+
+- `Arc 8 - Crescendo/` — currently contains Chapters 65–69 and 71.
+- `Manuscript/` — currently contains Chapter 070 and a duplicate copy of Chapter 71.
+- Chapters 1–61 are preserved in the two source PDFs, but have not yet been split into individual chapter files.
+- Chapters 62–64 and other gaps require verification against the source material.
 
 ## Chapter storage rule
 
