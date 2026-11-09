@@ -17,7 +17,7 @@ Two substantial PDF manuscripts were found in the Library:
 
 The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFERENCE.md`.
 
-**Important:** These PDFs have not yet been committed to this GitHub repository. Their extracted text includes chat/revision artifacts, assistant status messages, and promotional footers. Preserve the original PDFs as source archives; clean narrative chapter files should be produced only after chapter-by-chapter validation. Do not silently delete or rewrite author-approved prose during cleanup.
+**Status update (2026-11-09):** Both original PDFs have now been committed to the repository root: `Chapter One- That Changes Everything (1).pdf` and `Forty one .pdf`. Their extracted text includes chat/revision artifacts, assistant status messages, and promotional footers. Preserve the original PDFs unchanged as source archives; clean narrative chapter files should be produced only after chapter-by-chapter validation. Do not silently delete or rewrite author-approved prose during cleanup.
 
 ## Arc-by-arc status
 
@@ -52,7 +52,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 
 ## Not yet done
 
-- The two PDF source archives have not been uploaded to this repository.
-- Chapters 1–61 have not been split into individual Markdown files here.
+- The two PDF source archives are now uploaded to the repository root.
+- Chapters 1–61 have not yet been split into individual Markdown files here.
 - Arc 1/2, Arc 4/5, and some Arc 6/7 boundaries still need source verification.
 - No missing chapter has been recreated from summaries or continuity notes.
