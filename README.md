@@ -1,6 +1,6 @@
 # DanMachi: Retelling of the Legend
 
-This repository is the working source-control archive for the project. It contains source manuscript archives, individually stored chapters, and continuity/reference documents. It is not a complete clean compilation of all finalized chapters.
+**Documentation synchronized:** 2026-11-10.\n\nThis repository is the working source-control archive for the project. It contains source manuscript archives, individually stored chapters, and continuity/reference documents. It is not a complete clean compilation of all finalized chapters.
 
 ## Current working position
 
