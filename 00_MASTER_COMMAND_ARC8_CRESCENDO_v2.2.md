@@ -963,7 +963,7 @@ This section supersedes stale chapter-position and repository-status statements 
 
 ## Continuity warnings — do not silently resolve
 
-1. Uranus/Bell kinship: established as great-grandfather through the Zeus lineage. Chapter 74's “grandfather” may be colloquial dialogue, but reference text should use great-grandfather unless the author confirms a deliberate change.
+1. Uranus/Bell kinship: established as great-grandfather through the Zeus lineage. Chapter 74 repeatedly uses “grandfather” in both narration and dialogue. This is a manuscript/reference mismatch with the established great-grandfather relationship; do not silently edit the chapter, but retain great-grandfather in the reference ledger pending author decision.
 2. Teleportation: Chapter 74 demonstrates Bell's teleportation with observed conditions involving prior visit/location knowledge and distance-related cost. Do not infer unrestricted teleportation.
 3. Ein / Filvis identity: Chapter 69 identifies the restored person as Filvis Chalia, while Chapters 70–74 use Ein in the purification thread. The bridge remains [OPEN].
 4. Arc 8 Artemis gate: Artemis remains excluded from Arc 8 prose. Chapter 71's indirect reference to a hostage goddess has been identified as an apparent gate violation because the referent is Artemis. Flag it for author review.
