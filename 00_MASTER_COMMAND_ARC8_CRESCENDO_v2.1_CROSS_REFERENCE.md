@@ -1,3 +1,7 @@
+> [!WARNING]
+> **ARCHIVED / SUPERSEDED — DO NOT USE AS THE CURRENT HANDOFF.**
+> This v2.1 file is retained for historical comparison. It predates Chapters 70–74 and contains obsolete continuation instructions. Use **00_MASTER_COMMAND_ARC8_CRESCENDO_v2.2.md** for the current repository state (verified through Chapter 74, 2026-11-10). Do not rely on v2.1 chapter-position statements or approval assumptions.
+
 # DANMACHI: RETELLING OF THE LEGEND
 # MASTER COMMAND — ARC 8: CRESCENDO
 **Version:** 2.1 — Cross-Reference Edition  
