@@ -168,3 +168,34 @@ Do not silently reconcile contradictions. Label them `[OPEN]`, `[CONFLICT]`, or 
 - Use the two PDFs as source material, but do not feed chat artifacts or promotional text to a writing model as story prose.
 - Keep finalized chapter text separate from summaries and reference notes.
 - When the author finalizes a new chapter or changes canon, update this cross-reference and `02_MASTER_CONTINUITY.md` together.
+
+## Later manuscript cross-reference — Chapters 65–74 (repository audit 2026-11-10)
+
+This addendum supplements the Chapters 1–61 source-PDF cross-reference above. It does not replace chapter prose and does not imply that all later chapters are finalized.
+
+### Chapter 65 — “The Under Resort”
+Repository history records Bell independently exploring the Dungeon, fighting Minotaurs on the fifteenth floor, destroying Goliath on the seventeenth floor, and reuniting with Finn on the eighteenth floor. Finn's Loki Familia expedition has lasted nearly two months. Consult the chapter file for exact sequence and dialogue.
+
+### Chapter 67 — “My Hero”
+Repository history records Bell sparring with Ais using Crimson Order, recognizing her Waldstein swordsmanship, and ending the spar with Dispel after Ariel and black wind escalate the fight. Treat Ais's conclusion that Bell is a demi-spirit as her mistaken theory, not objective fact.
+
+### Chapter 69 — “The Trap”
+The ending identifies the restored person as Filvis Chalia rather than Ein/Banshee/creature. This creates an unresolved naming/identity bridge with Chapters 70–74, which continue to call the purification patient Ein. Do not invent a reconciliation. The chapter is a completed draft; final author lock is unverified.
+
+### Chapter 70 — “New Girlfriend” [DRAFT]
+The chapter's ending notes say Filvis is secretly acting against Dionysus, while the full plan remains unknown; Filvis/Ein accepts Bell's invitation to join Hestia Familia, with formal arrangements pending; and the two announce their relationship to Hestia and Haruhime. Keep these as draft continuity pending author approval.
+
+### Chapter 71 — [APPROVAL UNCONFIRMED]
+The chapter is recorded in repository/index history. Its indirect reference to a goddess held hostage appears to refer to Artemis. This conflicts with the Arc 8 character gate, which excludes Artemis even by indirect reference. Flag the manuscript for author review; do not treat it as an approved exception. Exact path and approval state require re-verification.
+
+### Chapter 72 — “Purification” [DRAFT]
+Bell investigates Ein's purification and raises hereditary manipulation/eugenics as an ethical concern; this is not evidence that an organized eugenics program exists. Filvis begins acting against Dionysus. The Council of the Dark Factions, Black Hand, and Project: Succession are introduced/foreshadowed; Council and Black Hand remain distinct.
+
+### Chapter 73 — “Test One” [APPROVAL UNCONFIRMED]
+Bell asks Ein's permission before the procedure. Test One removes a substantial portion of corruption, but the remaining concentrations are dangerously integrated with the heart and brain. Healing magic repairs damaged tissue but does not cleanse residual corruption. Ein remains suspended; the experiment is unfinished.
+
+### Chapter 74 — “Test: Permission to Use Arcanum” [APPROVAL UNCONFIRMED]
+Bell rejects cloning as a solution, considers high-tier cleansing and controlled arcanum, and obtains Uranus's conditional permission to use arcanum for the purification procedure. Bell's Fluctuation hypothesis is not confirmed fact. Uranus cautions that not all properties necessarily survive. Teleportation is demonstrated with prior-location knowledge and distance-related cost; do not generalize beyond what the chapter shows. Test Two has not occurred.
+
+### Arc 8 gate and source hierarchy
+The Arc 8 exclusion of Artemis remains in force. The Chapter 71 indirect reference is an apparent violation requiring author review. Use the current source hierarchy: latest author correction; active author-supplied chapter; approved finalized prose; confirmed master continuity; arc checkpoint; older reference; compatible canon; assistant proposals. Do not silently convert a draft or hypothesis into canon.
