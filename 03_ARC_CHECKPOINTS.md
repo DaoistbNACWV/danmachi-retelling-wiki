@@ -138,3 +138,43 @@ Before drafting any arc other than Arc 3 or the Arc 7/8 checkpoint
 material above, retrieve the actual arc save and latest chapter from the
 Library or Project. The summaries in this file are not a substitute for
 the finalized prose.
+
+
+## Arc 8 — Crescendo: Chapters 70–74 synchronization (2026-11-10)
+
+**Latest repository chapter:** Chapter 74. This is a repository checkpoint, not an assertion that all preceding chapters are finalized.
+
+### Chapter 70 — “New Girlfriend” [DRAFT]
+- Dionysus reacts to the failed fusion plan.
+- Filvis is secretly acting against Dionysus, but the full operation remains unknown.
+- Bell and Filvis/Ein announce their relationship to Hestia and Haruhime.
+- Filvis/Ein accepts Bell's invitation to join Hestia Familia; formal arrangements remain pending.
+- The chapter's ending notes retain open questions about the two Filvis identities and Monsterification.
+
+### Chapter 71 — [approval/path unconfirmed]
+- Chapter 71 is recorded in repository/index history.
+- Its indirect hostage-goddess reference appears to refer to Artemis and conflicts with the Arc 8 exclusion gate. Do not treat it as compliant without author review.
+- Exact path, duplicate status, and final approval were not re-verified in this synchronization.
+
+### Chapter 72 — “Purification” [DRAFT]
+- Bell investigates Ein's purification.
+- Eugenics/hereditary manipulation is an ethical concern; no organized program is confirmed.
+- Filvis begins undermining Dionysus; the exact operation remains open.
+- Council of the Dark Factions, Black Hand, and Project: Succession are introduced/foreshadowed. Do not conflate Council and Black Hand.
+
+### Chapter 73 — “Test One” [APPROVAL UNCONFIRMED]
+- Bell asks Ein's permission.
+- Test One extracts a substantial portion of corruption.
+- Remaining corruption is integrated with her heart and brain.
+- Healing repairs tissue but does not remove corruption.
+- Ein remains suspended; the procedure is unfinished.
+
+### Chapter 74 — “Test: Permission to Use Arcanum” [APPROVAL UNCONFIRMED]
+- Bell obtains Uranus's conditional permission to use arcanum.
+- Fluctuation-as-residual-arcanum remains Bell's theory, not established fact.
+- Teleportation is demonstrated with prior-location knowledge and distance-related cost constraints.
+- Test Two has not happened; no purification success is established.
+
+### Handoff
+
+Continue from the unresolved Test Two problem in Chapter 74 only when the author requests the next chapter. Keep Ein suspended and corrupted. Do not invent the result of Test Two, the origin/mechanics of arcanum, or a cure. The likely next writing position is Chapter 75.

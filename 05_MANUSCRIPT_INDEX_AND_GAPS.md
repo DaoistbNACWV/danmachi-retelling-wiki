@@ -88,3 +88,33 @@ overwrite a user-approved finalized chapter with a draft.
 - `Manuscript/Chapter 072 - Purification.md` — Chapter Seventy-Two, "Purification." Draft chapter: Bell begins investigating Ein's purification and the ethical risks of eugenics; Filvis secretly moves against Dionysus; Dionysus faces pressure from the Council of the Dark Factions; and the Black Hand is introduced with its leader deliberately unnamed. Project: Succession is foreshadowed. Treat the chapter's new details as provisional pending author review.
 - `Manuscript/Chapter 073 - Test One.md` — Chapter Seventy-Three, "Test One." Bell begins the first controlled procedure to extract Ein's corruption, successfully removing a substantial portion while discovering that the remaining concentrations are dangerously integrated with vital structures.
 - `Manuscript/Chapter 074 - Test - Permission to Use Arcanum.md` — Chapter Seventy-Four, "Test: Permission to Use Arcanum." Bell rejects cloning Ein as a solution, weighs high-tier cleansing magic against controlled arcanum use, theorizes that Fluctuation is residual arcanum, and obtains Uranus's authorization to use arcanum for the purification procedure. The next planned stage is preparation for Test Two; success is not yet established.
+
+
+## Repository status update — 2026-11-10
+
+### Latest stored chapters and approval states
+
+| Chapter | Title | Verified location | Approval state |
+|---|---|---|---|
+| 69 | The Trap | Arc 8 folder, per repository history | Completed draft; final author lock unverified |
+| 70 | New Girlfriend | Manuscript/Chapter 070 - New Girlfriend.md | Explicitly draft |
+| 71 | The Goddess's Game | Repository/index history; exact path not re-verified | Approval unconfirmed; apparent Arc 8 Artemis-gate violation |
+| 72 | Purification | Manuscript/Chapter 072 - Purification.md | Explicitly draft |
+| 73 | Test One | Manuscript/Chapter 073 - Test One.md | Approval unconfirmed; no explicit lock marker verified |
+| 74 | Test: Permission to Use Arcanum | Manuscript/Chapter 074 - Test - Permission to Use Arcanum.md | Approval unconfirmed; no explicit lock marker verified |
+
+Chapters 65–68 and 69 are recorded in Arc 8 folder history. Their exact paths and approval states must be checked against actual files before relocation or status changes. Chapter 71's duplicate-copy history must be rechecked at tree/blob level; do not delete either copy based on an old audit.
+
+### Current handoff
+Chapter 74 is the latest repository chapter. Test One partially extracted Ein's corruption, but residual corruption remains integrated with the heart and brain. Healing repaired tissue but did not cleanse the corruption. Ein remains suspended. Uranus granted conditional permission for arcanum use; Test Two has not occurred. Fluctuation as residual arcanum remains a theory.
+
+### Known content and continuity issues
+- Chapter 71's indirect hostage-goddess reference appears to point to Artemis and conflicts with the Arc 8 exclusion gate.
+- Uranus is Bell's great-grandfather; retain that established relationship.
+- The Chapter 69 Filvis Chalia identification and later Ein naming require author clarification.
+- Current Bell Falna ledger is incomplete/unverified.
+- Chapters 62–64 are still not verified as individual Markdown files.
+- Do not promote drafts/unmarked chapters to finalized status.
+
+### Index maintenance rule
+Each chapter entry must include chapter number, exact title, exact path, approval state, last verified commit/blob if available, and any continuity warning. Separate verified facts from hypotheses and author-review flags.

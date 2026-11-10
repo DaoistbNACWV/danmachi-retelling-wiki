@@ -117,3 +117,31 @@ of Bell's later abilities.
 -   Exact War Game terms, deadline, registration status, and outcome.
 -   Exact Arc 4+ Familia name and current Falna values unless loaded
     from later source files.
+
+
+## Additions and corrections — 2026-11-10
+
+### Uranus
+- Relationship to Bell: **great-grandfather**, through the Zeus lineage.
+- Chapter 74 grants conditional permission for Bell to use arcanum in the purification procedure.
+- Do not infer unrestricted permission for any use of arcanum.
+- Uranus cautions that not all properties necessarily survive; Bell's Fluctuation hypothesis remains unconfirmed.
+
+### Bell — demonstrated teleportation (Chapter 74)
+- Chapter 74 demonstrates teleportation.
+- Observed constraints include prior visit/location knowledge and a distance-related cost.
+- Exact range, energy formula, failure conditions, cooldown, and broader origin are [OPEN]. Do not invent them.
+
+### Ein / Filvis Chalia — identity caution
+- Chapter 69's ending identifies the restored person as Filvis Chalia.
+- Chapters 70–74 continue to use Ein in the purification storyline.
+- The relationship/identity/renaming bridge is unresolved. Keep the separate Filvis associated with Dionysus distinct; do not collapse the two individuals or assume fusion has occurred.
+
+### Black Hand / Project: Succession
+- Black Hand is introduced as an organization distinct from the Council of the Dark Factions.
+- Its leader remains unnamed.
+- Project: Succession is a file designation; purpose, scope, and history remain [OPEN].
+- No confirmed eugenics program is established by the available chapter notes.
+
+### Falna status warning
+No complete current Bell Falna/status sheet was verified during this update. Current Level, attributes, development abilities, skills, spells, and Familia remain [OPEN] unless established in a later approved status sheet.
