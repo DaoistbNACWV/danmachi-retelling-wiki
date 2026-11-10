@@ -243,7 +243,7 @@ too.
 
 ### Continuity conflicts and open items
 
-- Uranus is Bell's great-grandfather through Zeus lineage. Chapter 74's “grandfather” wording should not rewrite the relationship.
+- Uranus is Bell's great-grandfather through Zeus lineage. Chapter 74 repeatedly uses “grandfather” in narration and dialogue; this is a manuscript/reference mismatch, not merely a casual form of address. Preserve the established great-grandfather relationship in reference text and flag the chapter for author decision.
 - Chapter 69's final identification of restored Ein as Filvis Chalia is not reconciled with later chapters continuing to call the patient Ein. Keep the identity bridge [OPEN].
 - Chapter 71's indirect hostage-goddess reference appears to identify Artemis and conflicts with the Arc 8 exclusion gate. Flag for author review.
 - Ais's demi-spirit conclusion is her mistaken theory, not fact. Lefiya's feelings remain speculation unless confirmed from her own perspective.
