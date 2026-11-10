@@ -113,3 +113,33 @@ Use the DanMachi Wiki for detailed character, ability, Familia,
 terminology, and timeline references. Use Wikipedia for broad background
 only. Clearly distinguish canon, wiki-derived information, retelling
 changes, and original material.
+
+
+## Repository synchronization addendum — 2026-11-10
+
+Current verified position: Arc 8, Chapter 74 (“Test: Permission to Use Arcanum”). Next likely position: Chapter 75, but do not draft until requested. Read Chapters 70–74 before continuing.
+
+### Authoritative source hierarchy
+
+1. Latest explicit author instruction, correction, or decision.
+2. Latest author-supplied chapter/draft for the active scene (not automatic proof of final approval).
+3. Latest user-approved finalized/locked chapter prose.
+4. Latest confirmed master continuity and character/event ledger.
+5. Latest arc-specific checkpoint or approved outline.
+6. Earlier project saves, reference files, and drafts.
+7. Compatible DanMachi canon/reference material.
+8. Assistant suggestions, which remain proposals until accepted.
+
+A draft may control the immediate scene when the user asks to work on that draft, but it does not silently override established finalized continuity elsewhere. Mark unresolved conflicts; never upgrade a draft to finalized status by inference.
+
+### Current safeguards
+
+- Chapters 70 and 72 explicitly identify themselves as drafts.
+- Chapters 73 and 74 have no explicit approval marker verified; treat approval as [UNCONFIRMED].
+- Chapter 69 is a completed draft without verified final lock.
+- Chapter 71's indirect Artemis reference appears to conflict with the Arc 8 character gate; flag for author review.
+- Test One is incomplete: residual corruption remains integrated with Ein's heart and brain; Ein remains suspended. Test Two has not occurred.
+- Bell's Fluctuation/residual-arcanum explanation is a theory, not confirmed fact.
+- Uranus is Bell's great-grandfather. Do not change the relationship based on a casual “grandfather” form of address.
+- The Ein/Filvis identity bridge remains open.
+- Do not infer current Bell Falna values or Familia from old status sheets or public assumptions.
