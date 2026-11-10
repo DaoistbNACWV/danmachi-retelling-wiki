@@ -54,7 +54,7 @@ The hypothesis that Fluctuation is residual arcanum is a theory under investigat
 ## Continuity and approval issues requiring author attention
 
 1. Chapter 71's indirect hostage-goddess reference appears to point to Artemis and conflicts with the Arc 8 exclusion gate.
-2. Uranus is Bell's great-grandfather through Zeus lineage. Chapter 74's “grandfather” wording may be colloquial; preserve the established relationship in references.
+2. Uranus is Bell's great-grandfather through Zeus lineage. Chapter 74 repeatedly uses “grandfather” in narration and dialogue; this conflicts with the established great-grandfather relationship. Flag for author decision; do not silently edit the chapter.
 3. Chapter 69's Filvis Chalia identification and later Ein naming require author clarification.
 4. Chapter 70 and 72 explicitly say draft. Chapters 73–74 have no verified explicit author approval marker. Chapter 69 is a completed draft without verified lock. Chapter 71 approval remains unconfirmed.
 5. No complete current Bell Falna/status sheet or full ledger was verified. Do not infer Level, stats, skills, spells, or Familia.
