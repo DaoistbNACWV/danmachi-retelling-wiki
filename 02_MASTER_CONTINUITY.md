@@ -206,3 +206,46 @@ context available in ChatGPT memory
 
 For any scene-specific work, load the actual chapter or latest arc save
 too.
+
+
+## Current Arc 8 continuity update — verified through Chapter 74 (2026-11-10)
+
+**Latest repository chapter:** Chapter 74 — “Test: Permission to Use Arcanum.”  
+**Next likely writing position:** Chapter 75, pending author direction.  
+**Approval:** Chapter 70 and 72 explicitly marked draft; Chapters 73 and 74 approval unconfirmed; Chapter 69 draft lock unverified. File presence is not approval.
+
+### Chapter 72 — “Purification” [DRAFT]
+
+- Bell investigates Ein's purification and the risks of altering her identity.
+- Bell considers hereditary manipulation/eugenics as an ethical concern, but no organized eugenics program is confirmed.
+- Filvis begins moving against Dionysus; the full plan remains unresolved.
+- Dionysus faces pressure from the Council of the Dark Factions.
+- Black Hand is a separate organization; its leader remains unnamed.
+- Project: Succession is a file designation introduced in connection with Black Hand; its purpose/history remain open.
+
+### Chapter 73 — “Test One” [APPROVAL UNCONFIRMED]
+
+- Bell obtains Ein's permission before proceeding.
+- Test One extracts a substantial portion of corruption.
+- Remaining corruption is integrated with vital structures, especially the heart and brain.
+- Healing magic restores damaged tissue but does not remove remaining corruption.
+- Ein is kept in suspended animation under a maintained formation.
+- Test One is incomplete. Ein is not cured or awake.
+
+### Chapter 74 — “Test: Permission to Use Arcanum” [APPROVAL UNCONFIRMED]
+
+- Bell rejects cloning Ein as a solution.
+- He considers high-tier cleansing magic and controlled arcanum use.
+- Bell theorizes that Fluctuation may be residual arcanum. This remains a hypothesis; Uranus cautions that not all properties necessarily survive.
+- Uranus grants conditional permission for Bell to use arcanum in the purification procedure.
+- Test Two has not occurred; no successful purification is established.
+- Bell demonstrates teleportation subject to conditions shown in the chapter: prior visit/location knowledge and distance-related cost. Do not extrapolate unrestricted use.
+
+### Continuity conflicts and open items
+
+- Uranus is Bell's great-grandfather through Zeus lineage. Chapter 74's “grandfather” wording should not rewrite the relationship.
+- Chapter 69's final identification of restored Ein as Filvis Chalia is not reconciled with later chapters continuing to call the patient Ein. Keep the identity bridge [OPEN].
+- Chapter 71's indirect hostage-goddess reference appears to identify Artemis and conflicts with the Arc 8 exclusion gate. Flag for author review.
+- Ais's demi-spirit conclusion is her mistaken theory, not fact. Lefiya's feelings remain speculation unless confirmed from her own perspective.
+- Golden-haired Renard, Clone Bell's location, Aisha's fate/location, two Filvis identities, Enyo/Dionysus connection, worm-like creatures, Black Hand, Project: Succession, and corruption's full origin remain [OPEN].
+- Current Bell Level, stats, skills, spells, Familia, and Falna state remain [OPEN] until an approved current status sheet is available.
