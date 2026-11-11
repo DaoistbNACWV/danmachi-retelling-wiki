@@ -36,3 +36,10 @@ These are preserved as source archives. They contain some chat/revision artifact
 ## Chapter storage rule
 
 Keep current chapters from Chapter 71 onward in `Manuscript/`. Keep verified historical chapters in their respective arc folders. Do not overwrite source prose or silently resolve chapter-number conflicts.
+
+## Public encyclopedia
+
+- **Website:** https://aaronjamesgarcia681-sys.github.io/DANMACHI-RETELLING-OF-THE-LEGEND-/ (available after the GitHub Pages deployment completes).
+- **Repository wiki sources:** [Wiki/](Wiki/README.md). These Markdown pages are the source of truth for the public site's article content.
+- **GitHub Wiki landing-page draft:** [Wiki/Home.md](Wiki/Home.md). The native GitHub Wiki is a separate feature and must be initialized once from the repository's Wiki tab before its pages can be mirrored there.
+- **Website implementation and deployment instructions:** [docs/README.md](docs/README.md).
