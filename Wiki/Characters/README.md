@@ -7,6 +7,7 @@ This directory is a starting index. It does not imply that every character's com
 ## Profiles
 
 - [Bell Cranel](Bell-Cranel.md) — protagonist; retelling-specific development and confirmed checkpoints.
+- [Ein](Ein.md) — central figure in the Arc 8 purification sequence; awakened in Chapter 75 and identified as Bell's girlfriend in that author-approved chapter.
 
 ## Additional character records
 
@@ -17,7 +18,7 @@ The repository's [Character and World Reference](../../04_CHARACTER_AND_WORLD_RE
 - **Finn** — Loki Familia captain and Level Six veteran in the Arc 3 checkpoint; significantly more experienced than Bell.
 - **Ais** — appears in the Arc 8 Chapter 67 sparring checkpoint with Bell.
 - **Haruhime** — explicitly allowed by the Arc 8 character gate.
-- **Ein** — central to the Arc 8 purification sequence; see Chapters 72–75 and the master continuity file.
+- **Ein** — see the [individual profile](Ein.md); Chapter 75 explicitly identifies her as Bell's girlfriend after her awakening. Her exact identity relationship with Filvis Chalia remains unresolved in the current indexed material.
 - **Uranus** — grants Bell authorization to use Arcanum for the purification procedure in Chapter 74.
 
 These are directory notes, not complete profiles. Create individual pages only after consulting the relevant source chapters and current character reference. Avoid copying unsupported status values from older drafts.
