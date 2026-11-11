@@ -11,6 +11,7 @@ Bell Cranel is the central protagonist of *DanMachi: Retelling of the Legend*. T
 ## Retelling foundation
 
 - **Starting age:** 10 years old in the retelling foundation. [RETELLING]
+- **Age during relevant later events:** 14 years old. This is an author-locked correction; do not carry the starting age of 10 into those later scenes. [LOCKED]
 - **Early premise:** The Land of Dreams and a mysterious Being/assistant are part of the project's original setup. The Being cannot answer every question. [NEW]
 - **Development:** Bell's mental growth through dream-time is part of the early premise. [NEW]
 - **Prototype wand:** An early wand made from Forest of Wishe wood is recorded with estimated performance changes of +12% output, -5% mental consumption, and +40% effective range. These are project-specific estimates, not DanMachi canon. [NEW]
@@ -35,7 +36,7 @@ The Arc 8 Chapter 65 checkpoint records Bell independently entering the Dungeon,
 
 Chapter 67 records a spar with Ais. Bell uses Crimson Order, a rapier originally forged as a gift for Astrea. The spar includes Ais's Waldstein swordsmanship, Ariel, the black wind, and Bell's use of Dispel.
 
-Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscript index. Bell completes Ein's purification after Uranus's authorization, confirms that the observed biological structures remain intact, deactivates suspended animation, and Ein awakens.
+Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscript index. Bell completes Ein's purification after Uranus's authorization, confirms that the observed biological structures remain intact, deactivates suspended animation, and Ein awakens. The chapter explicitly refers to Ein as Bell's girlfriend; see the [Ein profile](Ein.md).
 
 ## Falna and current status
 
@@ -56,5 +57,6 @@ Do not import an old status sheet as current without checking its chapter date a
 
 - [01_PROJECT_INSTRUCTIONS.md](../../01_PROJECT_INSTRUCTIONS.md) — characterization and status rules.
 - [02_MASTER_CONTINUITY.md](../../02_MASTER_CONTINUITY.md) — supported premise and arc checkpoints.
+- [00_MASTER_COMMAND_ARC8_CRESCENDO_v2.1_CROSS_REFERENCE.md](../../00_MASTER_COMMAND_ARC8_CRESCENDO_v2.1_CROSS_REFERENCE.md) — locked age correction and Arc 8 rules.
 - [03_ARC_CHECKPOINTS.md](../../03_ARC_CHECKPOINTS.md) — chapter checkpoint index.
 - [Manuscript: Chapter 75 — By My Words](../../Manuscript/Chapter%20075%20-%20By%20My%20Words.md)
