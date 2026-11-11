@@ -941,3 +941,13 @@ When the author corrects this file:
 - Uranus's authorization in Chapter Seventy-Four grants permission for Bell to use Arcanum through this method for Ein's purification.
 - Chapter Seventy-Five and subsequent scenes must preserve this mechanism. Do not invent unconfirmed sub-processes, costs, limits, or claim that the chant/inscriptions themselves are the filtering mechanism unless the author confirms it.
 - This correction supersedes any wording in an assistant-generated Chapter Seventy-Five draft that implies direct, unmediated invocation of Arcanum.
+
+
+## Arc 8 — Chapter Seventy-Five [CANON — AUTHOR-APPROVED]
+
+- **Manuscript:** `Manuscript/Chapter 075 - By My Words.md`
+- **Status:** [CANON] [AUTHOR-APPROVED]
+- Bell's Dungeon-corruption theory is a preliminary evidence-based deduction, not a complete explanation. The mechanism, scope, and limitations remain [OPEN].
+- Bell successfully purifies Ein following Uranus's authorization; he verifies the corruption readings are gone before deactivating suspended animation. Ein awakens and reunites with Bell.
+- Preserve Ein's recovery nuance: the immediate danger has passed, but the chapter allows for further recovery and does not claim every possible consequence has vanished.
+- **[LOCKED — AUTHOR CONFIRMED]** Bell employs Arcanum by filtering the Fluctuation. The Chapter 75 prose does not explicitly name the filtering step; do not retroactively claim the ritual's chant/inscriptions constitute that mechanism without author confirmation.
