@@ -138,3 +138,14 @@ Before drafting any arc other than Arc 3 or the Arc 7/8 checkpoint
 material above, retrieve the actual arc save and latest chapter from the
 Library or Project. The summaries in this file are not a substitute for
 the finalized prose.
+
+
+## Arc 8 Chapter 75 — “By My Words” [CANON — AUTHOR-APPROVED]
+
+- Bell examines Ein's remaining corruption and concludes that the Dungeon can corrupt individuals who die within its territory. He infers that sustaining even one corrupted existence requires substantial energy; the mechanism and full limitations remain unresolved.
+- Bell performs the final purification after Uranus's authorization. The corruption readings disappear while the monitored biological structures remain intact.
+- Bell deactivates suspended animation only after confirming the successful purification. Ein awakens, regains bodily awareness and movement, and experiences freedom from the former restraint.
+- Bell explains the events and his efforts to Ein. They reaffirm their established relationship and share an intimate reunion.
+- The Sumerian incantation remains untranslated. Bell's hair temporarily turns pale grey during the ritual, then returns to white.
+- Continuity lock: Bell employs Arcanum by filtering the Fluctuation [AUTHOR-CONFIRMED]. The chapter prose does not explicitly name this filtering step; do not invent a role for the inscriptions or chant beyond what the manuscript states.
+- Next-story handoff: Ein is awake and no longer under suspended animation; immediate corruption danger is resolved. Further physical recovery and investigation into the Dungeon's corruption ability remain open.
