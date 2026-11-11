@@ -38,15 +38,17 @@ Repository records currently identify these chapter files/checkpoints:
 - **Chapter 67 — “My Hero”**: Bell spars with Ais using Crimson Order; the exchange includes Waldstein swordsmanship, Ariel, the black wind, and Dispel.
 - **Chapter 69 — “The Trap”**: A Bell and Ein/Filvis Chalia narrative. Its own index record warns that the encounter is not automatically binding continuity for later chapters without author confirmation.
 - **Chapter 70 — “New Girlfriend”**: Stored in `Manuscript/`; it is an existing exception to the later-chapter storage rule.
-- **Chapter 71**: A historical duplicate was recorded in both the old Arc 8 folder and `Manuscript/`; the migration ledger notes the copies had identical blob content at the time of that audit.
+- **Chapter 71 — “The Loki Familia”**: The chapter currently exists in both `Manuscript/Chapter 71: the Loki familia` and `Arc 8 - Crescendo/Chapter 71 - The Loki Familia.md`. The two paths currently resolve to the same Git blob SHA (`21c8f90ce9791199f0a0391b4c01aa887a26e6d4`). Treat the `Manuscript/` path as the working location under the standing Chapter 71-onward rule; preserve the Arc 8 copy as historical material unless the author explicitly requests otherwise.
 - **Chapter 72 — “Purification”**: Draft record. Its new details are provisional pending author review.
 - **Chapter 73 — “Test One”**: Bell begins a controlled extraction procedure; the remaining corruption is found dangerously integrated with vital structures.
 - **Chapter 74 — “Test: Permission to Use Arcanum”**: Bell obtains Uranus's authorization for the purification procedure. The next stage is preparation for Test Two; success is not yet established by this chapter.
-- **Chapter 75 — “By My Words”**: Marked CANON / AUTHOR-APPROVED in the manuscript index. Bell completes Ein's purification and she awakens. The exact mechanism and limits of the Dungeon's corruption remain open.
+- **Chapter 75 — “By My Words”**: Marked CANON / AUTHOR-APPROVED in the manuscript index. Bell completes Ein's purification and she awakens. The chapter explicitly identifies Ein as Bell's girlfriend. The exact mechanism and limits of the Dungeon's corruption remain open.
 
 This list is intentionally not a complete chapter inventory. Check [05_MANUSCRIPT_INDEX_AND_GAPS.md](../05_MANUSCRIPT_INDEX_AND_GAPS.md) before treating any sequence as complete.
 
 ## Chronology cautions
+
+- Bell begins the retelling at age 10, but the active Arc 8 master command locks his age at **14 during the relevant later events**. Do not use the starting age as his later age.
 
 - Do not infer calendar dates or elapsed time where the source does not state them.
 - Do not auto-renumber duplicate or missing chapter numbers.
