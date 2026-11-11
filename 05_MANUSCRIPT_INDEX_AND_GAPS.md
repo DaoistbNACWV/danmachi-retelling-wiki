@@ -90,9 +90,13 @@ overwrite a user-approved finalized chapter with a draft.
 - `Manuscript/Chapter 074 - Test - Permission to Use Arcanum.md` — Chapter Seventy-Four, "Test: Permission to Use Arcanum." Bell rejects cloning Ein as a solution, weighs high-tier cleansing magic against controlled arcanum use, theorizes that Fluctuation is residual arcanum, and obtains Uranus's authorization to use arcanum for the purification procedure. The next planned stage is preparation for Test Two; success is not yet established.
 
 
-## Author correction for the next Arc 8 chapter
+## Arc 8 — Chapter Seventy-Five status [CANON — AUTHOR-APPROVED]
 
-- Chapter Seventy-Five — "By My Words" is being developed as a Bell POV chapter and is **not yet recorded here as an approved/finalized manuscript**.
-- **[AUTHOR-CONFIRMED MECHANIC]** Bell employs Arcanum by filtering the Fluctuation. Chapter Seventy-Five must preserve this distinction; Uranus's authorization is permission for this use of Arcanum.
-- Do not treat the previous draft's phrasing that implies direct invocation of Arcanum as authoritative. Revise the scene to show the Fluctuation-filtering mechanism without inventing technical details the author has not supplied.
-- The proposed Dungeon-corruption deduction, purification outcome, Ein's awakening, and romantic scene remain subject to author approval as Chapter Seventy-Five draft content.
+- `Manuscript/Chapter 075 - By My Words.md` — Chapter Seventy-Five, “By My Words.” **[CANON] [AUTHOR-APPROVED]** Full chapter manuscript added from the author's uploaded PDF.
+- Bell's investigation leads him to conclude that the Dungeon can corrupt individuals who die within its territory and that maintaining even one corrupted existence requires substantial energy. This is a preliminary deduction; the mechanism, scope, and limitations remain unresolved.
+- Bell completes Ein's purification after Uranus's authorization. The corruption readings disappear, the observed biological structures remain intact, suspended animation is deactivated, and Ein awakens.
+- Ein experiences freedom from the former restraint, regains movement and bodily awareness, and shares an intimate reunion with Bell. Their established relationship is preserved.
+- The untranslated Sumerian incantation and temporary pale-grey hair during the ritual are retained.
+- **[AUTHOR-CONFIRMED MECHANIC]** Bell accesses/employs Arcanum by filtering the Fluctuation. Preserve the distinction between Fluctuation and raw Arcanum. The uploaded Chapter 75 prose does not explicitly name this filtering step; do not invent that the inscriptions or chant are the filtering mechanism. If the author wants the mechanic stated explicitly in the chapter, revise the manuscript in a later approved edit.
+- The uploaded PDF included editorial preamble and a post-chapter continuity-check/approval footer. Those materials were excluded from the standalone manuscript file; the chapter prose was retained, with the premature first “End of Chapter Seventy-Five” marker removed because Section VII follows it. The final end marker remains.
+
