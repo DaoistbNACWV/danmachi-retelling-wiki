@@ -88,3 +88,11 @@ overwrite a user-approved finalized chapter with a draft.
 - `Manuscript/Chapter 072 - Purification.md` — Chapter Seventy-Two, "Purification." Draft chapter: Bell begins investigating Ein's purification and the ethical risks of eugenics; Filvis secretly moves against Dionysus; Dionysus faces pressure from the Council of the Dark Factions; and the Black Hand is introduced with its leader deliberately unnamed. Project: Succession is foreshadowed. Treat the chapter's new details as provisional pending author review.
 - `Manuscript/Chapter 073 - Test One.md` — Chapter Seventy-Three, "Test One." Bell begins the first controlled procedure to extract Ein's corruption, successfully removing a substantial portion while discovering that the remaining concentrations are dangerously integrated with vital structures.
 - `Manuscript/Chapter 074 - Test - Permission to Use Arcanum.md` — Chapter Seventy-Four, "Test: Permission to Use Arcanum." Bell rejects cloning Ein as a solution, weighs high-tier cleansing magic against controlled arcanum use, theorizes that Fluctuation is residual arcanum, and obtains Uranus's authorization to use arcanum for the purification procedure. The next planned stage is preparation for Test Two; success is not yet established.
+
+
+## Author correction for the next Arc 8 chapter
+
+- Chapter Seventy-Five — "By My Words" is being developed as a Bell POV chapter and is **not yet recorded here as an approved/finalized manuscript**.
+- **[AUTHOR-CONFIRMED MECHANIC]** Bell employs Arcanum by filtering the Fluctuation. Chapter Seventy-Five must preserve this distinction; Uranus's authorization is permission for this use of Arcanum.
+- Do not treat the previous draft's phrasing that implies direct invocation of Arcanum as authoritative. Revise the scene to show the Fluctuation-filtering mechanism without inventing technical details the author has not supplied.
+- The proposed Dungeon-corruption deduction, purification outcome, Ein's awakening, and romantic scene remain subject to author approval as Chapter Seventy-Five draft content.
