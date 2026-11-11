@@ -125,3 +125,14 @@ of Bell's later abilities.
 - Fluctuation is the medium Bell filters to access and employ Arcanum; do not collapse the distinction by describing Fluctuation as simply identical to raw Arcanum.
 - Uranus grants Bell authorization to use Arcanum for Ein's purification in Chapter Seventy-Four. The permission is applied through Bell's Fluctuation-filtering method.
 - Preserve this distinction in Chapter Seventy-Five and all later references. Do not invent further mechanics, costs, limitations, or a precise role for the ritual's inscriptions and Sumerian chant without author confirmation.
+
+
+## Arc 8 — Chapter Seventy-Five: “By My Words” [CANON — AUTHOR-APPROVED]
+
+- Bell successfully completes Ein's purification after receiving Uranus's authorization in Chapter Seventy-Four.
+- The procedure removes the remaining corruption while preserving Ein's biological structures as observed by Bell's instruments. He deactivates suspended animation only after confirming the readings.
+- Ein awakens, experiences the absence of the former restraint, and regains independent movement and bodily awareness. Some recovery is still expected; the chapter does not claim that every possible consequence has been erased.
+- Bell and Ein reaffirm their established relationship and share an intimate reunion.
+- Bell deduces that the Dungeon can corrupt individuals who die within its territory and that sustaining a corrupted existence demands substantial energy. This remains Bell's preliminary conclusion; the exact mechanism, scope, and limitations are [OPEN].
+- **[AUTHOR-CONFIRMED MECHANIC]** Bell accesses/employs Arcanum by filtering the Fluctuation. Do not conflate Fluctuation with raw Arcanum. The Chapter 75 manuscript does not explicitly name the filtering step or establish that the ritual inscriptions/chant perform it.
+- The Sumerian incantation is presented untranslated. Bell's hair temporarily turns pale grey during the ritual and returns to white afterward.
