@@ -3,7 +3,7 @@
 > **The archive of a different legend.**  
 > A navigable encyclopedia for the project's alternate timeline, characters, events, abilities, worldbuilding, and editorial continuity.
 
-**Wiki status:** Initial framework · **Last initialized:** 2026-11-11  
+**Wiki status:** Active · **Last initialized:** 2026-11-11 · **Last audited:** 2026-11-11  
 **Primary repository:** [DANMACHI: RETELLING OF THE LEGEND](../README.md)
 
 ---
@@ -19,7 +19,7 @@ It is **not** a replacement for the manuscript, the master continuity files, or 
 ### Story
 
 - [Arc and chapter index](Timeline-and-Arcs.md) — the eight named arcs, known checkpoints, and migration gaps.
-- [Character directory](Characters/README.md) — character profiles and the rules for recording them.
+- [Character directory](Characters/README.md) — character profiles and the rules for recording them, including [Bell Cranel](Characters/Bell-Cranel.md) and [Ein](Characters/Ein.md).
 - [World, Familias, and locations](World-and-Factions.md) — setting references and organization notes.
 - [Falna, magic, skills, and equipment](Systems-and-Abilities.md) — power-system and item references.
 
