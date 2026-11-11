@@ -6,7 +6,7 @@ This page makes the limits of the current archive visible. It should be updated 
 
 ## Current state
 
-**Wiki:** Initial framework created 2026-11-11.  
+**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-11.  
 **Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript.  
 **Continuity:** Several supported checkpoints exist, but important character, chronology, and power-system records remain incomplete.
 
@@ -15,7 +15,8 @@ This page makes the limits of the current archive visible. It should be updated 
 - The two original source PDFs are preserved at the repository root: Chapters 1–40 and Chapters 41–61 as described by the migration cross-reference.
 - Chapters 1–61 have not yet all been split into individual Markdown files.
 - Arc 8 has a partial set of individual chapter files.
-- New chapters from Chapter 71 onward are stored in `Manuscript/`.
+- The active Chapter 71-onward working location is `Manuscript/`; Chapter 70 remains an existing exception.
+- The current `Manuscript/` directory contains Chapters 70, 71, 72, 73, 74, and 75. No Chapter 76 file was found in the checked root, `Manuscript/`, or `Arc 8 - Crescendo/` listings as of this audit; confirm whether a later draft exists elsewhere before treating this as a story gap.
 - Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscript index.
 - Chapter 72 is identified as a draft whose new details remain provisional pending author review.
 - Chapter 73 and Chapter 74 are indexed in the manuscript gap document; consult their full chapter text before treating all new details as approved canon.
@@ -32,8 +33,8 @@ This page makes the limits of the current archive visible. It should be updated 
 | Arc 6 / Arc 7 boundary | Partial evidence; verify against source. |
 | Chapters 62–64 | Require verification against source material. |
 | Arc 8 chapter sequence | Reconcile missing chapters and historical duplicate records against current files. |
-| Chapter 70 | Existing exception stored in `Manuscript/`. |
-| Chapter 71 | Historical duplicate was recorded in two folders; preserve history and verify current state before moving files. |
+| Chapter 70 | Existing exception stored in `Manuscript/`; do not treat it as evidence that the Chapter 71-onward rule changed. |
+| Chapter 71 | A duplicate is still present at `Arc 8 - Crescendo/Chapter 71 - The Loki Familia.md` and `Manuscript/Chapter 71: the Loki familia`. Both currently have the same Git blob SHA `21c8f90ce9791199f0a0391b4c01aa887a26e6d4`. Treat the Manuscript path as the working location; preserve the Arc 8 copy as historical material. |
 
 ## Important continuity unknowns
 
@@ -45,6 +46,8 @@ This page makes the limits of the current archive visible. It should be updated 
 - Exact War Game terms, deadline, registration status, and outcome remain open in that checkpoint.
 - The Dungeon corruption theory recorded in Chapter 75 is preliminary; its mechanism, scope, and limitations remain unresolved.
 - The detailed mechanics, costs, and limits of Arcanum use and the resurrection incantation must not be invented.
+- The author-confirmed Fluctuation-filtering mechanic is established in the master continuity. Chapters 74–75 do not fully explain how the filtering interfaces with the direct Arcanum application described for Test Two; preserve the confirmed mechanic but leave the operational sequence [OPEN]. Do not assign the ritual inscriptions or Sumerian chant the filtering role without author confirmation.
+- The exact relationship between Ein and Filvis Chalia / the two Filvis identities remains [OPEN]; Chapter 72's identity discussion is provisional, while Chapter 75's identification of Ein as Bell's girlfriend is author-approved.
 
 ## Next safe wiki expansion
 
