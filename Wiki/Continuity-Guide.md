@@ -38,6 +38,10 @@ Use these labels consistently in articles and tables.
 
 A label describes the **status of a claim**, not how interesting or likely it seems.
 
+### Separate manuscript-status markers
+
+Manuscript approval is a separate dimension from continuity evidence. Where applicable, preserve source markers such as `[DRAFT]`, `[DRAFT COMPLETE]`, and `[AUTHOR-APPROVED]` (or an explicit finalized/locked designation). A completed draft is not automatically author-approved, and an author-approved chapter does not make every theory spoken by a character an objective fact. Do not collapse these manuscript markers into the continuity labels above.
+
 ## 3. Article rules
 
 - Cite the exact repository file and, where practical, chapter/section that supports each important claim.
@@ -84,3 +88,4 @@ This gate is Arc 8-specific. Do not automatically apply it to other arcs.
 - [Manuscript index and gaps](../05_MANUSCRIPT_INDEX_AND_GAPS.md)
 - [Arc 1–8 migration status](../ARC_1_TO_8_MIGRATION_STATUS.md)
 - [Master Writing System — Swiss Knife](../MASTER_WRITING_SYSTEM_Swiss_Knife_v1.0.md)
+- [Arc 8 master command and cross-reference](../00_MASTER_COMMAND_ARC8_CRESCENDO_v2.1_CROSS_REFERENCE.md) — includes the active Arc 8 character gate and later-age correction.
