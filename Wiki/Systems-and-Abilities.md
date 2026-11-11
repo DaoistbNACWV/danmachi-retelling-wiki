@@ -48,7 +48,7 @@ Preserve the distinction:
 - **Fluctuation** is the medium Bell filters.
 - **Arcanum** is what he accesses/employs through that filtering.
 
-Do not describe Fluctuation as simply identical to raw Arcanum. Chapter 74 records Uranus's authorization for Bell to use Arcanum in the purification procedure. The precise mechanics, costs, limits, and role of the ritual inscriptions or Sumerian chant remain [OPEN] unless the author establishes them.
+Do not describe Fluctuation as simply identical to raw Arcanum. Chapter 74 records Bell's theory that Fluctuation is a residual manifestation of Arcanum, then frames Test Two as a controlled, direct Arcanum purification requiring divine authorization. The author-confirmed filtering mechanic must be preserved, but Chapters 74–75 do not fully narrate how that filtering interfaces with the planned direct application. The precise operational sequence, costs, limits, and role of the ritual inscriptions or Sumerian chant remain [OPEN]. Do not claim that the inscriptions or chant are the filtering mechanism.
 
 ### Resurrection incantation
 
