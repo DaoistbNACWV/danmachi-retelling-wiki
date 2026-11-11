@@ -206,3 +206,12 @@ context available in ChatGPT memory
 
 For any scene-specific work, load the actual chapter or latest arc save
 too.
+
+
+## Arc 8 — Ein purification: Fluctuation / Arcanum mechanism
+
+- **[AUTHOR-CONFIRMED]** Bell employs Arcanum by filtering the Fluctuation. The method is not to treat Fluctuation as identical to raw, unfiltered Arcanum; Bell filters the Fluctuation to access and use Arcanum.
+- Uranus's authorization in Chapter Seventy-Four permits Bell to use Arcanum for Ein's purification through this method.
+- When drafting or revising the purification in Chapter Seventy-Five and later chapters, describe the mechanism accurately: Bell filters the Fluctuation to employ Arcanum. Do not describe him as simply invoking Arcanum directly or bypassing the Fluctuation.
+- Do not invent additional technical stages, costs, limits, or a more detailed relationship between the filtering process and the ritual inscriptions/chant unless the manuscript or author establishes them.
+- The purification's success and all subsequent events remain draft/provisional until the author approves Chapter Seventy-Five.
