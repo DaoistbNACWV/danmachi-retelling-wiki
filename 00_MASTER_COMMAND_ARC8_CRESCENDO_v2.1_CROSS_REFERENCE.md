@@ -932,3 +932,12 @@ When the author corrects this file:
 7. Do not change chapter approval status without explicit author confirmation.
 
 **END OF SOURCE CROSS-REFERENCE APPENDIX**
+
+
+## Arc 8 — Fluctuation-filtered Arcanum (author-confirmed correction)
+
+- [LOCKED — AUTHOR CONFIRMED] Bell employs Arcanum by filtering the Fluctuation.
+- Fluctuation is the medium Bell filters to access/use Arcanum; do not conflate it with raw Arcanum or describe Bell as simply invoking Arcanum directly.
+- Uranus's authorization in Chapter Seventy-Four grants permission for Bell to use Arcanum through this method for Ein's purification.
+- Chapter Seventy-Five and subsequent scenes must preserve this mechanism. Do not invent unconfirmed sub-processes, costs, limits, or claim that the chant/inscriptions themselves are the filtering mechanism unless the author confirms it.
+- This correction supersedes any wording in an assistant-generated Chapter Seventy-Five draft that implies direct, unmediated invocation of Arcanum.
