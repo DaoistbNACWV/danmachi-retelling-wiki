@@ -2,6 +2,10 @@
 
 This repository is the working source-control archive for the project.
 
+## Project Wiki
+
+The [Project Wiki](Wiki/README.md) is the navigable encyclopedia for characters, arcs, timeline checkpoints, abilities, worldbuilding, factions, and continuity standards. It is a derived reference layer; the manuscript and approved master continuity files remain authoritative.
+
 ## Repository guides
 
 - `01_PROJECT_INSTRUCTIONS.md` — project operating rules.
