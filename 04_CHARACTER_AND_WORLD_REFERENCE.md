@@ -117,3 +117,11 @@ of Bell's later abilities.
 -   Exact War Game terms, deadline, registration status, and outcome.
 -   Exact Arc 4+ Familia name and current Falna values unless loaded
     from later source files.
+
+
+## Fluctuation and Arcanum — Bell's purification method
+
+- **[AUTHOR-CONFIRMED]** Bell uses Arcanum by filtering the Fluctuation.
+- Fluctuation is the medium Bell filters to access and employ Arcanum; do not collapse the distinction by describing Fluctuation as simply identical to raw Arcanum.
+- Uranus grants Bell authorization to use Arcanum for Ein's purification in Chapter Seventy-Four. The permission is applied through Bell's Fluctuation-filtering method.
+- Preserve this distinction in Chapter Seventy-Five and all later references. Do not invent further mechanics, costs, limitations, or a precise role for the ritual's inscriptions and Sumerian chant without author confirmation.
