@@ -1,6 +1,6 @@
 # Arc 1–8 Migration Status
 
-Last audited: 2026-11-09
+Last audited: 2026-11-13
 Repository: https://github.com/aaronjamesgarcia681-sys/DANMACHI-RETELLING-OF-THE-LEGEND-
 Branch: main
 
@@ -30,7 +30,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 | 5 | Spectre | Arc 5 title is confirmed in a later handoff, but its detailed save was not found in the current source set. | Continuity gap; do not reconstruct from guesswork. |
 | 6 | Point of Divergence | Chapter 39 is explicitly marked with the Arc 6 label in the first PDF; Chapter 40 follows as “The Camp.” | Partial boundary evidence; verify transition and full arc contents. |
 | 7 | Rolling the Dice | Chapters 41–61 are in the second PDF; Chapter 46 “Arson” is the documented Arc 7 checkpoint. | Manuscript source found; chapter files not yet migrated. |
-| 8 | Crescendo | Existing repository includes Chapters 65, 66, 67, 68, 69, and 71 in `Arc 8 - Crescendo/`; Chapter 70 is in `Manuscript/`. | Partially present; reconcile Chapter 70 and confirm missing chapters/gaps. |
+| 8 | Crescendo | `Arc 8 - Crescendo/` contains Chapters 65–69 and 71; `Manuscript/` contains Chapters 70 and 71–76, with Chapter 76 saved as a draft. | Partially present; verify missing chapters/gaps and resolve the Chapter 70/71 storage duplication history. |
 
 ## Known editorial issues to preserve during migration
 
@@ -40,6 +40,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 - Chapters 1–61 are represented by the two Library PDFs, but their existence does not prove every arc-specific finalized version or every later chapter is present.
 - Arc 8 currently has a Chapter 71 duplicate in `Manuscript/` and `Arc 8 - Crescendo/`; their Git blob SHA was identical at the time of audit.
 - Chapter 70 “New Girlfriend” currently resides in `Manuscript/`, consistent with the standing rule that new chapters from Chapter 71 onward are saved in `Manuscript/` (Chapter 70 is an existing exception).
+- Chapter 76 “Relief” was added to `Manuscript/` on 2026-11-13 as a **DRAFT**. It must not be treated as finalized canon. Its continuity notes flag the two-Filvis identity/record issue and the proposed Guild registration ruling for author review.
 
 ## Safe migration procedure
 
