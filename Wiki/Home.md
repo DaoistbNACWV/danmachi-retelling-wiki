@@ -22,7 +22,7 @@ The wiki is a **derived reference**, not a source of canon. The latest explicit 
 
 ## Public website
 
-Once GitHub Pages is enabled, the website will be available at:
+The GitHub Pages build and deployment completed successfully on 2026-11-13. The public website is available at:
 
 https://daoistbnacwv.github.io/danmachi-retelling-wiki/
 
