@@ -110,3 +110,14 @@ overwrite a user-approved finalized chapter with a draft.
 - The Guild scene proposes an initial Familia registration rather than a Conversion because the examination finds no Falna. Royman Mardeel intervenes and authorizes the registration.
 - **Continuity review required before finalization:** Chapter Seventy's notes distinguish Bell's Filvis/Ein from the separate Filvis associated with Dionysus. The relationship between Ein's public identity, the Guild's Filvis Challia record, and Dionysus's separate Filvis remains unresolved in this draft. The legal basis for registration without Dionysus's approval and the Guild's examination procedure also remain to be verified.
 - This draft is not yet author-approved canon. Do not use its proposed Guild ruling or any other draft-only detail as established continuity until the author finalizes it.
+
+
+## Arc 8 — Chapter Seventy-Seven status [DRAFT — NOT FINALIZED]
+
+- `Manuscript/Chapter 077 - The Opposite of Despair.md` — Chapter Seventy-Seven, “The Opposite of Despair.” **[DRAFT]** Added on 2026-11-13; the Git commit message explicitly identifies it as a draft. The chapter file has no top-of-file draft banner, so retain the commit provenance and this index entry when recording its status.
+- The draft follows the Chapter 76 “Relief” draft. It opens with Bell, Ein, and Hestia returning to the Hearth Manor after the proposed Guild registration, then depicts Hestia bestowing Ein's first Falna.
+- **Draft-only status details:** Level One; three skills — Felicitas, Sancta Natura, and Lux Aeterna; three spells — Lux Thyrsos, Lux Grail, and Eunoia. The draft does not grant Development Abilities or equipment. Elysium remains Bell's provisional theory, not a fourth skill or unlocked domain.
+- **Demonstrations in the draft:** the three skills are tested; Lux Grail and Lux Thyrsos receive initial successful castings; Eunoia achieves only an incomplete manifestation with rapidly increasing Mind consumption and successful voluntary dismissal. Sol Invictus, Aegis of Heaven, and Symphonia are not mastered.
+- The chapter distinguishes Ein (private name; public identity “Filvis” in the preceding draft) from the separate Filvis associated with Dionysus. Their connection and identity-record relationship remain unresolved; do not merge them.
+- **Dependency / approval caution:** Chapter 77 relies on Chapter 76's proposed Guild registration and Hestia Familia membership. Both chapters remain drafts; their new events, status details, and abilities must not be promoted to approved continuity before author approval.
+- The production note reports approximately 7,500–8,000 words. A word-token count of the current narrative body is approximately 10,014 (excluding the production note); verify the intended count during draft review.

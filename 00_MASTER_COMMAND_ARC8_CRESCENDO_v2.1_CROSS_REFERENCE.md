@@ -389,12 +389,16 @@ Do not flatten Karina into a generic opponent or erase the emotional aftermath.
 - This is an original AU development, not canon.
 - Do not invent events after Chapter 69 or claim the user explicitly locked the draft unless the user confirms it.
 
-## 4.12 Current Arc 8 checkpoint
+## 4.12 Current Arc 8 manuscript checkpoint
 
-**Latest retrieved chapter:** Chapter 69 — “The Trap.”  
-**Next likely writing position:** Chapter 70, unless the user supplies a correction or different chapter order.  
-**Arc ending:** `[OPEN — NOT CONFIRMED]`.  
-**Chapter 69 approval status:** `[DRAFT COMPLETE — USER LOCK NOT VERIFIED]`.
+**Latest manuscript present:** Chapter 77 — “The Opposite of Despair” — `[DRAFT]`, added to `Manuscript/` on 2026-11-13.  
+**Latest author-approved chapter:** Chapter 75 — “By My Words” — `[CANON — AUTHOR-APPROVED]`.  
+**Chapter 76:** “Relief” — `[DRAFT]`; the Guild registration and public-identity details remain unapproved.  
+**Chapter 77:** “The Opposite of Despair” — `[DRAFT]`; it continues the Chapter 76 draft and its new Falna/ability details remain draft-only. The chapter file has no top-of-file draft banner; its Git commit message identifies it as a draft.  
+**Next likely writing position:** Chapter 78 only after the author decides whether Chapters 76–77 are finalized or revised.  
+**Arc ending:** `[OPEN — NOT CONFIRMED]`.
+
+The Chapter 75 approval remains the latest approved Arc 8 manuscript checkpoint. Do not promote Chapter 76 or 77 material into locked continuity merely because the files are present on `main`.
 
 ---
 
@@ -414,6 +418,10 @@ Keep these open until the actual manuscript or an explicit user correction resol
 10. Filvis's recovery, current condition, future agency, and consequences of the Rite of Three Severances remain open beyond Chapter 69's established outcome.
 11. Lord Enyo's broader plan and the consequences of its failure remain open unless later material establishes them.
 12. Arc 8's final conflict, resolution, ending chapter, and transition to Arc 9 are not confirmed.
+13. Chapter 76's proposed Guild registration of Ein requires author review: verify the Guild's examination procedure, the legal basis for registering her without Dionysus's approval, and Royman's intervention. The draft also flags the spelling/role of Rose Fannett for verification.
+14. The relationship between Ein (who uses “Filvis” as a public identity in the Chapter 76 draft) and the separate Filvis associated with Dionysus remains [OPEN]. Do not merge their identities, records, Falna histories, or allegiances.
+15. Chapter 77's Hestia blessing, Level One status, three skills, three spells, and initial manifestations are draft-only. Its exact numerical Falna attributes are not supplied; Eunoia's cognition, duration, range, and full costs remain unresolved.
+16. Chapter 77's Elysium is only a theoretical designation. No fourth skill, unlocked domain, Development Ability, or proposed weapon is established by the draft.
 
 Do not resolve an open thread merely to make a chapter feel complete. Do not create a mystery payoff without the necessary setup.
 

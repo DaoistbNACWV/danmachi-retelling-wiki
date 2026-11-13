@@ -6,8 +6,9 @@ This page makes the limits of the current archive visible. It should be updated 
 
 ## Current state
 
-**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-11.  
-**Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript.  
+**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-13.  
+**Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` currently contains Chapters 70–77, including the working Chapter 71 copy. Chapters 72, 76, and 77 are drafts. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
+**Latest approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76 and 77 are later drafts, not finalized canon.  
 **Continuity:** Several supported checkpoints exist, but important character, chronology, and power-system records remain incomplete.
 
 ## Confirmed repository facts
@@ -16,10 +17,12 @@ This page makes the limits of the current archive visible. It should be updated 
 - Chapters 1–61 have not yet all been split into individual Markdown files.
 - Arc 8 has a partial set of individual chapter files.
 - The active Chapter 71-onward working location is `Manuscript/`; Chapter 70 remains an existing exception.
-- The current `Manuscript/` directory contains Chapters 70, 71, 72, 73, 74, and 75. No Chapter 76 file was found in the checked root, `Manuscript/`, or `Arc 8 - Crescendo/` listings as of this audit; confirm whether a later draft exists elsewhere before treating this as a story gap.
-- Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscript index.
+- `Manuscript/` contains Chapter 070, the working Chapter 71 copy, and Chapters 072–077. The historical Arc 8 Chapter 71 copy is retained separately; both Chapter 71 paths currently have the same Git blob SHA.
+- Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscript index and remains the latest approved Arc 8 chapter.
 - Chapter 72 is identified as a draft whose new details remain provisional pending author review.
-- Chapter 73 and Chapter 74 are indexed in the manuscript gap document; consult their full chapter text before treating all new details as approved canon.
+- Chapter 73 and Chapter 74 are present, but their files do not carry an explicit approval marker. Their presence alone does not establish that every new detail is approved canon.
+- Chapter 76, “Relief,” is a **DRAFT**. It proposes Ein's public use of the name Filvis and an initial Hestia Familia registration; its Guild/legal and two-Filvis issues remain open.
+- Chapter 77, “The Opposite of Despair,” is a **DRAFT** by its 2026-11-13 commit message. It continues Chapter 76 and depicts Ein's first Hestia blessing, Level One, three skills, and three spells. These are draft-only details. The chapter file lacks a top-of-file draft banner.
 
 ## Open migration issues
 
@@ -48,6 +51,9 @@ This page makes the limits of the current archive visible. It should be updated 
 - The detailed mechanics, costs, and limits of Arcanum use and the resurrection incantation must not be invented.
 - The author-confirmed Fluctuation-filtering mechanic is established in the master continuity. Chapters 74–75 do not fully explain how the filtering interfaces with the direct Arcanum application described for Test Two; preserve the confirmed mechanic but leave the operational sequence [OPEN]. Do not assign the ritual inscriptions or Sumerian chant the filtering role without author confirmation.
 - The exact relationship between Ein and Filvis Chalia / the two Filvis identities remains [OPEN]; Chapter 72's identity discussion is provisional, while Chapter 75's identification of Ein as Bell's girlfriend is author-approved.
+- Chapter 76's Guild registration proposal remains [OPEN]: verify the Guild's examination procedure, the authority for registration without Dionysus's approval, and Royman's intervention. The draft also flags the spelling and role of Rose Fannett for verification.
+- Chapter 77's Hestia blessing, Level One status, Felicitas / Sancta Natura / Lux Aeterna, and Lux Thyrsos / Lux Grail / Eunoia are draft-only. The file does not supply exact numerical Falna attributes; Eunoia's full cognition, range, duration, and costs remain unresolved. No Development Abilities, proposed weapons, or unlocked Elysium are established.
+- Chapter 77's production note reports 7,500–8,000 words, while a word-token count of the current narrative body is approximately 10,014 (excluding the production note). Confirm the intended count during draft review.
 
 ## Next safe wiki expansion
 
