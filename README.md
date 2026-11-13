@@ -28,8 +28,8 @@ These are preserved as source archives. They contain some chat/revision artifact
 
 ## Current manuscript layout
 
-- `Arc 8 - Crescendo/` — currently contains Chapters 65–69 and 71.
-- `Manuscript/` — currently contains Chapter 070 and a duplicate copy of Chapter 71.
+- `Arc 8 - Crescendo/` — contains the existing Arc 8 chapter files for Chapters 65–69 and 71.
+- `Manuscript/` — contains Chapter 070, the duplicate Chapter 71 copy, Chapters 072–076, and current chapter drafts. Chapter 076 “Relief” is saved as a draft, not finalized canon.
 - Chapters 1–61 are preserved in the two source PDFs, but have not yet been split into individual chapter files.
 - Chapters 62–64 and other gaps require verification against the source material.
 
