@@ -123,3 +123,10 @@ overwrite a user-approved finalized chapter with a draft.
 - The production note reports approximately 7,500–8,000 words. A word-token count of the current narrative body is approximately 10,014 (excluding the production note); verify the intended count during draft review.
 - **[OPEN — DRAFT/CONCEPT ALIGNMENT]** The Chapter 77 Falna readout describes Felicitas as magical and physical reinforcement, while the standalone provisional concept explicitly calls out increased magical output. Confirm whether the physical reinforcement is an intended extension. Keep Lux Aeterna's scope consistent with the concept's safeguard that it does not turn every spell into a healing spell.
 - **[OPEN — SPELL CASTING]** The provisional concept calls Lux Thyrsos and Lux Grail short-chant spells, but Chapter 77's first castings do not establish chant text or activation requirements. Confirm whether the chants were omitted or the spells are intended to be chantless.
+
+
+## Cross-chapter name-spelling conflict
+
+- Chapter 69 (“The Trap”) and Chapter 71 (“The Loki Familia”) spell the surname **Filvis Chalia**.
+- Chapter 76 (“Relief”) spells the Guild-record name **Filvis Challia**.
+- **[CONFLICT — AUTHOR DECISION REQUIRED]** Confirm whether the extra “l” is a typo or an intentional distinction. Preserve the source spellings until the author decides; do not silently normalize the name.

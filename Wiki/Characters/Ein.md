@@ -18,7 +18,7 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 
 ## Later draft material — not approved continuity
 
-- **Chapter 76 — “Relief” [DRAFT]:** proposes that Ein use “Filvis” as her public identity and that she be initially registered with Hestia Familia. The legal basis for the Guild's action and the relationship between this public identity and Dionysus's separate Filvis record remain [OPEN].
+- **Chapter 76 — “Relief” [DRAFT]:** proposes that Ein use “Filvis” as her public identity and that she be initially registered with Hestia Familia. The legal basis for the Guild's action and the relationship between this public identity and Dionysus's separate Filvis record remain [OPEN]. The Guild scene spells the surname “Filvis Challia”; Chapters 69 and 71 spell it “Filvis Chalia.” Treat the spelling as [CONFLICT] pending author confirmation.
 - **Chapter 77 — “The Opposite of Despair” [DRAFT]:** depicts Ein receiving her first Hestia blessing, with a Level One entry, three skills (Felicitas, Sancta Natura, Lux Aeterna), and three spells (Lux Thyrsos, Lux Grail, Eunoia). The draft demonstrates only initial or incomplete manifestations; advanced forms are not mastered, no Development Abilities or weapons are granted, and Elysium remains theoretical. These details are not an approved current status sheet.
 - Chapter 77 distinguishes Ein (whose public identity is “Filvis” in the preceding draft) from the separate Filvis associated with Dionysus. Their connection and identity-record relationship remain unresolved. Do not merge them.
 

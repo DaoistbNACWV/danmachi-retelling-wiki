@@ -20,7 +20,7 @@ The repository's [Character and World Reference](../../04_CHARACTER_AND_WORLD_RE
 - **Haruhime** — explicitly allowed by the Arc 8 character gate.
 - **Ein** — see the [individual profile](Ein.md); Chapter 75 explicitly identifies her as Bell's girlfriend after her awakening. Her exact identity relationship with Filvis Chalia remains unresolved in the current indexed material.
 - **Uranus** — grants Bell authorization to use Arcanum for the purification procedure in Chapter 74.
-- **Filvis Chalia** — Chapter 71 identifies a Level Four captain associated with Dionysus. Chapters 76–77 use “Filvis” as Ein's proposed public identity in draft material while separately portraying the Dionysus-associated Filvis. The relationship between the two records remains [OPEN]; do not merge their identities, Falna histories, or allegiances.
+- **Filvis Chalia** — Chapter 71 identifies a Level Four captain associated with Dionysus. Chapters 76–77 use “Filvis” as Ein's proposed public identity in draft material while separately portraying the Dionysus-associated Filvis. The relationship between the two records remains [OPEN]; do not merge their identities, Falna histories, or allegiances. Chapter 76 spells the Guild-record surname “Challia,” while Chapters 69 and 71 use “Chalia”; this is [CONFLICT] pending author confirmation.
 
 These are directory notes, not complete profiles. Create individual pages only after consulting the relevant source chapters and current character reference. Avoid copying unsupported status values from older drafts.
 

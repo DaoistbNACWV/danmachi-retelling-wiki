@@ -424,6 +424,7 @@ Keep these open until the actual manuscript or an explicit user correction resol
 16. Chapter 77's Elysium is only a theoretical designation. No fourth skill, unlocked domain, Development Ability, or proposed weapon is established by the draft.
 17. [OPEN — DRAFT/CONCEPT ALIGNMENT] Chapter 77's Falna readout describes Felicitas as magical and physical reinforcement, while the standalone provisional concept explicitly identifies increased magical output. Confirm whether physical reinforcement is an intended extension. The draft's broad description of Lux Aeterna must not be read to mean that every spell becomes a healing spell.
 18. [OPEN — SPELL CASTING] The provisional concept describes Lux Thyrsos and Lux Grail as short-chant spells, but Chapter 77's first castings do not establish chant text or activation requirements. Confirm whether the chants were omitted from the draft or whether the spells are intended to be chantless.
+19. [CONFLICT — NAME SPELLING] Chapters 69 and 71 use “Filvis Chalia”; Chapter 76's Guild record uses “Filvis Challia.” Confirm whether the extra “l” is a typo or a deliberate distinction. Do not silently standardize the spelling.
 
 Do not resolve an open thread merely to make a chapter feel complete. Do not create a mystery payoff without the necessary setup.
 

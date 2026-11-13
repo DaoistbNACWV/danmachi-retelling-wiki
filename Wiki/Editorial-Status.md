@@ -56,6 +56,7 @@ This page makes the limits of the current archive visible. It should be updated 
 - Chapter 77's production note reports 7,500–8,000 words, while a word-token count of the current narrative body is approximately 10,014 (excluding the production note). Confirm the intended count during draft review.
 - **[OPEN — DRAFT/CONCEPT ALIGNMENT]** Chapter 77's Falna readout describes Felicitas as magical and physical reinforcement, while the standalone provisional concept explicitly identifies increased magical output. Confirm whether physical reinforcement is intended. Keep Lux Aeterna's scope consistent with the concept's safeguard that it does not make every spell a healing spell.
 - **[OPEN — SPELL CASTING]** The concept describes Lux Thyrsos and Lux Grail as short-chant spells, but Chapter 77's first castings do not establish chant text or activation requirements. Confirm whether the chants were omitted from the draft or the spells are intended to be chantless.
+- **[CONFLICT — NAME SPELLING]** Chapters 69 and 71 use “Filvis Chalia”; Chapter 76's Guild record uses “Filvis Challia.” Confirm whether the extra “l” is a typo or an intentional distinction. Do not silently standardize the spelling.
 
 ## Next safe wiki expansion
 
