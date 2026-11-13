@@ -100,3 +100,13 @@ overwrite a user-approved finalized chapter with a draft.
 - **[AUTHOR-CONFIRMED MECHANIC]** Bell accesses/employs Arcanum by filtering the Fluctuation. Preserve the distinction between Fluctuation and raw Arcanum. The uploaded Chapter 75 prose does not explicitly name this filtering step; do not invent that the inscriptions or chant are the filtering mechanism. If the author wants the mechanic stated explicitly in the chapter, revise the manuscript in a later approved edit.
 - The uploaded PDF included editorial preamble and a post-chapter continuity-check/approval footer. Those materials were excluded from the standalone manuscript file; the chapter prose was retained, with the premature first “End of Chapter Seventy-Five” marker removed because Section VII follows it. The final end marker remains.
 
+
+
+## Arc 8 — Chapter Seventy-Six status [DRAFT — NOT FINALIZED]
+
+- `Manuscript/Chapter 076 - Relief.md` — Chapter Seventy-Six, “Relief.” **[DRAFT]** Saved at the author's request on 2026-11-13.
+- The chapter follows Bell and Ein on the morning after the purification in Chapter Seventy-Five. Bell puts Ein to bed, cleans the laboratory, prepares breakfast, and accompanies her and Hestia to the Guild to arrange Ein's Hestia Familia membership.
+- The draft establishes Bell and Ein's domestic affection as an existing relationship, and records Ein's public use of the name Filvis.
+- The Guild scene proposes an initial Familia registration rather than a Conversion because the examination finds no Falna. Royman Mardeel intervenes and authorizes the registration.
+- **Continuity review required before finalization:** Chapter Seventy's notes distinguish Bell's Filvis/Ein from the separate Filvis associated with Dionysus. The relationship between Ein's public identity, the Guild's Filvis Challia record, and Dionysus's separate Filvis remains unresolved in this draft. The legal basis for registration without Dionysus's approval and the Guild's examination procedure also remain to be verified.
+- This draft is not yet author-approved canon. Do not use its proposed Guild ruling or any other draft-only detail as established continuity until the author finalizes it.
