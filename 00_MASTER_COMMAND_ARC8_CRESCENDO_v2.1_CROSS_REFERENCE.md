@@ -422,8 +422,6 @@ Keep these open until the actual manuscript or an explicit user correction resol
 14. The relationship between Ein (who uses “Filvis” as a public identity in the Chapter 76 draft) and the separate Filvis associated with Dionysus remains [OPEN]. Do not merge their identities, records, Falna histories, or allegiances.
 15. Chapter 77's Hestia blessing, Level One status, three skills, three spells, and initial manifestations are draft-only. Its exact numerical Falna attributes are not supplied; Eunoia's cognition, duration, range, and full costs remain unresolved.
 16. Chapter 77's Elysium is only a theoretical designation. No fourth skill, unlocked domain, Development Ability, or proposed weapon is established by the draft.
-17. [OPEN — DRAFT/CONCEPT ALIGNMENT] Chapter 77's Falna readout describes Felicitas as magical and physical reinforcement, while the standalone provisional concept explicitly identifies increased magical output. Confirm whether physical reinforcement is an intended extension. The draft's broad description of Lux Aeterna must not be read to mean that every spell becomes a healing spell.
-18. [OPEN — SPELL CASTING] The provisional concept describes Lux Thyrsos and Lux Grail as short-chant spells, but Chapter 77's first castings do not establish chant text or activation requirements. Confirm whether the chants were omitted from the draft or whether the spells are intended to be chantless.
 
 Do not resolve an open thread merely to make a chapter feel complete. Do not create a mystery payoff without the necessary setup.
 

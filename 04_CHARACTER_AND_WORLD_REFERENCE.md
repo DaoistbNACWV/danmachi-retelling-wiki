@@ -136,3 +136,11 @@ of Bell's later abilities.
 - Bell deduces that the Dungeon can corrupt individuals who die within its territory and that sustaining a corrupted existence demands substantial energy. This remains Bell's preliminary conclusion; the exact mechanism, scope, and limitations are [OPEN].
 - **[AUTHOR-CONFIRMED MECHANIC]** Bell accesses/employs Arcanum by filtering the Fluctuation. Do not conflate Fluctuation with raw Arcanum. The Chapter 75 manuscript does not explicitly name the filtering step or establish that the ritual inscriptions/chant perform it.
 - The Sumerian incantation is presented untranslated. Bell's hair temporarily turns pale grey during the ritual and returns to white afterward.
+
+
+## Later Arc 8 manuscript status — not incorporated into verified character facts
+
+- Chapter 76, “Relief,” and Chapter 77, “The Opposite of Despair,” are later drafts, not approved continuity. They propose Hestia Familia registration and a first Hestia Falna blessing for Ein, but these details are not current verified character facts.
+- Do not use Chapter 77's Level One entry, Felicitas, Sancta Natura, Lux Aeterna, Lux Thyrsos, Lux Grail, or Eunoia as an approved status sheet. The draft supplies no exact numerical attributes and leaves mastery/limits unresolved.
+- Chapter 75 remains the latest author-approved Ein checkpoint recorded here: she has awakened after purification and reaffirmed her established relationship with Bell. Later recovery details remain open.
+- The two-Filvis identity/record relationship and the Chapter 76 Guild-registration proposal remain unresolved. See `05_MANUSCRIPT_INDEX_AND_GAPS.md` and `Wiki/Editorial-Status.md`.

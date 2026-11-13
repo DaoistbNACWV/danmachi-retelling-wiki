@@ -149,3 +149,11 @@ the finalized prose.
 - The Sumerian incantation remains untranslated. Bell's hair temporarily turns pale grey during the ritual, then returns to white.
 - Continuity lock: Bell employs Arcanum by filtering the Fluctuation [AUTHOR-CONFIRMED]. The chapter prose does not explicitly name this filtering step; do not invent a role for the inscriptions or chant beyond what the manuscript states.
 - Next-story handoff: Ein is awake and no longer under suspended animation; immediate corruption danger is resolved. Further physical recovery and investigation into the Dungeon's corruption ability remain open.
+
+
+## Later Arc 8 manuscript files — status only, not approved checkpoints
+
+- **Chapter 76 — “Relief” [DRAFT]:** present in `Manuscript/`; not a finalized checkpoint.
+- **Chapter 77 — “The Opposite of Despair” [DRAFT]:** present in `Manuscript/`; the commit message identifies it as a draft. Its proposed Hestia blessing, Falna, skills, spells, and other new details are not approved checkpoint facts.
+- Chapter 75 remains the latest author-approved Arc 8 checkpoint in this file. Chapter 72 is also a draft; Chapters 73–74 have no explicit approval marker in their current files.
+- See `05_MANUSCRIPT_INDEX_AND_GAPS.md` and `Wiki/Editorial-Status.md`. Do not promote later draft material into this checkpoint index without author approval.

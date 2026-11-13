@@ -219,3 +219,11 @@ too.
 - **[CANON — AUTHOR-APPROVED]** Ein experiences the absence of the former restraint, regains independent movement and bodily awareness, and reaffirms her relationship with Bell. They share kisses and an intimate reunion.
 - **[AUTHOR-CONFIRMED MECHANIC]** Bell accesses/employs Arcanum by filtering the Fluctuation. Keep this distinct from raw Arcanum. The Chapter 75 manuscript describes the ritual but does not explicitly name the Fluctuation-filtering step; do not silently claim that the chant or inscriptions are that filtering mechanism.
 - Chapter 75's Dungeon-corruption explanation is Bell's evidence-based conclusion, not a complete or omniscient explanation of the Dungeon's mechanism.
+
+
+## Manuscript-status note — 2026-11-13 (not a canon update)
+
+- Chapter 75, “By My Words,” remains the latest author-approved Arc 8 chapter recorded in the repository.
+- Later manuscript files exist in `Manuscript/`: Chapter 76, “Relief,” is a draft; Chapter 77, “The Opposite of Despair,” is identified as a draft by its commit message. Their proposed events, Falna details, skills, spells, and identity developments are **not incorporated into this supported master continuity**.
+- Chapter 72 is also identified as a draft. Chapters 73–74 are present, but their files do not explicitly record approval status.
+- Consult `05_MANUSCRIPT_INDEX_AND_GAPS.md` and `Wiki/Editorial-Status.md` for the separate manuscript-status record and open questions.
