@@ -30,7 +30,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 | 5 | Spectre | Arc 5 title is confirmed in a later handoff, but its detailed save was not found in the current source set. | Continuity gap; do not reconstruct from guesswork. |
 | 6 | Point of Divergence | Chapter 39 is explicitly marked with the Arc 6 label in the first PDF; Chapter 40 follows as “The Camp.” | Partial boundary evidence; verify transition and full arc contents. |
 | 7 | Rolling the Dice | Chapters 41–61 are in the second PDF; Chapter 46 “Arson” is the documented Arc 7 checkpoint. | Manuscript source found; chapter files not yet migrated. |
-| 8 | Crescendo | `Arc 8 - Crescendo/` contains Chapters 65–69 and the preserved historical Chapter 71 copy; `Manuscript/` contains Chapters 70–77, including the working Chapter 71 copy. Chapters 72, 76, and 77 are explicitly marked as drafts; Chapter 73–74 approval status is not explicitly recorded. | Partially present; verify missing chapters/gaps and resolve the Chapter 70/71 storage duplication history. |
+| 8 | Crescendo | `Arc 8 - Crescendo/` contains Chapters 65–69 and the preserved historical Chapter 71 copy; `Manuscript/` contains Chapters 70–77, including the working Chapter 71 copy. Chapters 72 and 76 carry explicit draft markers; Chapter 77 is identified as a draft by its commit message. Chapter 73–74 approval status is not explicitly recorded. | Partially present; verify missing chapters/gaps and resolve the Chapter 70/71 storage duplication history. |
 
 ## Known editorial issues to preserve during migration
 
