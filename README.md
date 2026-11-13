@@ -39,7 +39,7 @@ Keep current chapters from Chapter 71 onward in `Manuscript/`. Keep verified his
 
 ## Public encyclopedia
 
-- **Website:** https://daoistbnacwv.github.io/danmachi-retelling-wiki/ (available after the GitHub Pages deployment completes).
+- **Website:** https://daoistbnacwv.github.io/danmachi-retelling-wiki/ (GitHub Pages deployment verified successful on 2026-11-13).
 - **Repository wiki sources:** [Wiki/](Wiki/README.md). These Markdown pages are the source of truth for the public site's article content.
 - **GitHub Wiki landing-page draft:** [Wiki/Home.md](Wiki/Home.md). The native GitHub Wiki is a separate feature and must be initialized once from the repository's Wiki tab before its pages can be mirrored there.
 - **Website implementation and deployment instructions:** [docs/README.md](docs/README.md).
