@@ -13,7 +13,7 @@ One-time repository setup:
 3. Open **Actions** and run **Deploy Legend Archive** (or push a change under `docs/`, `Wiki/`, or the workflow).
 4. After the deployment succeeds, open the published URL shown in the workflow's `github-pages` environment.
 
-The expected URL is `https://aaronjamesgarcia681-sys.github.io/DANMACHI-RETELLING-OF-THE-LEGEND-/`, subject to GitHub Pages being enabled for this repository.
+The expected URL is `https://daoistbnacwv.github.io/danmachi-retelling-wiki/`, subject to GitHub Pages being enabled for this repository.
 
 ## Data model
 
