@@ -16,6 +16,12 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 - **Chapter 75 — “By My Words”:** Bell completes the purification. The corruption readings disappear, the monitored biological structures remain intact, suspended animation is deactivated, and Ein awakens.
 - **Relationship:** By Chapter 75, the manuscript explicitly refers to Ein as Bell's girlfriend. Their reunion and mutual affection are part of the author-approved chapter. Do not infer the exact date or chapter in which the relationship began.
 
+## Later draft material — not approved continuity
+
+- **Chapter 76 — “Relief” [DRAFT]:** proposes that Ein use “Filvis” as her public identity and that she be initially registered with Hestia Familia. The legal basis for the Guild's action and the relationship between this public identity and Dionysus's separate Filvis record remain [OPEN].
+- **Chapter 77 — “The Opposite of Despair” [DRAFT]:** depicts Ein receiving her first Hestia blessing, with a Level One entry, three skills (Felicitas, Sancta Natura, Lux Aeterna), and three spells (Lux Thyrsos, Lux Grail, Eunoia). The draft demonstrates only initial or incomplete manifestations; advanced forms are not mastered, no Development Abilities or weapons are granted, and Elysium remains theoretical. These details are not an approved current status sheet.
+- Chapter 77 distinguishes Ein (whose public identity is “Filvis” in the preceding draft) from the separate Filvis associated with Dionysus. Their connection and identity-record relationship remain unresolved. Do not merge them.
+
 ## Identity and continuity cautions
 
 - Chapter 69 is indexed as a standalone Bell and Ein/Filvis Chalia narrative and explicitly warns that the encounter is not automatically binding continuity for later Arc 8 chapters without author confirmation.
@@ -31,3 +37,5 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 - [Manuscript: Chapter 73 — Test One](../../Manuscript/Chapter%20073%20-%20Test%20One.md).
 - [Manuscript: Chapter 74 — Test: Permission to Use Arcanum](../../Manuscript/Chapter%20074%20-%20Test%20-%20Permission%20to%20Use%20Arcanum.md).
 - [Manuscript: Chapter 75 — By My Words](../../Manuscript/Chapter%20075%20-%20By%20My%20Words.md) — author-approved awakening and relationship status.
+- [Manuscript: Chapter 76 — Relief](../../Manuscript/Chapter%20076%20-%20Relief.md) — draft-only Guild registration and public-identity proposal.
+- [Manuscript: Chapter 77 — The Opposite of Despair](../../Manuscript/Chapter%20077%20-%20The%20Opposite%20of%20Despair.md) — draft-only Falna and ability developments.

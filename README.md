@@ -28,8 +28,8 @@ These are preserved as source archives. They contain some chat/revision artifact
 
 ## Current manuscript layout
 
-- `Arc 8 - Crescendo/` — contains the existing Arc 8 chapter files for Chapters 65–69 and 71.
-- `Manuscript/` — contains Chapter 070, the duplicate Chapter 71 copy, Chapters 072–076, and current chapter drafts. Chapter 076 “Relief” is saved as a draft, not finalized canon.
+- `Arc 8 - Crescendo/` — contains the existing Arc 8 chapter files for Chapters 65–69 and the preserved historical Chapter 71 copy.
+- `Manuscript/` — contains Chapter 070, the working Chapter 71 copy, and Chapters 072–077. Chapters 072 “Purification,” 076 “Relief,” and 077 “The Opposite of Despair” are drafts; Chapter 077 was added as a draft on 2026-11-13. Keep Chapter 71 onward in `Manuscript/`; do not move or duplicate files.
 - Chapters 1–61 are preserved in the two source PDFs, but have not yet been split into individual chapter files.
 - Chapters 62–64 and other gaps require verification against the source material.
 
@@ -39,7 +39,7 @@ Keep current chapters from Chapter 71 onward in `Manuscript/`. Keep verified his
 
 ## Public encyclopedia
 
-- **Website:** https://aaronjamesgarcia681-sys.github.io/DANMACHI-RETELLING-OF-THE-LEGEND-/ (available after the GitHub Pages deployment completes).
+- **Website:** https://daoistbnacwv.github.io/danmachi-retelling-wiki/ (available after the GitHub Pages deployment completes).
 - **Repository wiki sources:** [Wiki/](Wiki/README.md). These Markdown pages are the source of truth for the public site's article content.
 - **GitHub Wiki landing-page draft:** [Wiki/Home.md](Wiki/Home.md). The native GitHub Wiki is a separate feature and must be initialized once from the repository's Wiki tab before its pages can be mirrored there.
 - **Website implementation and deployment instructions:** [docs/README.md](docs/README.md).

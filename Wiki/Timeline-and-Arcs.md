@@ -43,6 +43,8 @@ Repository records currently identify these chapter files/checkpoints:
 - **Chapter 73 — “Test One”**: Bell begins a controlled extraction procedure; the remaining corruption is found dangerously integrated with vital structures.
 - **Chapter 74 — “Test: Permission to Use Arcanum”**: Bell obtains Uranus's authorization for the purification procedure. The next stage is preparation for Test Two; success is not yet established by this chapter.
 - **Chapter 75 — “By My Words”**: Marked CANON / AUTHOR-APPROVED in the manuscript index. Bell completes Ein's purification and she awakens. The chapter explicitly identifies Ein as Bell's girlfriend. The exact mechanism and limits of the Dungeon's corruption remain open.
+- **[Chapter 76 — “Relief”](../Manuscript/Chapter%20076%20-%20Relief.md) [DRAFT]**: The morning after the purification. Bell and Ein's domestic aftermath leads to a Guild scene proposing Ein's initial registration with Hestia Familia under the public identity “Filvis.” The Guild's legal basis, examination procedure, Royman's intervention, and the two-Filvis record issue remain unresolved.
+- **[Chapter 77 — “The Opposite of Despair”](../Manuscript/Chapter%20077%20-%20The%20Opposite%20of%20Despair.md) [DRAFT]**: Continues the Chapter 76 draft. It depicts Hestia's first Falna blessing for Ein and early testing of three skills and three spells. The Level One entry and all new ability details are draft-only; Eunoia is incomplete, advanced manifestations are not mastered, and Elysium remains theoretical. Do not treat these developments as approved continuity.
 
 This list is intentionally not a complete chapter inventory. Check [05_MANUSCRIPT_INDEX_AND_GAPS.md](../05_MANUSCRIPT_INDEX_AND_GAPS.md) before treating any sequence as complete.
 
