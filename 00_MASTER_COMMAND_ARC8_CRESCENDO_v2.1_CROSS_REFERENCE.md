@@ -1,8 +1,8 @@
 # DANMACHI: RETELLING OF THE LEGEND
 # MASTER COMMAND — ARC 8: CRESCENDO
 **Version:** 2.1 — Cross-Reference Edition  
-**Updated:** 2026-11-07  
-**Status:** Active portable operating command with source audit; Chapter 69 is the latest Arc 8 checkpoint available from prior conversation context, not verified in the five current Project reference files.  
+**Updated:** 2026-11-14  
+**Status:** Active portable operating command with source audit; Chapters 70–78 are now present in the repository manuscript archive. Chapter 78 is an author-accepted repository draft, not finalized/locked. Chapter 75 remains the latest explicitly author-approved chapter.  
 **Purpose:** One file that loads the project rules, continuity safeguards, Arc 8 character gate, writing system, and current Arc 8 handoff.
 
 ---
@@ -216,7 +216,7 @@ This is a compact continuity index, not a substitute for finalized chapter prose
 
 # 4. ARC 8 — CRESCENDO: ACTIVE HANDOFF
 
-**Arc 8 is the active arc.** The latest retrieved story work is Chapter 69. Chapter 69 is a completed draft in the available conversation record, but a user-finalized/locked status was not verified. Treat it as the current working continuation point, not automatically as an approved final chapter.
+**Arc 8 is the active arc.** The repository now contains manuscript work through Chapter 78. Chapter 78, “The Fool,” is an author-accepted repository draft, not finalized/locked. Chapters 76–77 also remain drafts. Chapter 75 is still the latest explicitly author-approved chapter. Use the actual manuscript files and status ledger for scene-level continuity; do not treat the newest file as automatically finalized.
 
 ## 4.1 Arc 8 active character gate — HARD RULE
 
@@ -387,15 +387,16 @@ Do not flatten Karina into a generic opponent or erase the emotional aftermath.
 - She chooses/reclaims the name **Filvis Chalia**.
 - Her liberation is distinct from recovery. Preserve her physical and psychological aftermath.
 - This is an original AU development, not canon.
-- Do not invent events after Chapter 69 or claim the user explicitly locked the draft unless the user confirms it.
+- Chapter 69 is a historical checkpoint, not the latest working chapter. Consult the later Chapter 70–78 manuscript files for subsequent events. Do not infer that Chapter 69's draft status or unresolved details were automatically finalized.
 
 ## 4.12 Current Arc 8 manuscript checkpoint
 
-**Latest manuscript present:** Chapter 77 — “The Opposite of Despair” — `[DRAFT]`, added to `Manuscript/` on 2026-11-13.  
+**Latest manuscript present:** Chapter 78 — “The Fool” — `[DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]`, stored in `Manuscript/` on 2026-11-14.  
 **Latest author-approved chapter:** Chapter 75 — “By My Words” — `[CANON — AUTHOR-APPROVED]`.  
 **Chapter 76:** “Relief” — `[DRAFT]`; the Guild registration and public-identity details remain unapproved.  
 **Chapter 77:** “The Opposite of Despair” — `[DRAFT]`; it continues the Chapter 76 draft and its new Falna/ability details remain draft-only. The chapter file has no top-of-file draft banner; its Git commit message identifies it as a draft.  
-**Next likely writing position:** Chapter 78 only after the author decides whether Chapters 76–77 are finalized or revised.  
+**Chapter 78:** “The Fool” — author-accepted for repository storage, but not marked finalized/locked. It restores Fels and introduces the recovered identity Senku Ishigami, the Medusa-petrification cure objective, and the AU Seventieth-Floor Retreat. The spell's exact mechanics and the historical event's wider details remain open.  
+**Next likely writing position:** Chapter 79, subject to the author's decision about whether Chapters 76–78 need revision or finalization.  
 **Arc ending:** `[OPEN — NOT CONFIRMED]`.
 
 The Chapter 75 approval remains the latest approved Arc 8 manuscript checkpoint. Do not promote Chapter 76 or 77 material into locked continuity merely because the files are present on `main`.
@@ -425,6 +426,9 @@ Keep these open until the actual manuscript or an explicit user correction resol
 17. [OPEN] Draft/concept alignment: Chapter 77's Falna readout describes Felicitas as magical and physical reinforcement, while the standalone provisional concept explicitly identifies increased magical output. Confirm whether physical reinforcement is an intended extension. The draft's broad description of Lux Aeterna must not be read to mean that every spell becomes a healing spell.
 18. [OPEN] Spell casting: The provisional concept describes Lux Thyrsos and Lux Grail as short-chant spells, but Chapter 77's first castings do not establish chant text or activation requirements. Confirm whether the chants were omitted from the draft or whether the spells are intended to be chantless.
 19. [CONFLICT] Name spelling: Chapters 69 and 71 use “Filvis Chalia”; Chapter 76's Guild record uses “Filvis Challia.” Confirm whether the extra “l” is a typo or a deliberate distinction. Do not silently standardize the spelling.
+20. Chapter 78's restoration spell has no formal name, confirmed costs, or defined limitations. Do not generalize it into a universal resurrection method.
+21. Chapter 78 introduces Senku Ishigami as Fels's recovered identity. His current Falna, Level, Familia, combat abilities, scientific resources, and the completeness of his memories remain [OPEN].
+22. Chapter 78 names an AU historical event the “Seventieth-Floor Retreat.” Its date, participants, cause, and wider consequences remain [OPEN]; do not present it as DanMachi canon.
 
 Do not resolve an open thread merely to make a chapter feel complete. Do not create a mystery payoff without the necessary setup.
 
@@ -830,7 +834,7 @@ The assistant must:
 9. Run the final continuity and character-gate scan.
 10. Continue only when the user gives the next task.
 
-**Current working position:** Arc 8 — Crescendo; latest retrieved draft is Chapter 69, “The Trap.” Do not assume Arc 8 has ended. Do not draft Chapter 70 until requested.
+**Current working position:** Arc 8 — Crescendo; latest manuscript stored is Chapter 78, “The Fool.” Chapter 78 is an author-accepted repository draft, not finalized/locked. Chapter 75 remains the latest explicitly author-approved chapter. Do not assume Arc 8 has ended. The next chapter number is 79 unless the author revises the sequence.
 
 **END OF MASTER COMMAND — VERSION 2.1 (CROSS-REFERENCE EDITION)**
 
@@ -897,6 +901,7 @@ The following items appear in the prior-conversation handoff but are not establi
 - Chapter 67 being user-authored and intentionally not to be drafted by the assistant.
 - Chapter 68's exact Lefiya characterization and closing line.
 - Chapter 69 “The Trap,” its two-day time jump, the 25th-floor setting, Ein/Filvis, the 69-million-valis trap, and the Rite of Three Severances.
+- Chapter 78 “The Fool,” now present in the repository and accepted for storage; its exact draft text is available at `Manuscript/Chapter 078 - The Fool.md`.
 - Current status, location, injuries, relationships, skills, spells, Familia membership, and Falna values of Bell and the Arc 8 cast.
 - The exact unresolved status of Aisha and the golden-haired Renard.
 
@@ -905,7 +910,7 @@ These are not necessarily wrong. They are **not independently corroborated by S1
 ## 13.4 Corrections and caution notes for this edition
 
 1. **Arc 8 ending:** No supplied reference file confirms that Arc 8 has ended. Treat it as active/open.
-2. **Chapter 69:** The prior conversation context identifies it as the latest working draft. The five reference files do not establish that chapter or its approval state. Mark `[DRAFT COMPLETE — VERIFY]` until the actual chapter and author approval are checked.
+2. **Chapter 69:** This is a historical Arc 8 checkpoint, not the latest working draft. Later manuscript files through Chapter 78 are present. Chapter 78 is author-accepted for repository storage but is not marked finalized/locked; Chapter 75 remains the latest explicitly author-approved chapter.
 3. **Arc 8 character gate:** The TRUE/FALSE roster is directly supported by S3. Do not broaden it to additional characters without the actual Master Character List or a user instruction.
 4. **Arc 3:** Chapters 13–16 are supported checkpoints, not proof that the entire Arc 3 manuscript is present.
 5. **Arc 1, 2, 4, 5, 6, and 7:** The current references do not provide complete chapter-by-chapter prose or complete event ledgers.
