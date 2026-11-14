@@ -8,6 +8,7 @@ const pages=[
 { id:"characters",title:"Character Directory",group:"Story",path:"Wiki/Characters/README.md",desc:"Character index and profile standards."},
 { id:"bell",title:"Bell Cranel",group:"Characters",path:"Wiki/Characters/Bell-Cranel.md",desc:"Protagonist foundation, verified checkpoints and open status fields."},
 { id:"ein",title:"Ein",group:"Characters",path:"Wiki/Characters/Ein.md",desc:"Arc 8 purification, awakening and relationship evidence."},
+{ id:"senku",title:"Senku Ishigami / Fels",group:"Characters",path:"Wiki/Characters/Senku-Ishigami-Fels.md",desc:"The Fool’s restoration and Senku’s recovered identity, research goal and open status."},
 { id:"world",title:"World & Factions",group:"Story",path:"Wiki/World-and-Factions.md",desc:"Locations, organizations and setting notes."},
 { id:"systems",title:"Systems & Abilities",group:"Story",path:"Wiki/Systems-and-Abilities.md",desc:"Falna, magic, skills, equipment and unresolved mechanics."},
 { id:"continuity",title:"Continuity Guide",group:"Project records",path:"Wiki/Continuity-Guide.md",desc:"Authority hierarchy, evidence labels and editorial rules."},
