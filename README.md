@@ -29,7 +29,7 @@ These are preserved as source archives. They contain some chat/revision artifact
 ## Current manuscript layout
 
 - `Arc 8 - Crescendo/` — contains the existing Arc 8 chapter files for Chapters 65–69 and the preserved historical Chapter 71 copy.
-- `Manuscript/` — contains Chapter 070, the working Chapter 71 copy, and Chapters 072–077. Chapters 072 “Purification,” 076 “Relief,” and 077 “The Opposite of Despair” are drafts; Chapter 077 was added as a draft on 2026-11-13. Keep Chapter 71 onward in `Manuscript/`; do not move or duplicate files.
+- `Manuscript/` — contains Chapter 070, the working Chapter 71 copy, and Chapters 072–078. Chapters 072 “Purification,” 076 “Relief,” and 077 “The Opposite of Despair” are drafts; Chapter 078 “The Fool” is an author-accepted repository draft, not yet finalized/locked. Keep Chapter 71 onward in `Manuscript/`; do not move or duplicate files.
 - Chapters 1–61 are preserved in the two source PDFs, but have not yet been split into individual chapter files.
 - Chapters 62–64 and other gaps require verification against the source material.
 
