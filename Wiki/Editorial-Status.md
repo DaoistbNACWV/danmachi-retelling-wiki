@@ -6,7 +6,7 @@ This page makes the limits of the current archive visible. It should be updated 
 
 ## Current state
 
-**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-13.  
+**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-14.  
 **Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` currently contains Chapters 70–78, including the working Chapter 71 copy. Chapters 72, 76, and 77 are drafts; Chapter 78 is an author-accepted repository draft, not yet finalized/locked. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
 **Latest explicitly finalized/approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76 and 77 are drafts; Chapter 78 is author-accepted for repository storage but is not marked finalized/locked.  
 **Continuity:** Several supported checkpoints exist, but important character, chronology, and power-system records remain incomplete.
@@ -17,12 +17,13 @@ This page makes the limits of the current archive visible. It should be updated 
 - Chapters 1–61 have not yet all been split into individual Markdown files.
 - Arc 8 has a partial set of individual chapter files.
 - The active Chapter 71-onward working location is `Manuscript/`; Chapter 70 remains an existing exception.
-- `Manuscript/` contains Chapter 070, the working Chapter 71 copy, and Chapters 072–077. The historical Arc 8 Chapter 71 copy is retained separately; both Chapter 71 paths currently have the same Git blob SHA.
+- `Manuscript/` contains Chapter 070, the working Chapter 71 copy, and Chapters 072–078. The historical Arc 8 Chapter 71 copy is retained separately; both Chapter 71 paths currently have the same Git blob SHA.
 - Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscript index and remains the latest approved Arc 8 chapter.
 - Chapter 72 is identified as a draft whose new details remain provisional pending author review.
 - Chapter 73 and Chapter 74 are present, but their files do not carry an explicit approval marker. Their presence alone does not establish that every new detail is approved canon.
 - Chapter 76, “Relief,” is a **DRAFT**. It proposes Ein's public use of the name Filvis and an initial Hestia Familia registration; its Guild/legal and two-Filvis issues remain open.
 - Chapter 77, “The Opposite of Despair,” is a **DRAFT** by its 2026-11-13 commit message. It continues Chapter 76 and depicts Ein's first Hestia blessing, Level One, three skills, and three spells. These are draft-only details. The chapter file lacks a top-of-file draft banner.
+- Chapter 78, “The Fool,” is an **AUTHOR-ACCEPTED REPOSITORY DRAFT — NOT FINALIZED / LOCKED**. It depicts Bell restoring Fels, the recovered identity Senku Ishigami, Senku's remembered Medusa-petrification cure objective, and the AU Seventieth-Floor Retreat. The restoration spell's exact mechanics and the historical event's wider details remain open.
 
 ## Open migration issues
 
