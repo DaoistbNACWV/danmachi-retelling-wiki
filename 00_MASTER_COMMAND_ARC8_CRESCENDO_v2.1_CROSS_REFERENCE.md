@@ -399,7 +399,7 @@ Do not flatten Karina into a generic opponent or erase the emotional aftermath.
 **Next likely writing position:** Chapter 79, subject to the author's decision about whether Chapters 76–78 need revision or finalization.  
 **Arc ending:** `[OPEN — NOT CONFIRMED]`.
 
-The Chapter 75 approval remains the latest approved Arc 8 manuscript checkpoint. Do not promote Chapter 76 or 77 material into locked continuity merely because the files are present on `main`.
+The Chapter 75 approval remains the latest approved Arc 8 manuscript checkpoint. Do not promote Chapter 76, 77, or 78 material into locked continuity merely because the files are present on `main`.
 
 ---
 
