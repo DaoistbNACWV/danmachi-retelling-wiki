@@ -141,3 +141,12 @@ overwrite a user-approved finalized chapter with a draft.
 - The chapter establishes Fels's descent to the seventieth floor and introduces the AU historical event called the “Seventieth-Floor Retreat.”
 - **Open details:** the restoration spell's formal name, mechanics, costs, and limits; the complete cause, participants, date, and consequences of the Seventieth-Floor Retreat; the exact scope of Senku's recovered memories; Senku's current Falna/Level/Familia (if any); and the eventual outcome of his research.
 - **Status caution:** The chapter is author-accepted for repository storage but is not marked finalized/locked. Its new material is recorded as chapter-specific retelling continuity pending explicit finalization. Do not present the named historical event as DanMachi canon.
+
+
+## Arc 4 — Chapter Seventeen status [AUTHOR-REQUESTED REPOSITORY DRAFT — NOT FINALIZED / LOCKED]
+
+- `Arc 4 - New Home/Chapter 17 - Hearth.md` — Chapter Seventeen, “Hearth.” Added at the author's request on 2026-11-14.
+- Bell joins the newly established Hestia Familia. He and Hestia visit the abandoned church, inspect and repair its basement living space, and Hestia gives Bell her Falna.
+- The chapter depicts Hestia perceiving Bell's soul as profoundly unusual and records a Level One Falna sheet with S/999 in all five basic abilities, five skills, seven spells, and a broad set of Development Abilities.
+- **Continuity caution:** These Falna values and ability lists are preserved from the submitted draft but are not yet finalized/locked. The project's DanMachi reference framework normally treats Development Abilities as Level 2+ developments; the Chapter 17 Level One list therefore requires explicit confirmation as a retelling exception if retained. Skill/spell descriptions are draft glosses, not verified mechanical limits.
+- This is an author-requested repository draft, not a finalized chapter or approved master-continuity update. Do not silently promote its detailed Falna sheet to locked continuity.
