@@ -30,7 +30,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 | 5 | Spectre | Arc 5 title is confirmed in a later handoff, but its detailed save was not found in the current source set. | Continuity gap; do not reconstruct from guesswork. |
 | 6 | Point of Divergence | Chapter 39 is explicitly marked with the Arc 6 label in the first PDF; Chapter 40 follows as “The Camp.” | Partial boundary evidence; verify transition and full arc contents. |
 | 7 | Rolling the Dice | Chapters 41–61 are in the second PDF; Chapter 46 “Arson” is the documented Arc 7 checkpoint. | Manuscript source found; chapter files not yet migrated. |
-| 8 | Crescendo | `Arc 8 - Crescendo/` contains Chapters 65–69 and the preserved historical Chapter 71 copy; `Manuscript/` contains Chapters 70–77, including the working Chapter 71 copy. Chapters 72 and 76 carry explicit draft markers; Chapter 77 is identified as a draft by its commit message. Chapter 73–74 approval status is not explicitly recorded. | Partially present; verify missing chapters/gaps and resolve the Chapter 70/71 storage duplication history. |
+| 8 | Crescendo | `Arc 8 - Crescendo/` contains Chapters 65–69 and the preserved historical Chapter 71 copy; `Manuscript/` contains Chapters 70–78, including the working Chapter 71 copy. Chapters 72 and 76 carry explicit draft markers; Chapter 77 is identified as a draft by its commit message; Chapter 78 is an author-accepted repository draft, not finalized/locked. Chapter 73–74 approval status is not explicitly recorded. | Partially present; verify missing chapters/gaps and resolve the Chapter 70/71 storage duplication history. |
 
 ## Known editorial issues to preserve during migration
 
@@ -42,6 +42,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 - Chapter 70 “New Girlfriend” currently resides in `Manuscript/`, consistent with the standing rule that new chapters from Chapter 71 onward are saved in `Manuscript/` (Chapter 70 is an existing exception).
 - Chapter 76 “Relief” was added to `Manuscript/` on 2026-11-13 as a **DRAFT**. It must not be treated as finalized canon. Its continuity notes flag the two-Filvis identity/record issue and the proposed Guild registration ruling for author review.
 - Chapter 77 “The Opposite of Despair” was added to `Manuscript/` on 2026-11-13 as a **DRAFT**. It continues Chapter 76's proposed Guild/Familia events and records a first Hestia blessing plus draft-only Falna, skill, spell, and manifestation details. Its file lacks a top-of-file draft banner; the commit message identifies it as a draft. Do not promote these details to canon before author approval.
+- Chapter 78 “The Fool” was added to `Manuscript/` on 2026-11-14 as an **AUTHOR-ACCEPTED REPOSITORY DRAFT — NOT FINALIZED / LOCKED**. It depicts Bell and Ein visiting Uranus, Bell restoring Fels, Fels remembering the identity Senku Ishigami and his Medusa-petrification cure objective, and the AU Seventieth-Floor Retreat. Keep the chapter's restoration mechanics and historical details open where unspecified.
 
 ## Safe migration procedure
 
