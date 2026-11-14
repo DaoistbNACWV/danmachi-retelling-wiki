@@ -6,7 +6,7 @@
 
 ### I. A Present for Grandfather
 
-A week had passed since Bell Cranel last visited Uranus.
+A week had passed since Bell Cranel had asked Uranus for permission.
 
 Seven days.
 
