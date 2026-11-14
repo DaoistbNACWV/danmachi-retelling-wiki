@@ -157,3 +157,16 @@ the finalized prose.
 - **Chapter 77 — “The Opposite of Despair” [DRAFT]:** present in `Manuscript/`; the commit message identifies it as a draft. Its proposed Hestia blessing, Falna, skills, spells, and other new details are not approved checkpoint facts.
 - Chapter 75 remains the latest author-approved Arc 8 checkpoint in this file. Chapter 72 is also a draft; Chapters 73–74 have no explicit approval marker in their current files.
 - See `05_MANUSCRIPT_INDEX_AND_GAPS.md` and `Wiki/Editorial-Status.md`. Do not promote later draft material into this checkpoint index without author approval.
+
+
+## Arc 8 Chapter 78 — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]
+
+- Approximately one week after Bell asks Uranus for permission to use Arcanum for Ein's purification, Bell returns to the Prayer Altar with Ein and introduces her to Uranus as his girlfriend.
+- Bell spends several hours speaking with Uranus and renews his promise to visit again.
+- Bell asks Fels whether they would choose restored humanity over continued immortality. Fels admits they would have chosen restoration long ago.
+- Bell uses a spell held through Chant Delay to restore Fels's missing physical body. The spell's formal name and exact limits remain [OPEN].
+- Fels's pronouns are they/them before restoration. Once their memories and identity return, the restored man remembers the name Senku Ishigami and is referred to with he/him pronouns.
+- Senku remembers his scientific identity and his former goal of developing a cure for Medusa-induced petrification. The chapter connects the loss of his flesh and suppressed knowledge to Osiris's punishment.
+- Uranus reveals that Fels once descended to the seventieth floor. The chapter names the associated AU historical episode the “Seventieth-Floor Retreat”; its wider history remains [OPEN].
+- Senku returns to his preserved laboratory to resume research. Bell and Ein return to Hearth Manor.
+- **Status:** Author-accepted repository draft; not marked finalized/locked. The wider historical record, restoration spell mechanics, and Senku's future research outcomes remain open.
