@@ -170,3 +170,12 @@ the finalized prose.
 - Uranus reveals that Fels once descended to the seventieth floor. The chapter names the associated AU historical episode the “Seventieth-Floor Retreat”; its wider history remains [OPEN].
 - Senku returns to his preserved laboratory to resume research. Bell and Ein return to Hearth Manor.
 - **Status:** Author-accepted repository draft; not marked finalized/locked. The wider historical record, restoration spell mechanics, and Senku's future research outcomes remain open.
+
+
+## Arc 4 — Chapter Seventeen: “Hearth” [REPOSITORY DRAFT — NOT FINALIZED / LOCKED]
+
+- **Manuscript:** `Arc 4 - New Home/Chapter 17 - Hearth.md`.
+- Bell joins the Hestia Familia as its first member. Hestia brings him to the abandoned church; its basement can accommodate three people. Bell reminisces about his former hideout, then cleans and repairs the living space with Hestia.
+- Hestia performs Bell's first Falna blessing. She perceives his soul as deeply unusual and unsettling.
+- The draft lists Bell as fourteen, Race “Human?”, Level One, with S/999 in STR, END, DEX, AGI, and MAG; five skills; seven spells; and numerous Development Abilities.
+- **Status:** Author-requested repository draft only. The detailed Falna values, skills, spells, Development Abilities, and their mechanics are not finalized/locked. The broad Level One Development Ability list is an apparent exception to the usual canon framework and requires author confirmation. Do not treat this entry as an approved status ledger until confirmed.
