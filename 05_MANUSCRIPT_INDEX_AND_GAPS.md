@@ -130,3 +130,14 @@ overwrite a user-approved finalized chapter with a draft.
 - Chapter 69 (“The Trap”) and Chapter 71 (“The Loki Familia”) spell the surname **Filvis Chalia**.
 - Chapter 76 (“Relief”) spells the Guild-record name **Filvis Challia**.
 - **[CONFLICT]** Author decision required: Confirm whether the extra “l” is a typo or an intentional distinction. Preserve the source spellings until the author decides; do not silently normalize the name.
+
+
+## Arc 8 — Chapter Seventy-Eight status [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]
+
+- `Manuscript/Chapter 078 - The Fool.md` — Chapter Seventy-Eight, “The Fool.” Added to the working manuscript after the author requested repository integration. The chapter follows the purification sequence and depicts Bell and Ein visiting Uranus's Prayer Altar approximately one week after Bell asked Uranus for permission to use Arcanum.
+- Bell introduces Ein to Uranus as his girlfriend, speaks with his grandfather, and renews his promise to visit again.
+- Bell restores Fels's missing body through a spell prepared with Chant Delay. Before restoration, Fels is gender-unaffiliated and uses they/them pronouns. After restoration, the returned identity is Senku Ishigami, referred to with he/him pronouns.
+- Senku remembers his scientific identity and his goal of developing a cure for Medusa-induced petrification. The chapter associates Osiris's punishment with the loss of Fels's flesh and suppressed knowledge.
+- The chapter establishes Fels's descent to the seventieth floor and introduces the AU historical event called the “Seventieth-Floor Retreat.”
+- **Open details:** the restoration spell's formal name, mechanics, costs, and limits; the complete cause, participants, date, and consequences of the Seventieth-Floor Retreat; the exact scope of Senku's recovered memories; Senku's current Falna/Level/Familia (if any); and the eventual outcome of his research.
+- **Status caution:** The chapter is author-accepted for repository storage but is not marked finalized/locked. Its new material is recorded as chapter-specific retelling continuity pending explicit finalization. Do not present the named historical event as DanMachi canon.
