@@ -144,3 +144,14 @@ of Bell's later abilities.
 - Do not use Chapter 77's Level One entry, Felicitas, Sancta Natura, Lux Aeterna, Lux Thyrsos, Lux Grail, or Eunoia as an approved status sheet. The draft supplies no exact numerical attributes and leaves mastery/limits unresolved.
 - Chapter 75 remains the latest author-approved Ein checkpoint recorded here: she has awakened after purification and reaffirmed her established relationship with Bell. Later recovery details remain open.
 - The two-Filvis identity/record relationship and the Chapter 76 Guild-registration proposal remain unresolved. See `05_MANUSCRIPT_INDEX_AND_GAPS.md` and `Wiki/Editorial-Status.md`.
+
+
+## Arc 8 — Fels / Senku Ishigami [CHAPTER 78 — AUTHOR-ACCEPTED DRAFT]
+
+- **Before restoration:** Fels, known as the Fool, is a gender-unaffiliated skeletal/wraith-like being. Use they/them/their pronouns while referring to Fels in this state.
+- **History recorded in Chapter 78:** Fels created the Philosopher's Stone and was punished by their god, Osiris, who stripped away their flesh and suppressed the knowledge connected to their original purpose. Fels had descended to the seventieth floor in this AU. The chapter names the related historical episode the “Seventieth-Floor Retreat”; its full history remains [OPEN].
+- **Restoration:** Bell restores Fels's missing physical body through a spell activated after being held with Chant Delay. The chapter describes reconstruction of the skeletal structure, muscles, connective tissues, blood vessels, nerves, and internal organs. The spell's name, precise mechanism, costs, and limits remain [OPEN].
+- **After restoration:** Fels remembers the name **Senku Ishigami**, his identity as a scientist/inventor, and his objective of developing a cure for Medusa-induced petrification. Use he/him for Senku after the identity and male body are restored; retain they/them when discussing Fels before restoration.
+- **Emotional response:** Senku experiences genuine tears and joy at regaining a body and remembering his purpose. He returns to his preserved laboratory to resume research.
+- **Crossover note:** Senku Ishigami is a *Dr. Stone* character incorporated into this DanMachi retelling by the author. His appearance and identity are chapter-specific crossover material, not DanMachi canon.
+- **Status:** Chapter 78 is an author-accepted draft, not yet marked finalized/locked. Do not invent Senku's current Level, Falna, Familia, skills, spells, combat ability, exact age, or future research results.
