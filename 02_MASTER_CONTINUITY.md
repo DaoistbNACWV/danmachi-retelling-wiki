@@ -227,3 +227,16 @@ too.
 - Later manuscript files exist in `Manuscript/`: Chapter 76, “Relief,” is a draft; Chapter 77, “The Opposite of Despair,” is identified as a draft by its commit message. Their proposed events, Falna details, skills, spells, and identity developments are **not incorporated into this supported master continuity**.
 - Chapter 72 is also identified as a draft. Chapters 73–74 are present, but their files do not explicitly record approval status.
 - Consult `05_MANUSCRIPT_INDEX_AND_GAPS.md` and `Wiki/Editorial-Status.md` for the separate manuscript-status record and open questions.
+
+
+## Arc 8 Chapter Seventy-Eight — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]
+
+- **Manuscript:** `Manuscript/Chapter 078 - The Fool.md`.
+- Bell is fourteen during this chapter. Approximately one week has passed since he asked Uranus for permission to use Arcanum for Ein's purification.
+- Bell visits the Prayer Altar with Ein, introduces her to Uranus as his girlfriend, and spends several hours speaking with his grandfather. Bell reiterates that he intends to visit again; this fulfils the promise associated with the purification process.
+- Bell brings a restorative spell as a gift for Fels. The spell is prepared and held through Chant Delay, then activated to reconstruct Fels's missing body, including the skeletal, muscular, tissue, nervous, circulatory, and organ systems. The spell's formal name, exact mechanics, costs, and limitations remain [OPEN].
+- Before restoration, Fels is treated with they/them pronouns and is not affiliated with a gender. After restoration and the return of their identity, the chapter uses he/him for the man who remembers the name **Senku Ishigami**.
+- Senku remembers being a scientist, inventor, and researcher. He recalls that his objective was to develop a cure for the petrification caused by Medusa, and that Osiris's punishment removed his flesh and suppressed the knowledge associated with that purpose. Treat the recovered memories and Osiris connection as chapter-specific retelling material, not DanMachi canon.
+- The chapter establishes that Fels descended to the seventieth floor in this AU. The chapter calls the expedition and retreat the **Seventieth-Floor Retreat**; this is a newly introduced historical event, not an independently verified canon event.
+- Senku returns to his preserved laboratory to resume research. Bell and Ein return to Hearth Manor.
+- This chapter is stored as an author-accepted draft. Do not label it finalized/locked unless the author explicitly confirms finalization. The historical event's wider participants, date, causes, and consequences remain [OPEN].
