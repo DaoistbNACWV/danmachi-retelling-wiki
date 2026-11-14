@@ -7,8 +7,8 @@ This page makes the limits of the current archive visible. It should be updated 
 ## Current state
 
 **Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-13.  
-**Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` currently contains Chapters 70–77, including the working Chapter 71 copy. Chapters 72, 76, and 77 are drafts. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
-**Latest approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76 and 77 are later drafts, not finalized canon.  
+**Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` currently contains Chapters 70–78, including the working Chapter 71 copy. Chapters 72, 76, and 77 are drafts; Chapter 78 is an author-accepted repository draft, not yet finalized/locked. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
+**Latest explicitly finalized/approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76 and 77 are drafts; Chapter 78 is author-accepted for repository storage but is not marked finalized/locked.  
 **Continuity:** Several supported checkpoints exist, but important character, chronology, and power-system records remain incomplete.
 
 ## Confirmed repository facts
@@ -73,3 +73,14 @@ This page makes the limits of the current archive visible. It should be updated 
 - [ARC_1_TO_8_MIGRATION_STATUS.md](../ARC_1_TO_8_MIGRATION_STATUS.md)
 - [02_MASTER_CONTINUITY.md](../02_MASTER_CONTINUITY.md)
 - [04_CHARACTER_AND_WORLD_REFERENCE.md](../04_CHARACTER_AND_WORLD_REFERENCE.md)
+
+
+## Chapter 78 — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]
+
+- The manuscript is stored at `Manuscript/Chapter 078 - The Fool.md`.
+- Bell visits Uranus with Ein approximately one week after asking permission to use Arcanum. He introduces Ein as his girlfriend and renews his promise to visit again.
+- Bell restores Fels's body. Fels remembers the name Senku Ishigami and his former research goal: a cure for Medusa-induced petrification. The chapter attributes the loss of Fels's flesh and suppressed knowledge to Osiris's punishment.
+- Before restoration, Fels is gender-unaffiliated and uses they/them pronouns; after identity recovery, the restored Senku is referred to with he/him pronouns.
+- The chapter introduces the AU “Seventieth-Floor Retreat” as a historical event associated with Fels's descent to the seventieth floor.
+- **Open:** restoration spell name and mechanics; the full history of the Seventieth-Floor Retreat; the scope of Senku's recovered memories; Senku's current Falna/Level/Familia (if any); and the outcome of his renewed research.
+- This is not yet labeled finalized/locked. Do not present its new crossover material or AU historical event as DanMachi canon.
