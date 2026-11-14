@@ -22,6 +22,12 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 - **Chapter 77 — “The Opposite of Despair” [DRAFT]:** depicts Ein receiving her first Hestia blessing, with a Level One entry, three skills (Felicitas, Sancta Natura, Lux Aeterna), and three spells (Lux Thyrsos, Lux Grail, Eunoia). The draft demonstrates only initial or incomplete manifestations; advanced forms are not mastered, no Development Abilities or weapons are granted, and Elysium remains theoretical. These details are not an approved current status sheet.
 - Chapter 77 distinguishes Ein (whose public identity is “Filvis” in the preceding draft) from the separate Filvis associated with Dionysus. Their connection and identity-record relationship remain unresolved. Do not merge them.
 
+## Chapter 78 — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY]
+
+- Ein accompanies Bell to Uranus's Prayer Altar approximately one week after Bell requested permission to use Arcanum. Bell introduces her to Uranus as his girlfriend.
+- Ein is present when Bell restores Fels and witnesses the return of Fels's physical body and identity as Senku Ishigami.
+- This chapter does not resolve the open relationship between Ein and the separate Filvis Chalia identity/record. The Chapter 76 surname spelling conflict also remains unresolved.
+
 ## Identity and continuity cautions
 
 - Chapter 69 is indexed as a standalone Bell and Ein/Filvis Chalia narrative and explicitly warns that the encounter is not automatically binding continuity for later Arc 8 chapters without author confirmation.
