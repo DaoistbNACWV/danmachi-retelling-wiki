@@ -8,6 +8,7 @@ This directory is a starting index. It does not imply that every character's com
 
 - [Bell Cranel](Bell-Cranel.md) — protagonist; retelling-specific development and confirmed checkpoints.
 - [Ein](Ein.md) — central figure in the Arc 8 purification sequence; awakened in Chapter 75 and identified as Bell's girlfriend in that author-approved chapter.
+- [Senku Ishigami / Fels](Senku-Ishigami-Fels.md) — Fels, the Fool, is restored by Bell in Chapter 78 and remembers the identity Senku Ishigami. The profile is based on an author-accepted draft and is not finalized/locked.
 
 ## Additional character records
 
