@@ -240,3 +240,11 @@ too.
 - The chapter establishes that Fels descended to the seventieth floor in this AU. The chapter calls the expedition and retreat the **Seventieth-Floor Retreat**; this is a newly introduced historical event, not an independently verified canon event.
 - Senku returns to his preserved laboratory to resume research. Bell and Ein return to Hearth Manor.
 - This chapter is stored as an author-accepted draft. Do not label it finalized/locked unless the author explicitly confirms finalization. The historical event's wider participants, date, causes, and consequences remain [OPEN].
+
+
+## Arc 4 — Chapter Seventeen repository draft (not a canon update)
+
+- `Arc 4 - New Home/Chapter 17 - Hearth.md` was added at the author's request on 2026-11-14 as a repository draft, not finalized/locked.
+- The draft depicts Bell joining the Hestia Familia as its first member, moving into the abandoned church with Hestia, helping repair the basement, and receiving Hestia's Falna.
+- The draft's Level One status sheet lists age 14, Race “Human?”, S/999 in all five basic abilities, five skills, seven spells, and an extensive Development Ability list. These details remain draft-only pending author confirmation; do not promote them to supported master continuity or assume their mechanics beyond the chapter text.
+- The extensive Development Ability list at Level One appears to depart from the project's usual DanMachi reference framework, where Development Abilities normally emerge from Level 2 onward. Preserve as a proposed retelling exception, not a settled rule, until confirmed.
