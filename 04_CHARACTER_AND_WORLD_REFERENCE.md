@@ -155,3 +155,11 @@ of Bell's later abilities.
 - **Emotional response:** Senku experiences genuine tears and joy at regaining a body and remembering his purpose. He returns to his preserved laboratory to resume research.
 - **Crossover note:** Senku Ishigami is a *Dr. Stone* character incorporated into this DanMachi retelling by the author. His appearance and identity are chapter-specific crossover material, not DanMachi canon.
 - **Status:** Chapter 78 is an author-accepted draft, not yet marked finalized/locked. Do not invent Senku's current Level, Falna, Familia, skills, spells, combat ability, exact age, or future research results.
+
+
+## Arc 4 — Bell's first Hestia Falna [CHAPTER 17 REPOSITORY DRAFT ONLY]
+
+- Chapter Seventeen, “Hearth,” depicts Bell joining the Hestia Familia and receiving his first Falna from Hestia in the abandoned church.
+- The draft lists Bell as fourteen, Race “Human?”, Level One, with S/999 in STR, END, DEX, AGI, and MAG; skills Alchemy, Synthetase, Mana Control, Divination, and The Flow; and seven named spells.
+- It also lists a large number of Development Abilities at Level One. This is a proposed retelling exception to the usual Level 2+ framework and is not yet finalized/locked.
+- **Status:** Repository draft only. Do not use these numbers or abilities as confirmed current status outside the draft until the author confirms them.
