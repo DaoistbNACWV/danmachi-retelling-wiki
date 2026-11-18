@@ -35,22 +35,41 @@ These labels describe the evidence/status of an entry. They do not override the 
 
 **Evidence:** DRAFT-RECORDED. The repository chapter is explicitly marked as an author-requested draft, not finalized or locked.
 
-### Initial status recorded in the chapter
+### Status progression — Levels 1 to 3
 
-| Attribute | Recorded value |
-|---|---:|
+**AUTHOR-PROVIDED UPDATE:** Bell's recorded level progression is **Level 1 → Level 2 → Level 3**. The five basic attributes follow the same recorded values at each level:
+
+| Basic Attribute | Level 1 | Level 2 | Level 3 |
+|---|---:|---:|---:|
+| Strength (STR) | 999 | 1,999 | 1,999 |
+| Endurance (END) | 999 | 1,999 | 1,999 |
+| Dexterity (DEX) | 999 | 1,999 | 1,999 |
+| Agility (AGI) | 999 | 1,999 | 1,999 |
+| Magic (MAG) | 999 | 1,999 | 1,999 |
+
+The progression notation is therefore:
+
+- **Level:** 1 → 2 → 3
+- **Each basic attribute:** 999 → 1,999 → 1,999
+
+No rank letters are assigned here for the 1,999 values because the author supplied numerical values only. Do not infer or invent a rank conversion.
+
+### Initial status recorded in Chapter 17
+
+| Field | Recorded value |
+|---|---|
 | Name | Bell Cranel |
 | Age | 14 |
 | Race | Human? |
 | Level | 1 |
 | Familia | Hestia Familia |
-| Strength | S 999 |
-| Endurance | S 999 |
-| Dexterity | S 999 |
-| Agility | S 999 |
-| Magic | S 999 |
+| Strength (STR) | S 999 |
+| Endurance (END) | S 999 |
+| Dexterity (DEX) | S 999 |
+| Agility (AGI) | S 999 |
+| Magic (MAG) | S 999 |
 
-Preserve these as the values written in the draft. Do not silently treat them as finalized status if the chapter has not been locked.
+The Chapter 17 values remain the original Level 1 snapshot. The Level 2 and Level 3 figures above are the author's additional progression information; they do not alter or replace the historical Chapter 17 snapshot. The chapter itself remains marked as a draft unless separately finalized.
 
 ### 2.1 Skills
 
