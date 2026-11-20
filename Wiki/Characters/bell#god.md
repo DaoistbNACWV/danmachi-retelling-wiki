@@ -1,4 +1,4 @@
-# Bell#God — Sealed Complete Ability, Equipment, Development, and Identity Profile
+# Bell#God — Sealed Complete Ability, Equipment, and Development Profile
 
 > **STATUS: SEALED / INACTIVE**
 >
@@ -12,9 +12,11 @@
 
 ## 1. Purpose and continuity boundary
 
-This file gathers the Bell#God material discussed by the author: the Falna foundation in Chapter 17, the broader ability and equipment inventory, the later clarifications to Copy Magic, mana resources, The Flow, and Mushin, and the sealed Chronos identity/origin record in Section 16.
+This file gathers the Bell#God material discussed by the author: the Falna foundation in Chapter 17, the broader ability and equipment inventory, and the later clarifications to Copy Magic, mana resources, The Flow, and Mushin.
 
-It is deliberately separate from the active Bell dossier. It describes the author's sealed future-state and identity reference, not Bell's currently accessible condition in the ongoing narrative. Every section—including the hidden identity and origin—remains SEALED / INACTIVE until the author explicitly says the exact phrase **"god mode"**.
+It is deliberately separate from the active Bell dossier. It describes who Bell is in this sealed profile, not who he currently is in the ongoing narrative.
+
+**Exclusion:** This document does not define or explain Bell's hidden identity, origins, or cosmological nature. It is an ability-and-equipment reference only.
 
 ### Evidence labels
 
@@ -308,7 +310,7 @@ The following entries appear in wider project notes or retrieved chapter referen
 | **Infinite Extension** | REFERENCE-RECORDED | Listed in project references; exact mechanics and limitations require verification. |
 | **Erasure Magic** | REFERENCE-RECORDED | Associated in project notes with Permanent Erasure / Existence Erasure. |
 | **Permanent Erasure / Existence Erasure** | REFERENCE-RECORDED | Treat as the same magical concept unless the manuscript explicitly distinguishes them. |
-| **Spatial transit / teleportation effect** | MANUSCRIPT-DEMONSTRATED (Chapter 78 draft) | Bell transports himself and Ein from the laboratory to the Prayer Altar and back through spatial displacement. Exact spell classification/name, mechanism, range, costs, and limits remain UNKNOWN. |
+| **Teleportation** | REFERENCE-RECORDED | Previously listed in project material; exact source and mechanics require direct verification. |
 | **Mana Bullet** | PROVISIONAL | Appears in earlier prototype-wand experimentation notes; confirm its current manuscript status. |
 | **High-tier healing** | MANUSCRIPT-DEMONSTRATED / RESEARCHED | Advanced healing applications and reconstruction research appear in later chapters. |
 
@@ -489,20 +491,20 @@ He recognizes that involvement of the heart or brain creates serious risks.
 
 This is research into the underlying structure of the problem, not merely the application of a healing spell.
 
-### 11.3 Fels restoration — Chapter 78 draft
+### 11.3 Fels restoration research
 
 **Source:** Chapter 78, "The Fool."  
-**Evidence:** MANUSCRIPT-DEMONSTRATED within an author-accepted draft; not finalized/locked.
+**Evidence:** MANUSCRIPT-DEMONSTRATED as a plan / research direction.
 
-Chapter 78 depicts Bell successfully restoring Fels's original body through a spell held with Chant Delay. The prose describes reconstruction of:
-- The skeletal framework.
-- Connective tissues and muscles.
-- Blood vessels and nerves.
-- Internal organs.
+Bell plans to restore Fels's original body rather than create an artificial replacement. His considerations include:
+- Muscles.
+- Connective tissues.
+- Nerves.
+- Blood vessels.
+- Organs.
+- Bones.
 
-After restoration, Fels remembers the identity Senku Ishigami.
-
-**Status boundary:** The restoration succeeds within the draft, but the chapter is not finalized/locked. The spell's formal name, exact mechanics, costs, limitations, and repeatability remain UNKNOWN. This is a Chapter 78 event, not a new capability granted by this sealed future-state profile.
+**Status:** The plan and research are established in the chapter. Successful restoration is not established by the material recorded here.
 
 ---
 
@@ -542,7 +544,7 @@ This list records where some capabilities have been demonstrated or referenced. 
 | **Chapter 69 — The Trap** | Rite of Three Severances; direct external mana manipulation in the magic-dampening trap sequence. |
 | **Chapter 73 — Test One** | Runic separation, removal of corruption, and biological reconstruction research involving Ein. |
 | **Chapter 75 — By My Words** | Divine Purification ritual and author-provided Sumerian declaration / translation. |
-| **Chapter 78 — The Fool** | The author-accepted draft depicts Bell restoring Fels's body through Chant Delay and transporting himself and Ein to/from the Prayer Altar through spatial displacement; the exact spell names and mechanics remain open. |
+| **Chapter 78 — The Fool** | Bell's plan and research toward restoring Fels's original body. |
 
 **Ariel copying:** The author explicitly confirms that Bell copied Ais's Ariel. Preserve this as a demonstrated application of Copy Magic. The exact chapter locator should be cross-checked before assigning a chapter number here.
 
@@ -561,8 +563,7 @@ The following are not fully specified in the material gathered for this file:
 - Full named inventory of weapons and equipment.
 - Exact limits and conditions of spatial storage.
 - Exact mechanics and costs of the named rituals.
-- Whether the Chapter 78 restoration event is retained in finalized continuity; the restoration spell's formal name, mechanics, costs, limits, and repeatability.
-- Exact spell classification/name, mechanism, range, costs, and limits for the spatial-transit effect shown in Chapter 78.
+- Whether Fels's restoration succeeds.
 - The precise chapter in which Ariel is copied, pending source cross-check.
 
 Do not fill these gaps with generic fantasy assumptions. Ask the author or consult the manuscript.

@@ -45,5 +45,3 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 - [Manuscript: Chapter 75 — By My Words](../../Manuscript/Chapter%20075%20-%20By%20My%20Words.md) — author-approved awakening and relationship status.
 - [Manuscript: Chapter 76 — Relief](../../Manuscript/Chapter%20076%20-%20Relief.md) — draft-only Guild registration and public-identity proposal.
 - [Manuscript: Chapter 77 — The Opposite of Despair](../../Manuscript/Chapter%20077%20-%20The%20Opposite%20of%20Despair.md) — draft-only Falna and ability developments.
-- [Manuscript: Chapter 78 — The Fool](../../Manuscript/Chapter%20078%20-%20The%20Fool.md) — author-accepted draft; Ein accompanies Bell to the Prayer Altar and witnesses Fels's restoration.
-

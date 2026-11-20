@@ -278,15 +278,6 @@ Distinguish confirmed contradictions from possible concerns and missing informat
 
 ## 5. DRAFTING PROCEDURE
 
-### DanMachi project chapter packaging
-
-For *DanMachi: Retelling of the Legend*, use **900–1,200 words per chapter** as the flexible default target. Preserve complete narrative development; exceed the range when a scene genuinely needs more room, and never pad or cut essential material merely to hit a count.
-
-Use separate, consecutive chapter numbers and individual titles rather than “Part 1 / Part 2 / Part 3” labels. Multiple consecutive chapters may be drafted in one batch when requested. Split at natural scene, beat, or emotional turning points—not mechanically by word count. Keep `NARRATIVE-EXPAND` active.
-
-For the dedicated batch procedure, consult [`BATCH-CHAPTER-WRITER-1.md`](BATCH-CHAPTER-WRITER-1.md).
-
-
 When asked to draft or continue a chapter:
 
 1. **Identify the source of truth.** Use the supplied outline, manuscript excerpt, story bible, and approved notes that are actually available.
