@@ -13,6 +13,8 @@ This GitHub Wiki landing page mirrors the structured reference pages in the main
 - [Ein](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/blob/main/Wiki/Characters/Ein.md)
 - [Senku Ishigami / Fels](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/blob/main/Wiki/Characters/Senku-Ishigami-Fels.md)
 
+- [Senku Ishigami / Fels](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/blob/main/Wiki/Characters/Senku-Ishigami-Fels.md)
+
 - [World and Factions](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/blob/main/Wiki/World-and-Factions.md)
 - [Systems and Abilities](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/blob/main/Wiki/Systems-and-Abilities.md)
 - [Continuity Guide](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/blob/main/Wiki/Continuity-Guide.md)

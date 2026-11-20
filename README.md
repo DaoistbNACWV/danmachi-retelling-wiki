@@ -17,6 +17,7 @@ The [Project Wiki](Wiki/README.md) is the navigable encyclopedia for characters,
 - `ARC_1_TO_8_MIGRATION_STATUS.md` — migration ledger, known gaps, and next steps.
 - `MASTER_WRITING_SYSTEM_Swiss_Knife_v1.0.md` — writing workflow.
 - `BATCH-CHAPTER-WRITER-1.md` — optional multi-chapter workflow; 900–1,200 words per chapter, consecutive numbering, and natural narrative split points.
+- `BATCH-CHAPTER-WRITER-1.md` — optional multi-chapter workflow; 900–1,200 words per chapter, consecutive numbering, and natural narrative split points.
 
 ## Source manuscripts committed
 
@@ -31,6 +32,8 @@ These are preserved as source archives. They contain some chat/revision artifact
 
 - `Arc 8 - Crescendo/` — contains the existing Arc 8 chapter files for Chapters 65–69 and the preserved historical Chapter 71 copy.
 - `Manuscript/` — contains Chapter 070, the working Chapter 71 copy, and Chapters 072–078. Chapters 072 “Purification,” 076 “Relief,” and 077 “The Opposite of Despair” are drafts; Chapter 078 “The Fool” is an author-accepted repository draft, not yet finalized/locked. Keep Chapter 71 onward in `Manuscript/`; do not move or duplicate files.
+- `Drafts/` — contains the revised Arc 1 Chapter 3 passage, explicitly marked as a draft and not finalized. It is separate from the working `Manuscript/` sequence.
+
 - `Drafts/` — contains the revised Arc 1 Chapter 3 passage, explicitly marked as a draft and not finalized. It is separate from the working `Manuscript/` sequence.
 
 - Chapters 1–61 are preserved in the two source PDFs, but have not yet been split into individual chapter files.

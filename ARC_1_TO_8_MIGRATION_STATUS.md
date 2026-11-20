@@ -1,6 +1,6 @@
 # Arc 1–8 Migration Status
 
-Last audited: 2026-11-13
+Last audited: 2026-11-20
 Repository: https://github.com/DaoistbNACWV/danmachi-retelling-wiki
 Branch: main
 
@@ -23,7 +23,7 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 
 | Arc | Project title | Current evidence | Migration status |
 |---|---|---|---|
-| 1 | New Beginning | Chapters 1–10 cover the opening foundation; exact Arc 1/2 split is not established by the cross-reference. | Source found; arc boundary and chapter files not yet migrated. |
+| 1 | New Beginning | Chapters 1–10 cover the opening foundation; exact Arc 1/2 split is not established by the cross-reference. A revised Chapter 3 passage is present under `Drafts/`, not finalized. | Source found; arc boundary and chapter files not yet migrated. |
 | 2 | The Preparation | Arc 2 portable continuity handoff exists in the Library; opening manuscript material overlaps the Chapters 1–10 range. | Handoff found; exact chapter boundary and prose migration pending. |
 | 3 | The Labyrinth City | Chapters 11–16 are explicitly identified as the Orario arrival / Labyrinth City sequence. | Chapter range identified; prose not yet migrated. |
 | 4 | New Home | Later development begins in Chapters 17–40; exact Arc 4 boundary is not documented in the current cross-reference. | Source range exists; boundary needs verification. |
@@ -43,6 +43,9 @@ The corresponding cross-reference has been copied into `06_MANUSCRIPT_CROSS_REFE
 - Chapter 76 “Relief” was added to `Manuscript/` on 2026-11-13 as a **DRAFT**. It must not be treated as finalized canon. Its continuity notes flag the two-Filvis identity/record issue and the proposed Guild registration ruling for author review.
 - Chapter 77 “The Opposite of Despair” was added to `Manuscript/` on 2026-11-13 as a **DRAFT**. It continues Chapter 76's proposed Guild/Familia events and records a first Hestia blessing plus draft-only Falna, skill, spell, and manifestation details. Its file lacks a top-of-file draft banner; the commit message identifies it as a draft. Do not promote these details to canon before author approval.
 - Chapter 78 “The Fool” was added to `Manuscript/` on 2026-11-14 as an **AUTHOR-ACCEPTED REPOSITORY DRAFT — NOT FINALIZED / LOCKED**. It depicts Bell and Ein visiting Uranus, Bell restoring Fels, Fels remembering the identity Senku Ishigami and his Medusa-petrification cure objective, and the AU Seventieth-Floor Retreat. Keep the chapter's restoration mechanics and historical details open where unspecified.
+- `Drafts/Arc 1 - New Beginning/Chapter 003 - The Origin.md` is a revised passage marked **[DRAFT — REVISED PASSAGE; NOT FINALIZED]**. Its revision note says Bell does not physically age, grow, or change inside the Land of Dreams; his development there is intellectual and experiential, and his awareness of the Being is gradual and subtle. Keep this clarification draft-only until the chapter is finalized.
+- The current `Manuscript/` sequence ends at Chapter 78. No Chapter 79 file is present on `main` as of 2026-11-20.
+
 
 ## Safe migration procedure
 

@@ -6,10 +6,21 @@ This page makes the limits of the current archive visible. It should be updated 
 
 ## Current state
 
-**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-14.  
+**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-20.  
 **Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` currently contains Chapters 70–78, including the working Chapter 71 copy. Chapters 72, 76, and 77 are drafts; Chapter 78 is an author-accepted repository draft, not yet finalized/locked. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
 **Latest explicitly finalized/approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76 and 77 are drafts; Chapter 78 is author-accepted for repository storage but is not marked finalized/locked.  
 **Continuity:** Several supported checkpoints exist, but important character, chronology, and power-system records remain incomplete.
+
+## Audit — 2026-11-20
+
+- The requested legacy repository name redirects to the canonical repository [`DaoistbNACWV/danmachi-retelling-wiki`](https://github.com/DaoistbNACWV/danmachi-retelling-wiki). The current `main` HEAD before this audit was [`69c361a1`](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/commit/69c361a1ad2f92d642d832b7d3a2fc988f258426).
+- Since the previous audit checkpoint, the repository added Chapter 78, the Chapter 17 repository draft, a revised Chapter 3 draft, the Bell Falna/ability registry, the sealed Chronos identity section in `bell#god.md`, and `BATCH-CHAPTER-WRITER-1.md`.
+- The new batch workflow and the author's latest chapter-structure decision establish a flexible **900–1,200-word target per chapter**, consecutive chapter numbering instead of Part 1/2/3 labels, and permission to draft consecutive chapters in batches. The older 2,000–3,500-word guidance in `01_PROJECT_INSTRUCTIONS.md` and the Arc 8 master command was stale and has been aligned.
+- Chapter 78 demonstrates both Fels's successful body restoration and Bell's spatial transit with Ein. These are events in an author-accepted repository draft, not finalized/locked continuity. The restoration spell and spatial-transit method remain technically unspecified.
+- The revised Chapter 3 passage in `Drafts/` says Bell's body does not physically age in the Land of Dreams. It remains a draft and does not independently finalize the early-arc continuity.
+- Chapter 75 remains the latest explicitly author-approved Arc 8 chapter. No Chapter 79 file is present in `Manuscript/` on the audited `main` branch.
+
+
 
 ## Confirmed repository facts
 
@@ -50,6 +61,8 @@ This page makes the limits of the current archive visible. It should be updated 
 - Exact War Game terms, deadline, registration status, and outcome remain open in that checkpoint.
 - The Dungeon corruption theory recorded in Chapter 75 is preliminary; its mechanism, scope, and limitations remain unresolved.
 - The detailed mechanics, costs, and limits of Arcanum use and the resurrection incantation must not be invented.
+- Chapter 78's spatial displacement of Bell and Ein is demonstrated in the accepted draft, but its exact spell/ability name, mechanism, range, costs, and limits remain [OPEN].
+
 - The author-confirmed Fluctuation-filtering mechanic is established in the master continuity. Chapters 74–75 do not fully explain how the filtering interfaces with the direct Arcanum application described for Test Two; preserve the confirmed mechanic but leave the operational sequence [OPEN]. Do not assign the ritual inscriptions or Sumerian chant the filtering role without author confirmation.
 - The exact relationship between Ein and Filvis Chalia / the two Filvis identities remains [OPEN]; Chapter 72's identity discussion is provisional, while Chapter 75's identification of Ein as Bell's girlfriend is author-approved.
 - Chapter 76's Guild registration proposal remains [OPEN]: verify the Guild's examination procedure, the authority for registration without Dionysus's approval, and Royman's intervention. The draft also flags the spelling and role of Rose Fannett for verification.
@@ -80,6 +93,8 @@ This page makes the limits of the current archive visible. It should be updated 
 
 - The manuscript is stored at `Manuscript/Chapter 078 - The Fool.md`.
 - Bell visits Uranus with Ein approximately one week after asking permission to use Arcanum. He introduces Ein as his girlfriend and renews his promise to visit again.
+- Bell transports himself and Ein from the laboratory to the Prayer Altar and later back to Hearth Manor through spatial displacement; the exact method remains [OPEN].
+
 - Bell restores Fels's body. Fels remembers the name Senku Ishigami and his former research goal: a cure for Medusa-induced petrification. The chapter attributes the loss of Fels's flesh and suppressed knowledge to Osiris's punishment.
 - Before restoration, Fels is gender-unaffiliated and uses they/them pronouns; after identity recovery, the restored Senku is referred to with he/him pronouns.
 - The chapter introduces the AU “Seventieth-Floor Retreat” as a historical event associated with Fels's descent to the seventieth floor.
