@@ -51,6 +51,8 @@ Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscri
 | Current equipment | [OPEN] |
 | Current injuries and location | [OPEN] |
 
+**Last observed location:** Chapter 78's author-accepted draft ends with Bell returning to Hearth Manor with Ein. This is a draft-scene endpoint, not a guarantee of his location in any later chapter; subsequent whereabouts remain [OPEN].
+
 Do not import an old status sheet as current without checking its chapter date and subsequent development. The project has later notes describing Bell at Level 3, but that does not by itself establish his current Level at every subsequent point.
 
 ## Sources

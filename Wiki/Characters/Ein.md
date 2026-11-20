@@ -25,6 +25,7 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 ## Chapter 78 — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY]
 
 - Ein accompanies Bell to Uranus's Prayer Altar approximately one week after Bell requested permission to use Arcanum. Bell introduces her to Uranus as his girlfriend.
+- At the end of the chapter, Ein returns to Hearth Manor with Bell. This is the last observed location in the author-accepted draft, not a later current-location guarantee; subsequent whereabouts remain [OPEN].
 - Ein is present when Bell restores Fels and witnesses the return of Fels's physical body and identity as Senku Ishigami.
 - This chapter does not resolve the open relationship between Ein and the separate Filvis Chalia identity/record. The Chapter 76 surname spelling conflict also remains unresolved.
 
