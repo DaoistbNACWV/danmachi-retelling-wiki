@@ -162,6 +162,7 @@ the finalized prose.
 ## Arc 8 Chapter 78 — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]
 
 - Approximately one week after Bell asks Uranus for permission to use Arcanum for Ein's purification, Bell returns to the Prayer Altar with Ein and introduces her to Uranus as his girlfriend.
+- Bell uses spatial displacement to bring Ein from the laboratory to the Prayer Altar and later return with her to Hearth Manor. The exact spell/ability name, mechanism, range, costs, and limits remain [OPEN].
 - Bell spends several hours speaking with Uranus and renews his promise to visit again.
 - Bell asks Fels whether they would choose restored humanity over continued immortality. Fels admits they would have chosen restoration long ago.
 - Bell uses a spell held through Chant Delay to restore Fels's missing physical body. The spell's formal name and exact limits remain [OPEN].
