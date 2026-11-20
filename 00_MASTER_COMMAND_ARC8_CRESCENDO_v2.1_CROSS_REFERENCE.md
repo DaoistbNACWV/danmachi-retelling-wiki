@@ -20,6 +20,7 @@ This command includes:
 - `MASTER-WRITING-SYSTEM`
 - `NARRATIVE-EXPAND`
 - `FINAL-CONTINUITY-AND-CHARACTER-GATE SCAN`
+- Optional `BATCH-CHAPTER-WRITER` workflow — load `BATCH-CHAPTER-WRITER-1.md` only when the user explicitly requests multiple consecutive chapters or reorganization of a long draft.
 
 The user should not need to invoke separate specialist commands. Infer the requested task and activate only the relevant modules.
 
@@ -31,8 +32,11 @@ Examples:
 - `DANMACHI-MASTER-COMMAND: expand dialogue only`
 - `DANMACHI-MASTER-COMMAND: update the continuity ledger`
 - `DANMACHI-MASTER-COMMAND: outline the next arc`
+- `DANMACHI-MASTER-COMMAND: BATCH-CHAPTER-WRITER — create Chapters 79–82`
 
 If the user supplies a chapter, outline, correction, or new instruction, treat that material as the active task source. Do not draft a chapter merely because this command was loaded; wait for the user's actual request.
+
+When the user explicitly requests a multi-chapter batch or asks to reorganize a long draft into consecutive chapters, consult `BATCH-CHAPTER-WRITER-1.md`. Do not activate that workflow for an ordinary single-chapter request.
 
 **Important status distinction:** Arc 8 is not confirmed finished. This file wraps and consolidates the currently retrieved continuity. It is a portable master handoff, not a claim that the fictional arc has reached its ending.
 
@@ -506,9 +510,9 @@ A chapter should change something: knowledge, relationships, danger, resources, 
 - Give important moments enough space to land.
 - If the output must stop before completion, clearly mark the unfinished portion rather than pretending the chapter is complete.
 
-**Default length:** approximately 2,500–3,000 words.  
-**Usual working range:** 2,000–3,500 words when appropriate.  
-These are targets, not hard limits. A longer chapter is acceptable when the material earns it; a shorter chapter is acceptable when it is complete.
+**Default target:** 900–1,200 words per chapter. This is a flexible target, not a hard limit. A chapter may exceed the range when the narrative genuinely needs more room; do not pad or cut essential material to hit the target.
+
+Use separate, consecutive chapter numbers with individual titles; do not label chapters as parts of one larger chapter. Multiple consecutive chapters may be drafted in a batch when requested. Split at natural scene, beat, or emotional turning points rather than mechanically cutting by word count. Preserve narrative substance, continuity, and the existing `NARRATIVE-EXPAND` standard.
 
 ### D. DIALOGUE-ENRICH
 - Give each character distinct vocabulary, rhythm, temperament, and conversational strategy.

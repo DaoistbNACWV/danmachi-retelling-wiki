@@ -76,8 +76,15 @@ Use: `DANMACHI: RETELLING OF THE LEGEND`
 
 `Chapter [Number] — [Title]`
 
-Usual target: 2,000--3,500 words; approximately 2,500--3,000 when
-appropriate. These are targets, not hard limits.
+Default target: 900--1,200 words per chapter. This is a flexible target,
+not a hard limit. Let a chapter exceed the range when the scene genuinely
+needs more room; do not pad or cut essential material to meet it.
+
+Use separate, consecutive chapter numbers with individual titles. Do not
+label consecutive chapters as Part 1/2/3 of one larger chapter. The author
+accepts drafting multiple consecutive chapters in one batch. Split at
+natural scene, beat, or emotional turning points rather than mechanically
+cutting by word count. Preserve the full narrative substance and continuity.
 
 ### NARRATIVE-EXPAND
 

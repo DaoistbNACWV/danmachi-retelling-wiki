@@ -60,6 +60,8 @@ Do not import an old status sheet as current without checking its chapter date a
 - [00_MASTER_COMMAND_ARC8_CRESCENDO_v2.1_CROSS_REFERENCE.md](../../00_MASTER_COMMAND_ARC8_CRESCENDO_v2.1_CROSS_REFERENCE.md) — locked age correction and Arc 8 rules.
 - [03_ARC_CHECKPOINTS.md](../../03_ARC_CHECKPOINTS.md) — chapter checkpoint index.
 - [Manuscript: Chapter 75 — By My Words](../../Manuscript/Chapter%20075%20-%20By%20My%20Words.md)
+- [Manuscript: Chapter 78 — The Fool](../../Manuscript/Chapter%20078%20-%20The%20Fool.md) — author-accepted draft; restoration and spatial-transit demonstrations are not finalized/locked.
+
 
 
 ---
@@ -213,7 +215,7 @@ These entries appear in later manuscript demonstrations or broader project notes
 | **Infinite Extension** | Reference-recorded; exact mechanics and limitations require verification. |
 | **Erasure Magic** | Reference-recorded; associated in project notes with Permanent / Existence Erasure. |
 | **Permanent Erasure / Existence Erasure** | Reference-recorded; treat as the same concept unless the manuscript explicitly distinguishes them. |
-| **Teleportation** | Reference-recorded; exact source and mechanics require verification. |
+| **Spatial transit / teleportation effect** | **MANUSCRIPT-DEMONSTRATED (Chapter 78 draft):** Bell transports himself and Ein from the laboratory to the Prayer Altar and back through spatial displacement. The spell/ability name, exact mechanism, range, costs, and limits remain [OPEN]. |
 | **Mana Bullet** | Provisional; appears in earlier Forest of Wishe prototype-wand experimentation notes. |
 | **Advanced healing / restoration** | Later research and manuscript material; distinguish demonstrated healing from proposed reconstruction. |
 
@@ -345,9 +347,11 @@ Project notes record three attempts: earlier attempts involving Bell's mother an
 
 Bell investigates separating corruption from affected tissue, removing the harmful influence, and reconstructing damaged biological structures. He recognizes that involvement of the heart or brain creates serious risks. This is research into the underlying structure of the problem, not simply an ordinary healing spell.
 
-**Fels restoration research — Chapter 78, “The Fool”**
+**Fels restoration — Chapter 78, “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]**
 
-Bell plans to restore Fels's original body rather than create an artificial replacement. His considerations include muscles, connective tissues, nerves, blood vessels, organs, and bones. The plan and research direction are established; successful restoration is not established by the information recorded here.
+The chapter depicts Bell successfully restoring Fels's original body through a spell held with Chant Delay. The prose describes reconstruction of the skeletal framework, connective tissues, muscles, blood vessels, nerves, and internal organs. After restoration, Fels remembers the identity Senku Ishigami.
+
+The restoration is successful within the draft, but the chapter is not finalized/locked. The spell's formal name, exact mechanics, costs, limitations, and repeatability remain [OPEN].
 
 ### Chapter reference index
 
@@ -361,7 +365,7 @@ Bell plans to restore Fels's original body rather than create an artificial repl
 | Chapter 69 — “The Trap” | Rite of Three Severances and direct external mana manipulation in the magic-dampening trap sequence. |
 | Chapter 73 — “Test One” | Runic separation, removal of corruption, and biological reconstruction research involving Ein. |
 | Chapter 75 — “By My Words” | Divine Purification ritual; Ein's purification and awakening. |
-| Chapter 78 — “The Fool” | Research plan toward restoring Fels's original body. |
+| Chapter 78 — “The Fool” | The author-accepted draft depicts Bell restoring Fels's original body through Chant Delay and transporting himself and Ein to/from the Prayer Altar through spatial displacement; spell names and mechanics remain [OPEN]. |
 
 ### Unresolved details — do not invent
 
@@ -375,7 +379,7 @@ The following remain unspecified or require direct source verification:
 - Full named inventory of weapons and equipment.
 - Exact capacity and restrictions of spatial storage.
 - Exact costs and mechanics of rituals.
-- Whether Fels's restoration succeeds.
+- Whether the Chapter 78 draft event is retained in finalized continuity; the restoration spell's formal name, mechanics, costs, limits, and repeatability remain [OPEN].
 - Exact chapter locator for the demonstrated copying of Ariel, pending source cross-check.
 
 Do not fill these gaps with generic fantasy assumptions. Consult the manuscript or ask the author.
