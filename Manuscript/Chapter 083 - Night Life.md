@@ -190,7 +190,7 @@ Ein seemed satisfied.
 
 She took his hand and led him toward the sleeping arrangements.
 
-The magical barrier surrounding the campsite was already active. It provided privacy and protection against disturbances from outside.
+The defensive ward surrounding the campsite was already active. It would warn them of approaching intruders and discourage unwanted disturbances, but it did not conceal the campsite from view.
 
 Bell glanced at it.
 
