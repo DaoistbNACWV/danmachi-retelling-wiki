@@ -163,3 +163,14 @@ overwrite a user-approved finalized chapter with a draft.
 - No Chapter 79 file is present on the current `main` branch.
 - Preserve the Chapter 71-onward storage rule and the existing historical Chapter 71 copy; do not move, duplicate, or delete either file.
 
+
+
+## Arc 8 — Chapters Eighty through Eighty-Four [WORKING DRAFTS / PLACEHOLDER]
+
+- `Manuscript/Chapter 080 - Melen.md` — Chapter Eighty, “Melen.” **[WORKING DRAFT — STORED AT AUTHOR'S REQUEST]** Bell and Ein arrive in Melen, establish a temporary campsite overlooking the beach, and survey the coastline. Ein finds no suspicious activity, while Bell remains wary of how unusually peaceful the sea appears.
+- `Manuscript/Chapter 081 - The Girls.md` — Chapter Eighty-One, “The Girls.” **[WORKING DRAFT — STORED AT AUTHOR'S REQUEST]** The Loki Familia girls travel to Melen with an excessive amount of luggage. Riveria supervises the expedition, while Ais, Alicia, and Lefiya are less enthusiastic because they wish Bell were accompanying them. They do not yet know he is already in the area.
+- `Manuscript/Chapter 082 - Amazones.md` — Chapter Eighty-Two, “Amazones.” **[WORKING DRAFT — STORED AT AUTHOR'S REQUEST]** Kali leads a fleet toward Melen. The leading ship carries nearly two hundred Amazons; a second ship carries chained male slaves. The fleet's precise purpose and intentions remain unrevealed.
+- `Manuscript/Chapter 083 - Night Life.md` — Chapter Eighty-Three, “Night Life.” **[WORKING DRAFT — STORED AT AUTHOR'S REQUEST]** Bell and Ein share a quiet, affectionate evening at their campsite after the purification. This repository version keeps the scene non-explicit and age-appropriate; it does not establish additional sexual details.
+- `Manuscript/Chapter 084 - The Break.md` — Chapter Eighty-Four, “The Break.” **[BLANK PLACEHOLDER — AUTHOR'S INSTRUCTION]** The file contains only the chapter heading. No narrative prose has been added.
+- These chapters are working drafts stored at the author's request. They are not marked finalized or locked. Do not silently promote their new details to master continuity.
+- **[OPEN] Chapter 79 remains absent** from the current `Manuscript/` sequence. Do not infer its contents or fill the gap.
