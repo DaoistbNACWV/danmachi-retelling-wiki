@@ -110,7 +110,7 @@ Ais stepped forward.
 
 And then all three saw them.
 
-Bell was sitting beneath the shade of a makeshift shelter, comfortably leaning against a rolled blanket. Ein was beside him, nestled against his chest with one arm resting across his waist.
+Bell was sitting beneath the shade of a makeshift shelter, comfortably leaning against a rolled blanket. Filvis was beside him, nestled against his chest with one arm resting across his waist.
 
 His other arm was wrapped around her.
 
@@ -118,7 +118,7 @@ They were cuddling.
 
 Not particularly concerned with the outside world, either.
 
-Ein was speaking quietly, her head resting beneath Bell's chin. He occasionally answered, though his attention seemed to be divided between the conversation and the peaceful scenery beyond the campsite.
+Filvis was speaking quietly, her head resting beneath Bell's chin. He occasionally answered, though his attention seemed to be divided between the conversation and the peaceful scenery beyond the campsite.
 
 It was an ordinary, affectionate moment.
 
@@ -148,11 +148,11 @@ That was it.
 
 Just hello.
 
-He didn't jump away from Ein. He didn't hurriedly remove his arm. He didn't even look particularly embarrassed.
+He didn't jump away from Filvis. He didn't hurriedly remove his arm. He didn't even look particularly embarrassed.
 
 He simply greeted them as though they had arrived at an entirely ordinary time.
 
-Ein raised her head.
+Filvis raised her head.
 
 She noticed the three girls.
 
@@ -170,7 +170,7 @@ Ais continued staring.
 
 "What are you doing?"
 
-Bell glanced down at Ein, then back at her.
+Bell glanced down at Filvis, then back at her.
 
 "Cuddling."
 
@@ -186,13 +186,13 @@ Bell tilted his head.
 
 Alicia covered her mouth, though her shoulders were already shaking.
 
-Ein's cheeks had turned faintly pink. She shifted as if considering sitting upright, but Bell's arm remained comfortably around her.
+Filvis's cheeks had turned faintly pink. She shifted as if considering sitting upright, but Bell's arm remained comfortably around her.
 
 He looked at her.
 
 "Are you comfortable?"
 
-Ein hesitated.
+Filvis hesitated.
 
 Then she nodded.
 
@@ -206,13 +206,13 @@ Ais looked between them.
 
 Then at Bell's arm.
 
-Then at Ein.
+Then at Filvis.
 
 Her expression was difficult to interpret.
 
 "...You're close."
 
-Ein smiled a little.
+Filvis smiled a little.
 
 "We are."
 
@@ -236,7 +236,7 @@ Alicia finally laughed.
 
 "Even when you're caught doing something like this?"
 
-Bell glanced at Ein again.
+Bell glanced at Filvis again.
 
 "Is there something wrong with it?"
 
@@ -264,7 +264,7 @@ Ais took another step closer.
 
 "Since yesterday."
 
-"With Ein?"
+"With Filvis?"
 
 "Yes."
 
@@ -288,7 +288,7 @@ Alicia accepted immediately.
 
 Lefiya remained standing, still struggling to reconcile the scene with the image she had apparently carried in her head.
 
-Ein looked at her.
+Filvis looked at her.
 
 "Would you like something to drink?"
 
@@ -318,7 +318,7 @@ Then nodded.
 
 Alicia laughed again.
 
-Ein lowered her face against his shoulder, hiding a small smile.
+Filvis lowered her face against his shoulder, hiding a small smile.
 
 Lefiya looked at the sky.
 
@@ -344,7 +344,7 @@ Bell smiled.
 
 "Of course."
 
-Ein nodded in agreement.
+Filvis nodded in agreement.
 
 The three girls had discovered them by accident.
 
@@ -352,7 +352,7 @@ Their peaceful afternoon was over.
 
 Bell, however, didn't seem to mind.
 
-He merely adjusted the blanket around Ein's shoulders and continued holding her.
+He merely adjusted the blanket around Filvis's shoulders and continued holding her.
 
 The break, it seemed, had become considerably more crowded.
 
