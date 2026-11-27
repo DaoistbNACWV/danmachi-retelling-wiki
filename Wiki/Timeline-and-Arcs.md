@@ -15,7 +15,7 @@ This is a navigation index, not a reconstructed full chronology. Arc titles are 
 | 5 | **Spectre** | Title established; detailed source checkpoint is missing from the currently indexed material. |
 | 6 | **Point of Divergence** | Title established; Chapter 39 carries an Arc 6 label in the first source PDF. More boundary verification is required. |
 | 7 | **Rolling the Dice** | Chapters 41–61 are in the second source PDF. Chapter 46, “Arson,” is a documented checkpoint. |
-| 8 | **Crescendo** | Partial chapter files exist. The active chapter sequence is now stored in `Manuscript/`; historical Arc 8 folder material remains preserved. |
+| 8 | **Crescendo** | Partial chapter files exist. Chapters 80–84 are working drafts, Chapter 79 is absent, and Chapter 75 remains the latest author-approved Arc 8 checkpoint. Historical Arc 8 folder material remains preserved. |
 
 ## Verified chapter checkpoints
 
@@ -47,6 +47,16 @@ Repository records currently identify these chapter files/checkpoints:
 - **[Chapter 77 — “The Opposite of Despair”](../Manuscript/Chapter%20077%20-%20The%20Opposite%20of%20Despair.md) [DRAFT]**: Continues the Chapter 76 draft. It depicts Hestia's first Falna blessing for Ein and early testing of three skills and three spells. The Level One entry and all new ability details are draft-only; Eunoia is incomplete, advanced manifestations are not mastered, and Elysium remains theoretical. Do not treat these developments as approved continuity.
 - **[Chapter 78 — “The Fool”](../Manuscript/Chapter%20078%20-%20The%20Fool.md) [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY; NOT FINALIZED / LOCKED]**: Bell and Ein visit Uranus's Prayer Altar about a week after Bell requested permission to use Arcanum. Bell uses spatial displacement to bring Ein to the altar and later return with her to Hearth Manor; the method remains [OPEN]. He then restores Fels's body through Chant Delay. Fels remembers the identity Senku Ishigami and his goal of developing a cure for Medusa-induced petrification. The chapter introduces the AU “Seventieth-Floor Retreat”; its wider history and the restoration spell's mechanics remain open.
 
+
+### Arc 8 — later working drafts (Chapters 80–84) [DRAFT — NOT APPROVED CHECKPOINTS]
+
+- [**Chapter 80 — “Melen”**](../Manuscript/Chapter%20080%20-%20Melen.md) [WORKING DRAFT]: Bell and Ein arrive in the port city of Melen, establish a temporary campsite, and survey the nearby beach. Ein finds no suspicious traces; Bell remains wary of the unusually peaceful sea.
+- [**Chapter 81 — “The Girls”**](../Manuscript/Chapter%20081%20-%20The%20Girls.md) [WORKING DRAFT]: Riveria supervises a Loki Familia expedition travelling to Melen to investigate the coastline and inspect a Leviathan seal. Ais, Alicia, and Lefiya are distracted by Bell's absence.
+- [**Chapter 82 — “Amazones”**](../Manuscript/Chapter%20082%20-%20Amazones.md) [WORKING DRAFT]: Kali leads a fleet toward Melen. The draft describes nearly two hundred Amazones aboard the leading vessel and a separate vessel carrying chained male slaves. The fleet's purpose is unrevealed.
+- [**Chapter 83 — “Night Life”**](../Manuscript/Chapter%20083%20-%20Night%20Life.md) [WORKING DRAFT]: Bell and Ein share a private evening at their campsite. The defensive ward warns of approaching intruders and discourages disturbances; it does not conceal the campsite.
+- [**Chapter 84 — “The Break”**](../Manuscript/Chapter%20084%20-%20The%20Break.md) [WORKING DRAFT]: The Loki Familia completes its inspection and finds the Leviathan seal intact. Ais, Alicia, and Lefiya discover Bell and Filvis cuddling at the campsite. The public-scene name follows the author's explicit direction; Ein remains the private name used in private scenes.
+- **Chapter 79 is absent** from `Manuscript/`. Do not infer its contents or the transition from Chapter 78 to Chapter 80.
+- Chapters 80–84 are working drafts, not finalized/locked. Their events do not create approved continuity checkpoints or alter Falna/status records. Exact chronology, the fleet's timing, the seal's wider history, and the visitors' prior knowledge of Filvis remain [OPEN].
 
 This list is intentionally not a complete chapter inventory. Check [05_MANUSCRIPT_INDEX_AND_GAPS.md](../05_MANUSCRIPT_INDEX_AND_GAPS.md) before treating any sequence as complete.
 
