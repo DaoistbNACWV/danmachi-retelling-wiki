@@ -24,6 +24,16 @@ Chapter 65's checkpoint identifies the eighteenth floor as the Under Resort. Bel
 
 A lodging/tavern/cafe location recommended to Bell by guards when he reaches Orario in the Arc 3 checkpoint. Other details should be taken from the actual chapters.
 
+## Draft-only locations and faction appearances [NOT APPROVED CONTINUITY]
+
+### Melen
+
+[Chapter 80](../Manuscript/Chapter%20080%20-%20Melen.md) through [Chapter 84](../Manuscript/Chapter%20084%20-%20The%20Break.md) (working drafts) depict Melen as a port city with a harbor, beaches, and maritime trade. Bell and Ein establish a temporary campsite there; a Loki Familia expedition also travels to Melen. Chapter 84's draft says the expedition finds the Leviathan seal intact. The seal's exact location, history, and wider significance are [OPEN]. These scenes do not establish an approved current location for Bell or Ein.
+
+### Kali-led fleet
+
+[Chapter 82](../Manuscript/Chapter%20082%20-%20Amazones.md) (working draft) depicts the goddess Kali leading a fleet toward Melen. The leading vessel carries nearly two hundred Amazones; a separate vessel carries chained male slaves. The fleet's purpose, arrival time, relationship to the Loki Familia expedition, the men's identities, and their background remain [OPEN]. Do not infer a Familia name, motive, or subsequent event from this draft.
+
 ## Familias and organizations
 
 ### Loki Familia
