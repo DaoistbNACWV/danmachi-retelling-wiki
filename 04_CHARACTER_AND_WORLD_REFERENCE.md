@@ -164,3 +164,12 @@ of Bell's later abilities.
 - The draft lists Bell as fourteen, Race “Human?”, Level One, with S/999 in STR, END, DEX, AGI, and MAG; skills Alchemy, Synthetase, Mana Control, Divination, and The Flow; and seven named spells.
 - It also lists a large number of Development Abilities at Level One. This is a proposed retelling exception to the usual Level 2+ framework and is not yet finalized/locked.
 - **Status:** Repository draft only. Do not use these numbers or abilities as confirmed current status outside the draft until the author confirms them.
+
+
+## Arc 8 Chapters 80–84 — manuscript-status note (2026-11-27; not approved character/world facts)
+
+- Chapters 80–84 are working drafts stored at the author's request. Their Melen, Leviathan-seal, and Kali-fleet events are not incorporated into verified character or world facts.
+- The author's 2026-11-23 correction establishes the naming convention used in Chapter 84's public scene: use “Filvis” when outside visitors are present; “Ein” remains the private name used in private scenes. This does not merge her with the Dionysus-associated Filvis or resolve the surname spelling conflict.
+- Chapters 80, 83, and 84 place Bell and Ein/Filvis in Melen within draft scenes. Treat this only as draft-scene location evidence, not an approved current-location update.
+- Chapter 79 is absent; the transition from Chapter 78's Hearth Manor endpoint to Chapter 80's Melen arrival remains unrecorded.
+- Chapters 80–84 establish no approved change to Bell's or Ein's Falna, Level, stats, skills, spells, equipment, injuries, or Familia status. Unknown fields remain [OPEN].
