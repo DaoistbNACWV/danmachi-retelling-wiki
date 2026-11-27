@@ -17,7 +17,6 @@ The [Project Wiki](Wiki/README.md) is the navigable encyclopedia for characters,
 - `ARC_1_TO_8_MIGRATION_STATUS.md` — migration ledger, known gaps, and next steps.
 - `MASTER_WRITING_SYSTEM_Swiss_Knife_v1.0.md` — writing workflow.
 - `BATCH-CHAPTER-WRITER-1.md` — optional multi-chapter workflow; 900–1,200 words per chapter, consecutive numbering, and natural narrative split points.
-- `BATCH-CHAPTER-WRITER-1.md` — optional multi-chapter workflow; 900–1,200 words per chapter, consecutive numbering, and natural narrative split points.
 
 ## Source manuscripts committed
 
@@ -31,9 +30,7 @@ These are preserved as source archives. They contain some chat/revision artifact
 ## Current manuscript layout
 
 - `Arc 8 - Crescendo/` — contains the existing Arc 8 chapter files for Chapters 65–69 and the preserved historical Chapter 71 copy.
-- `Manuscript/` — contains Chapter 070, the working Chapter 71 copy, and Chapters 072–078 plus working-draft files for Chapters 080–084. Chapters 072 “Purification,” 076 “Relief,” 077 “The Opposite of Despair,” and 080–083 are drafts; Chapter 078 “The Fool” is an author-accepted repository draft, not yet finalized/locked. Chapter 079 remains a gap. Keep Chapter 71 onward in `Manuscript/`; do not move or duplicate files.
-- `Drafts/` — contains the revised Arc 1 Chapter 3 passage, explicitly marked as a draft and not finalized. It is separate from the working `Manuscript/` sequence.
-
+- `Manuscript/` — contains Chapter 070, the working Chapter 71 copy, Chapters 072–078, and working drafts 080–084. Chapters 072, 076–077, and 080–084 are drafts; Chapter 078 “The Fool” is an author-accepted repository draft, not finalized/locked. Chapter 079 is absent. Chapter 075 remains the latest explicitly author-approved Arc 8 chapter; Chapters 73–74 have no explicit approval marker. Keep Chapter 71 onward in `Manuscript/`; do not move or duplicate files.
 - `Drafts/` — contains the revised Arc 1 Chapter 3 passage, explicitly marked as a draft and not finalized. It is separate from the working `Manuscript/` sequence.
 
 - Chapters 1–61 are preserved in the two source PDFs, but have not yet been split into individual chapter files.
@@ -45,7 +42,7 @@ Keep current chapters from Chapter 71 onward in `Manuscript/`. Keep verified his
 
 ## Public encyclopedia
 
-- **Website:** https://daoistbnacwv.github.io/danmachi-retelling-wiki/ (GitHub Pages deployment verified successful on 2026-11-20; [workflow run](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/actions/runs/44731180160)).
+- **Website:** https://daoistbnacwv.github.io/danmachi-retelling-wiki/ ([GitHub Pages workflow history](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/actions/workflows/pages.yml) — check the latest run for current build/deployment status).
 - **Repository wiki sources:** [Wiki/](Wiki/README.md). These Markdown pages are the source of truth for the public site's article content.
 - **GitHub Wiki landing-page draft:** [Wiki/Home.md](Wiki/Home.md). The native GitHub Wiki is a separate feature and must be initialized once from the repository's Wiki tab before its pages can be mirrored there.
 - **Website implementation and deployment instructions:** [docs/README.md](docs/README.md).
