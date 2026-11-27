@@ -3,10 +3,12 @@
 > **The archive of a different legend.**  
 > A navigable encyclopedia for the project's alternate timeline, characters, events, abilities, worldbuilding, and editorial continuity.
 
-**Wiki status:** Active · **Last initialized:** 2026-11-11 · **Last audited:** 2026-11-20  
+**Wiki status:** Active · **Last initialized:** 2026-11-11 · **Last audited:** 2026-11-27  
 **Primary repository:** [DANMACHI: RETELLING OF THE LEGEND](../README.md)
 
 ---
+
+**Manuscript status — 2026-11-27:** Chapter 84 is the highest-numbered file in `Manuscript/`; Chapters 80–84 are working drafts, Chapter 79 is absent, and Chapter 75 remains the latest explicitly author-approved Arc 8 chapter. See [Editorial Status](Editorial-Status.md).
 
 ## Welcome
 
