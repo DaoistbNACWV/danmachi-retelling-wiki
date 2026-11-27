@@ -314,8 +314,102 @@ Use the following hierarchy when expanding this file:
 
 When adding a rule, record whether it is manga-confirmed, supplementary-material-supported, interpretation, or crossover invention. Cite chapter/volume or official source where possible. Be especially careful with translation differences and claims based only on anime presentation.
 
+
 ---
 
-## 12. Change log
+## 12. Retelling Bell's JJK Reincarnation — Gojo Toki
+
+**Status:** AUTHOR-ESTABLISHED CROSSOVER PREMISE  
+**Character identity in JJK:** Gojo Toki  
+**Origin:** Retelling Bell Cranel, whose deeper identity is Chronos  
+**Birth:** Born into the Gojo Clan  
+**Memory awakening:** Age five
+
+### 12.1 Reincarnation and cleansing
+
+After being expelled from Gekai, Retelling Bell undergoes a reset and is reborn into the Gojo Clan as **Gojo Toki**.
+
+His soul is cleansed as part of this transition. However, the cleansing does not erase his memories: because he is also a god, he retains all of his memories despite the reset. Those memories return to conscious access when he reaches the age of awakening, **five years old**.
+
+Keep these two facts distinct:
+- **Soul cleansing/reset:** The reincarnation involves a cleansing of his soul. Do not assume that his former body's condition, Falna, or every prior metaphysical attachment transfers unchanged.
+- **Divine memory retention:** His godhood allows him to retain his memories through the cleansing and reincarnation. At five, he regains access to those memories.
+
+**Unresolved metaphysical detail:** The exact mechanism by which a cleansed soul retains memories because of its divine nature has not yet been specified. Do not invent a detailed explanation or contradict the premise. Treat memory retention as an established crossover fact and its underlying mechanism as awaiting further definition.
+
+### 12.2 New identity and upbringing
+
+Gojo Toki is born as a member of the Gojo Clan in the JJK world. He is not simply Bell wearing a new name or an adult mind placed into an existing body: the stated premise is a new birth and a new life, followed by the return of his retained memories at age five.
+
+The following details have not yet been established:
+- His parents and immediate family.
+- His position or status within the Gojo Clan.
+- Whether the clan knows anything about his unusual reincarnation.
+- His personality and behavior between birth and the five-year awakening.
+- Whether he displays unusual signs before his memories return.
+- How the clan interprets the awakening.
+
+Do not fill these gaps without author direction.
+
+### 12.3 Innate Cursed Technique — Time Manipulation
+
+Gojo Toki's innate cursed technique is **Time Manipulation**.
+
+This is his JJK-native innate cursed technique. It should be treated as the foundation from which its named applications and future developments arise. Do not conflate it with Bell's former DanMachi magic or automatically classify every former ability as an application of this cursed technique.
+
+### 12.4 Named application — Eternity
+
+**Eternity** is a time-based defensive technique/application of Time Manipulation.
+
+Its established effect is to impose **time negation** upon anything that approaches Gojo Toki. Unlike Gojo Satoru's Limitless technique, which manipulates the space between the user and an approaching object so that it cannot reach him in the ordinary way, Eternity literally cancels the incoming attack through temporal negation.
+
+The author's stated scope is absolute in wording: it can cancel **any and all attacks** that approach him.
+
+Important distinction:
+- **Gojo Satoru — Infinity:** A spatial effect associated with Limitless that prevents an approaching object from reaching him by manipulating the space involved.
+- **Gojo Toki — Eternity:** A temporal defensive effect that negates an approaching attack through time manipulation.
+
+Do not describe Eternity as merely slowing attacks, making them infinitely distant, or functioning as a reskinned Infinity. Its defining principle is time negation and cancellation.
+
+**Details not yet specified:** Whether Eternity is continuously active, what counts as an attack, how it identifies hostile intent, whether it affects indirect/environmental phenomena, its range, its interaction with domains and sure-hit effects, and whether it has any cost or limitation. Preserve the established claim that it cancels any and all approaching attacks; do not quietly add exceptions or weaknesses. Record future clarifications from the author.
+
+### 12.5 Maximum Output — The World
+
+**The World** is the Maximum Output of Gojo Toki's Time Manipulation.
+
+Its defining effect is **Time Stop**: it stops time.
+
+This is distinct from Eternity:
+- **Eternity:** Defensive temporal negation of incoming attacks.
+- **The World:** Maximum-output temporal control that stops time.
+
+Do not invent duration, range, target restrictions, activation requirements, energy cost, cooldown, or what Gojo Toki can do while time is stopped. These remain open for future definition.
+
+### 12.6 Future development
+
+The author has indicated that additional applications and developments of Time Manipulation will be established later. This section is therefore a foundation, not an exhaustive ability list.
+
+When new abilities are introduced:
+1. Record the exact name and effect.
+2. Identify whether it is a base application, extension, maximum technique/output, reversal, or another category only when the author specifies or the mechanics clearly establish it.
+3. Keep its relationship to Time Manipulation explicit.
+4. Record its conditions, limits, costs, and interactions only when established.
+5. Do not assume that The World or Eternity represents the full extent of the technique.
+
+### 12.7 Continuity safeguards
+
+- Gojo Toki is Retelling Bell reborn in the JJK world.
+- He is born into the Gojo Clan.
+- His soul is cleansed during the reset, but he retains his memories because he is also a god.
+- His memories return when he reaches five years old.
+- His innate cursed technique is Time Manipulation.
+- Eternity is temporal negation that cancels any and all attacks approaching him; it is not Gojo Satoru's spatial Infinity.
+- The World is the Maximum Output and stops time.
+- Further abilities and mechanics are pending author development.
+- Do not activate or import Bell's separately restricted God Mode material unless the author explicitly says **"god mode"**. Gojo Toki's stated Time Manipulation abilities are part of this crossover premise; they do not by themselves authorize unrelated God Mode abilities.
+
+
+## 13. Change log
 
 - **2026-11-27:** Initial foundation drafted from the JJK systems and crossover issues discussed with the author. Timeline, arrival location, and core energy compatibility remain undecided. Bell-specific principles are proposals, not silently approved canon.
+- **2026-11-27:** Added the author-established reincarnation premise: Retelling Bell is reborn as Gojo Toki in the Gojo Clan; his soul is cleansed, but his divine nature preserves his memories, which awaken at age five. Added Time Manipulation, Eternity, and The World as currently defined. Unspecified mechanics remain open.
