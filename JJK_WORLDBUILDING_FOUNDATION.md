@@ -535,3 +535,41 @@ These are author-established exceptions. Their precise mechanisms have not yet b
 - **2026-11-28:** Added Eternity's absolute harm-rejection principle and the two author-stated lethal exceptions: higher-dimensional existence and Mahoraga. The precise bypass mechanics remain open.
 - **2026-11-28:** Added The World's Maximum Output mechanics: Bell allows the time-stop effect to include him, yet moves through future-derived output available in the present. Documented the resulting self-sustaining causal loop / bootstrap paradox and kept immortality, failure consequences, and external interruption unresolved.
 - **2026-11-27:** Added Eternity's CE-cost exploit: Bell binds himself to a stale temporal state, interrupting ordinary CE expenditure. Expanded the mechanism with the author's perpetual-motion analogy: the technique's next-second output is available in the present, while Bell acts through a stale/past temporal reference and remains in the present, allowing him to move in frozen time. The exact metaphysical accounting and boundaries remain open.
+
+
+### 12.11 Eternity — embodiment, shared application, and temporal reversal
+
+**Status:** AUTHOR-ESTABLISHED MECHANIC; precise scope and conditions remain open
+
+Eternity is not merely a defensive technique that Bell happens to use. **Bell is Eternity itself.** His ordinary defensive use designates himself as the target of the technique: he imposes Eternity upon himself, and its temporal rejection protects him.
+
+However, self-designation is the normal application, not necessarily the absolute limit of the technique. Bell can **share or extend Eternity to another person or entity**, making that being a designated target of its temporal effect as well. This opens an offensive or restorative application that is fundamentally different from simply attacking the target.
+
+#### Reverting a target
+
+When Eternity is applied to another being, Bell can revert that target to an earlier temporal state. This is a temporal reversal of the target, not merely healing damage or physically forcing the target backward through space.
+
+The author has specifically identified Mahoraga as an application: if Mahoraga has adapted to Eternity, Bell can apply Eternity to Mahoraga itself and **reverse the wheel's rotation**, reverting its adaptation rather than trying to overpower the adaptation through ordinary damage.
+
+The intended interaction is therefore:
+1. Mahoraga adapts to Eternity.
+2. Bell designates Mahoraga itself as a target of Eternity by sharing/extending the technique.
+3. Eternity acts upon Mahoraga's temporal state.
+4. The wheel's adaptation progression is reversed — the wheel spins backward — reverting Mahoraga from the adapted state.
+
+This is not the same as Bell imposing Eternity on an attack, rewriting the attacker's actions, or freely reversing causality across unrelated targets. The stated mechanism is to make the person/entity itself the target and revert that target through Eternity.
+
+#### Continuity safeguards and unresolved details
+
+- Bell is Eternity itself; do not reduce this to a conventional defensive technique that is merely attached to him.
+- His usual defensive application is self-imposed: Bell designates himself as the target.
+- Bell can share/extend Eternity so another person or entity becomes its designated target.
+- Applying Eternity to a target can revert that target to an earlier temporal state.
+- The Mahoraga example specifically reverses the adaptation wheel's rotation, undoing/reverting its adaptation progression.
+- This is a temporal reversal of the target's state, not an ordinary attack, healing effect, or generic causality rewrite.
+- Do not assume Bell can apply Eternity to any arbitrary event, technique, object, or historical point; the established extension is to another person or entity as a target.
+- Do not invent range, duration, activation requirements, CE cost, resistance conditions, number of simultaneous targets, or whether the target must be touched or perceived.
+- Do not assume the reversal permanently prevents Mahoraga from adapting again. The established effect is reversal of its current adaptation progression; whether it can begin adapting again is not yet specified.
+- Do not assume this application automatically reverses every consequence Mahoraga has caused, or rewrites the surrounding world's history. Its established target is Mahoraga itself and its adaptation wheel.
+- Preserve the distinction between Eternity's self-protection, Eternity shared with another target, and The World's maximum-output time stop.
+
