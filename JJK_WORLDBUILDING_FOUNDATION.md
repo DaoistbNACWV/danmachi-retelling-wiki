@@ -409,7 +409,44 @@ When new abilities are introduced:
 - Do not activate or import Bell's separately restricted God Mode material unless the author explicitly says **"god mode"**. Gojo Toki's stated Time Manipulation abilities are part of this crossover premise; they do not by themselves authorize unrelated God Mode abilities.
 
 
+### 12.8 Eternity's cost exploit — Stale State
+
+**Status:** AUTHOR-ESTABLISHED MECHANIC
+
+Eternity is naturally a **Cursed-Energy-hungry technique**. Its defensive effect is powerful, but maintaining or repeatedly processing the technique would ordinarily impose a substantial CE burden.
+
+Bell has discovered an exploit in the way his own Time Manipulation operates: **he can bind himself to a stale state**.
+
+In this state, time behaves differently for Bell. Rather than allowing the technique's normal processing and energy expenditure to proceed, he anchors himself to a temporal state in which Eternity's defensive condition is already established. The exploit interrupts the process before it reaches the point at which it would consume Cursed Energy.
+
+The practical result is that Bell can remain in this stale state indefinitely during battle or combat, keeping Eternity's protection in effect without paying its ordinary ongoing CE cost.
+
+#### Conceptual comparison
+
+The closest comparison is Regulus Corneas's *Lion's Heart* from *Re:Zero*, specifically the idea of maintaining a state that is removed from ordinary temporal progression. However, this is only an analogy for understanding the concept; Eternity's mechanism is Bell's own Time Manipulation, not Regulus's Authority.
+
+Unlike the five-second limitation associated with Lion's Heart, Bell's stale-state exploit has **no stated five-second limit**. Do not import Regulus's exact rules into Bell's technique.
+
+#### The food analogy
+
+Cursed Energy can be thought of as food consumed by the technique. Ordinarily, Eternity would proceed through its operation and consume that energy. Bell's exploit prevents the consumption process from being reached: he effectively interrupts the process before the technique gets to eat.
+
+This is **not** infinite CE, energy generation, or ordinary CE efficiency. Bell is exploiting the temporal order of the technique's processing and its energy expenditure.
+
+#### Continuity distinctions
+
+- Eternity remains naturally CE-costly; the exploit does not make its ordinary operation inherently cheap.
+- The stale state is the exploit that bypasses the ordinary CE expenditure.
+- Bell can maintain this stale state indefinitely during combat, as currently established by the author.
+- The mechanism is temporal, arising from Bell's Time Manipulation; it is not a barrier, spatial defense, or conventional automatic energy-saving mode.
+- Do not invent a five-second timeout, a routine CE drain, or a fixed duration.
+- The exact scope of what else is frozen or excluded from the stale state, how Bell moves and acts while bound to it, and whether it can be disrupted by another technique remain unspecified. Do not infer answers without author direction.
+- This exploit applies to Eternity as described. Do not automatically extend it to The World or every other application of Time Manipulation.
+
+
+
 ## 13. Change log
 
 - **2026-11-27:** Initial foundation drafted from the JJK systems and crossover issues discussed with the author. Timeline, arrival location, and core energy compatibility remain undecided. Bell-specific principles are proposals, not silently approved canon.
 - **2026-11-27:** Added the author-established reincarnation premise: Retelling Bell is reborn as Gojo Toki in the Gojo Clan; his soul is cleansed, but his divine nature preserves his memories, which awaken at age five. Added Time Manipulation, Eternity, and The World as currently defined. Unspecified mechanics remain open.
+- **2026-11-27:** Added Eternity's CE-cost exploit: Bell binds himself to a stale temporal state, interrupting the technique's processing before ordinary CE expenditure occurs. This can be maintained indefinitely in combat as currently established; the exact boundaries of the stale state remain open.
