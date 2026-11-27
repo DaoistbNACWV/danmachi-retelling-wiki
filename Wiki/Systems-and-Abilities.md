@@ -50,7 +50,9 @@ Preserve the distinction:
 
 Do not describe Fluctuation as simply identical to raw Arcanum. Chapter 74 records Bell's theory that Fluctuation is a residual manifestation of Arcanum, then frames Test Two as a controlled, direct Arcanum purification requiring divine authorization. The author-confirmed filtering mechanic must be preserved, but Chapters 74–75 do not fully narrate how that filtering interfaces with the planned direct application. The precise operational sequence, costs, limits, and role of the ritual inscriptions or Sumerian chant remain [OPEN]. Do not claim that the inscriptions or chant are the filtering mechanism.
 
-### Resurrection incantation### Spatial transit — Chapter 78 draft
+### Resurrection incantation
+
+### Spatial transit — Chapter 78 draft
 
 Chapter 78 depicts Bell transporting himself and Ein from the laboratory to Uranus's Prayer Altar and later back to Hearth Manor through spatial displacement. This is a demonstrated effect in an author-accepted draft, not a finalized ability specification. The exact spell/ability name, mechanism, range, costs, and limits remain [OPEN].
 
