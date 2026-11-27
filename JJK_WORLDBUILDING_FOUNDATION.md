@@ -413,13 +413,29 @@ When new abilities are introduced:
 
 **Status:** AUTHOR-ESTABLISHED MECHANIC
 
-Eternity is naturally a **Cursed-Energy-hungry technique**. Its defensive effect is powerful, but maintaining or repeatedly processing the technique would ordinarily impose a substantial CE burden.
+Eternity is naturally a **Cursed-Energy-hungry technique**. Its defensive effect is powerful, but its ordinary operation would impose a substantial CE burden.
 
 Bell has discovered an exploit in the way his own Time Manipulation operates: **he can bind himself to a stale state**.
 
-In this state, time behaves differently for Bell. Rather than allowing the technique's normal processing and energy expenditure to proceed, he anchors himself to a temporal state in which Eternity's defensive condition is already established. The exploit interrupts the process before it reaches the point at which it would consume Cursed Energy.
+In this state, time behaves differently for Bell. He anchors himself to a temporal state in which Eternity's defensive condition is already established. The exploit prevents the technique's ordinary processing from reaching the point at which it consumes Cursed Energy.
 
 The practical result is that Bell can remain in this stale state indefinitely during battle or combat, keeping Eternity's protection in effect without paying its ordinary ongoing CE cost.
+
+#### Temporal output displacement — the perpetual-motion analogy
+
+The author's analogy is a perpetual-motion machine whose output is not the energy it would generate in the current second, but the output it will generate in the **next second**, delivered early.
+
+Applied to Bell's technique:
+- The technique's future execution/output is brought forward and made available in the present.
+- Its ordinary present-time processing is bypassed or prevented from reaching the CE-consumption stage.
+- Bell is therefore using an effect whose execution belongs to the future, while his own temporal reference is anchored to a stale, past state.
+- He remains in the present, but acts through that stale temporal reference.
+
+This is the central paradox of the exploit: **Bell is in the present, moving through a frozen world by acting from a stale/past temporal state while using the output of a technique that, in ordinary sequence, belongs to his future.**
+
+This is why Bell can move when time is frozen around him. He is not simply resisting the freeze through speed, strength, or conventional immunity; his own temporal state and the temporal source of the technique's output do not follow the same ordinary progression as the frozen surroundings.
+
+The perpetual-motion comparison is an explanatory analogy for the temporal ordering of output. Do not reinterpret it as literal creation of energy from nothing, infinite CE reserves, or a conventional perpetual-energy generator. The exact metaphysical accounting of the future output has not yet been specified.
 
 #### Conceptual comparison
 
@@ -431,22 +447,26 @@ Unlike the five-second limitation associated with Lion's Heart, Bell's stale-sta
 
 Cursed Energy can be thought of as food consumed by the technique. Ordinarily, Eternity would proceed through its operation and consume that energy. Bell's exploit prevents the consumption process from being reached: he effectively interrupts the process before the technique gets to eat.
 
-This is **not** infinite CE, energy generation, or ordinary CE efficiency. Bell is exploiting the temporal order of the technique's processing and its energy expenditure.
+The future-output analogy adds another dimension: the technique's next-second output is already available now, so Bell does not need to wait for the ordinary present-time process to consume CE and produce that output.
+
+This is **not** infinite CE, energy generation, or ordinary CE efficiency. Bell is exploiting the temporal order of the technique's processing, output, and energy expenditure.
 
 #### Continuity distinctions
 
 - Eternity remains naturally CE-costly; the exploit does not make its ordinary operation inherently cheap.
 - The stale state is the exploit that bypasses the ordinary CE expenditure.
 - Bell can maintain this stale state indefinitely during combat, as currently established by the author.
+- The technique's future execution/output is made available in the present, while Bell acts through a stale/past temporal reference.
+- Bell remains in the present; the stale state describes the temporal reference through which he acts, not a literal relocation of his body to an earlier date.
+- This is how Bell can move and act while the surrounding world is frozen in time.
 - The mechanism is temporal, arising from Bell's Time Manipulation; it is not a barrier, spatial defense, or conventional automatic energy-saving mode.
 - Do not invent a five-second timeout, a routine CE drain, or a fixed duration.
-- The exact scope of what else is frozen or excluded from the stale state, how Bell moves and acts while bound to it, and whether it can be disrupted by another technique remain unspecified. Do not infer answers without author direction.
+- The exact metaphysical accounting of future output, and the full scope of what else is frozen or excluded from the stale state, remain unspecified. Do not infer answers without author direction.
 - This exploit applies to Eternity as described. Do not automatically extend it to The World or every other application of Time Manipulation.
-
 
 
 ## 13. Change log
 
 - **2026-11-27:** Initial foundation drafted from the JJK systems and crossover issues discussed with the author. Timeline, arrival location, and core energy compatibility remain undecided. Bell-specific principles are proposals, not silently approved canon.
 - **2026-11-27:** Added the author-established reincarnation premise: Retelling Bell is reborn as Gojo Toki in the Gojo Clan; his soul is cleansed, but his divine nature preserves his memories, which awaken at age five. Added Time Manipulation, Eternity, and The World as currently defined. Unspecified mechanics remain open.
-- **2026-11-27:** Added Eternity's CE-cost exploit: Bell binds himself to a stale temporal state, interrupting the technique's processing before ordinary CE expenditure occurs. This can be maintained indefinitely in combat as currently established; the exact boundaries of the stale state remain open.
+- **2026-11-27:** Added Eternity's CE-cost exploit: Bell binds himself to a stale temporal state, interrupting ordinary CE expenditure. Expanded the mechanism with the author's perpetual-motion analogy: the technique's next-second output is available in the present, while Bell acts through a stale/past temporal reference and remains in the present, allowing him to move in frozen time. The exact metaphysical accounting and boundaries remain open.
