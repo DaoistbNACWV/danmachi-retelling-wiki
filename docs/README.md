@@ -13,7 +13,7 @@ One-time repository setup:
 3. Open **Actions** and run **Deploy Legend Archive** (or push a change under `docs/`, `Wiki/`, or the workflow).
 4. After the deployment succeeds, open the published URL shown in the workflow's `github-pages` environment.
 
-Current public URL: `https://daoistbnacwv.github.io/danmachi-retelling-wiki/`. The GitHub Pages build and deployment workflow last completed successfully on 2026-11-20 after the continuity and wiki audit ([workflow run](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/actions/runs/44731180160)).
+Current public URL: `https://daoistbnacwv.github.io/danmachi-retelling-wiki/`. Check the [GitHub Pages workflow history](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/actions/workflows/pages.yml) for the latest build and deployment result. The workflow runs when `docs/**`, `Wiki/**`, or the workflow file changes are pushed to `main`.
 
 ## Data model
 
