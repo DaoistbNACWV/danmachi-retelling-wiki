@@ -157,11 +157,13 @@ overwrite a user-approved finalized chapter with a draft.
 - Its revision note states that Bell does not physically age, grow, or change inside the Land of Dreams. His development there is intellectual and experiential only, and his awareness of the Being is gradual and subtle.
 - This is draft-only material, not a finalized continuity update. Do not silently promote it to locked continuity.
 
-## Current working manuscript endpoint — 2026-11-20
+## Current working manuscript endpoint — 2026-11-27
 
-- The highest-numbered file in `Manuscript/` is Chapter 78, “The Fool.”
-- No Chapter 79 file is present on the current `main` branch.
-- Preserve the Chapter 71-onward storage rule and the existing historical Chapter 71 copy; do not move, duplicate, or delete either file.
+- The highest-numbered file in `Manuscript/` is Chapter 84, “The Break.”
+- Chapter 79 is absent from the current `main` branch. Treat it as a repository gap until an authoritative source is supplied; do not infer, recreate, or renumber it.
+- Chapters 80–84 are present as working drafts stored at the author's request. They are not finalized/locked and do not advance the latest author-approved Arc 8 checkpoint beyond Chapter 75.
+- Chapter 84 uses “Filvis” in the public scene with outside visitors; “Ein” remains the private name used in private scenes, following the author's explicit 2026-11-23 correction. This naming convention does not resolve the Dionysus-associated Filvis record or the Chalia/Challia surname conflict.
+- Chapter 71 remains present in both the working `Manuscript/` path and the historical Arc 8 path with identical blob contents. Preserve both copies and the Chapter 71-onward storage rule; do not move, duplicate, or delete either file.
 
 
 
