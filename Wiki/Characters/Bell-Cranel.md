@@ -51,9 +51,14 @@ Chapter 75, “By My Words,” is marked CANON / AUTHOR-APPROVED in the manuscri
 | Current equipment | [OPEN] |
 | Current injuries and location | [OPEN] |
 
-**Last observed location:** Chapter 78's author-accepted draft ends with Bell returning to Hearth Manor with Ein. This is a draft-scene endpoint, not a guarantee of his location in any later chapter; subsequent whereabouts remain [OPEN].
+**Last observed location in the author-accepted repository draft:** Chapter 78 ends with Bell returning to Hearth Manor with Ein. Later working drafts (Chapters 80–84) place Bell in Melen with Ein/Filvis, but these are not approved current-location updates. His current approved location remains [OPEN].
 
 Do not import an old status sheet as current without checking its chapter date and subsequent development. The project has later notes describing Bell at Level 3, but that does not by itself establish his current Level at every subsequent point.
+
+### Later working drafts — location only [NOT APPROVED CONTINUITY]
+
+- [Chapter 80 — Melen](../../Manuscript/Chapter%20080%20-%20Melen.md) and [Chapter 84 — The Break](../../Manuscript/Chapter%20084%20-%20The%20Break.md) depict Bell at a temporary campsite in Melen; Chapter 83 depicts a private evening at the same campsite. These draft scenes do not establish a finalized current location or any new Falna/ability status.
+- Chapter 84 uses “Filvis” for Ein in the public scene with outside visitors, following the author's explicit 2026-11-23 naming correction. This does not resolve the separate Dionysus-associated Filvis record.
 
 ## Sources
 
