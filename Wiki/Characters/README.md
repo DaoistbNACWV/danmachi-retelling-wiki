@@ -7,7 +7,7 @@ This directory is a starting index. It does not imply that every character's com
 ## Profiles
 
 - [Bell Cranel](Bell-Cranel.md) — protagonist; retelling-specific development and confirmed checkpoints.
-- [Ein](Ein.md) — central figure in the Arc 8 purification sequence; awakened in Chapter 75 and identified as Bell's girlfriend in that author-approved chapter.
+- [Ein](Ein.md) — central figure in the Arc 8 purification sequence; awakened and identified as Bell's girlfriend in author-approved Chapter 75. Later drafts use Ein privately and Filvis publicly in Chapter 84, per the author's explicit naming direction.
 - [Senku Ishigami / Fels](Senku-Ishigami-Fels.md) — Fels, the Fool, is restored by Bell in Chapter 78 and remembers the identity Senku Ishigami. The profile is based on an author-accepted draft and is not finalized/locked.
 
 ## Additional character records
@@ -21,7 +21,7 @@ The repository's [Character and World Reference](../../04_CHARACTER_AND_WORLD_RE
 - **Haruhime** — explicitly allowed by the Arc 8 character gate.
 - **Ein** — see the [individual profile](Ein.md); Chapter 75 explicitly identifies her as Bell's girlfriend after her awakening. Her exact identity relationship with Filvis Chalia remains unresolved in the current indexed material.
 - **Uranus** — grants Bell authorization to use Arcanum for the purification procedure in Chapter 74.
-- **Filvis Chalia** — Chapter 71 identifies a Level Four captain associated with Dionysus. Chapters 76–77 use “Filvis” as Ein's proposed public identity in draft material while separately portraying the Dionysus-associated Filvis. The relationship between the two records remains [OPEN]; do not merge their identities, Falna histories, or allegiances. Chapter 76 spells the Guild-record surname “Challia,” while Chapters 69 and 71 use “Chalia”; this is [CONFLICT] pending author confirmation.
+- **Filvis Chalia** — Chapter 71 identifies a Level Four captain associated with Dionysus. Chapter 72's draft discusses two Filvis identities; Chapters 76 and 84 use “Filvis” as Ein's public identity, while “Ein” remains her private name in private scenes under the author's explicit direction. Whether Ein's public identity is connected to the Dionysus-associated Filvis record remains [OPEN]; do not merge identities, Falna histories, or allegiances. Chapter 76 spells the Guild-record surname “Challia,” while Chapters 69 and 71 use “Chalia”; this remains [CONFLICT].
 
 These are directory notes, not complete profiles. Create individual pages only after consulting the relevant source chapters and current character reference. Avoid copying unsupported status values from older drafts.
 
