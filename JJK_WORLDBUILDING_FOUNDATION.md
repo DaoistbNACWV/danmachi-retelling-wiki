@@ -465,8 +465,43 @@ This is **not** infinite CE, energy generation, or ordinary CE efficiency. Bell 
 - This exploit applies to Eternity as described. Do not automatically extend it to The World or every other application of Time Manipulation.
 
 
+### 12.9 The World — self-sustaining temporal paradox
+
+**Status:** AUTHOR-ESTABLISHED MECHANIC; detailed boundaries remain open
+
+The World is the **Maximum Output of Time Manipulation**. It is not merely an extension of Eternity's defensive negation. Bell allows the bounded time-stop technique to affect him as well: time around him is stopped, and he is included in that stopped temporal condition.
+
+Bell can nevertheless move because The World lets him move forward in the future. The movement is enabled by the same temporal-output principle established in the stale-state explanation: an output belonging to the future is available in the present. In this case, that future-derived operation lets Bell act while the surrounding time is stopped.
+
+This creates a causal paradox:
+
+1. The World functions in the present by drawing on an operation/output that belongs to Bell's future.
+2. That future operation can exist only if Bell continues to exist.
+3. If Bell does not exist, the future in which the technique's operation occurs cannot exist.
+4. Without that future operation, The World cannot function in the present as described.
+5. Yet The World's present operation is itself part of the condition that allows Bell to act within the stopped time and continue toward that future.
+
+**The technique's future depends on Bell's continued existence, while its present operation depends on that future.** Bell and The World's future output are therefore caught in a self-sustaining causal loop.
+
+The closest conceptual label is a **bootstrap paradox / self-consistency loop**: the technique's operation is supported by a future that is itself dependent on the continued existence of the person using the technique. The future output is not simply an effect with an ordinary linear cause; it participates in the conditions that make its own present use possible.
+
+#### Continuity safeguards
+
+- The World is the Maximum Output of Time Manipulation and its stated effect is to stop time around Bell.
+- Bell is not exempted from the time-stop effect by ordinary immunity; he allows the technique's bounded effect to include him.
+- Bell can move because the technique permits him to move forward in the future, making future-derived output available in the present.
+- Preserve the distinction between this and ordinary speed, reflexes, or resistance to time stop.
+- The causal loop requires Bell to continue to exist for the future operation/output to exist, as currently described by the author.
+- This is a temporal dependency, not yet a general declaration that Bell is immortal or cannot be killed by any means. Whether and how an external event could break, override, or destabilize the loop is unresolved.
+- Do not invent a timeline-erasure outcome, automatic resurrection, invulnerability, energy debt, or a specific failure consequence. The author's statement that Bell must always exist for the technique to function is established; the precise behavior if that condition is violated remains to be defined.
+- Do not automatically transfer this paradox to Eternity's ordinary defensive operation or to every other application of Time Manipulation.
+- The exact boundaries of the stopped region, activation conditions, duration, targets, and interaction with other time-based effects remain unspecified.
+
+
+
 ## 13. Change log
 
 - **2026-11-27:** Initial foundation drafted from the JJK systems and crossover issues discussed with the author. Timeline, arrival location, and core energy compatibility remain undecided. Bell-specific principles are proposals, not silently approved canon.
 - **2026-11-27:** Added the author-established reincarnation premise: Retelling Bell is reborn as Gojo Toki in the Gojo Clan; his soul is cleansed, but his divine nature preserves his memories, which awaken at age five. Added Time Manipulation, Eternity, and The World as currently defined. Unspecified mechanics remain open.
+- **2026-11-28:** Added The World's Maximum Output mechanics: Bell allows the time-stop effect to include him, yet moves through future-derived output available in the present. Documented the resulting self-sustaining causal loop / bootstrap paradox and kept immortality, failure consequences, and external interruption unresolved.
 - **2026-11-27:** Added Eternity's CE-cost exploit: Bell binds himself to a stale temporal state, interrupting ordinary CE expenditure. Expanded the mechanism with the author's perpetual-motion analogy: the technique's next-second output is available in the present, while Bell acts through a stale/past temporal reference and remains in the present, allowing him to move in frozen time. The exact metaphysical accounting and boundaries remain open.
