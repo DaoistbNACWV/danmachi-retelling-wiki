@@ -249,3 +249,11 @@ too.
 - The draft depicts Bell joining the Hestia Familia as its first member, moving into the abandoned church with Hestia, helping repair the basement, and receiving Hestia's Falna.
 - The draft's Level One status sheet lists age 14, Race “Human?”, S/999 in all five basic abilities, five skills, seven spells, and an extensive Development Ability list. These details remain draft-only pending author confirmation; do not promote them to supported master continuity or assume their mechanics beyond the chapter text.
 - The extensive Development Ability list at Level One appears to depart from the project's usual DanMachi reference framework, where Development Abilities normally emerge from Level 2 onward. Preserve as a proposed retelling exception, not a settled rule, until confirmed.
+
+
+## Manuscript-status update — 2026-11-27 (not a canon update)
+
+- Chapters 80–84 are present in `Manuscript/` as working drafts stored at the author's request. Their events are not added to approved master continuity and do not supersede Chapter 75 as the latest explicitly author-approved Arc 8 chapter.
+- Chapter 79 is absent from the current `main` branch. Do not infer its contents or bridge the Chapter 78-to-80 transition.
+- Chapter 84 follows the author's explicit public/private naming direction: “Filvis” is used in the public scene with outside visitors, while “Ein” remains the private name used in private scenes. This does not resolve the Dionysus-associated Filvis record or the Chalia/Challia spelling conflict.
+- Chapters 80–84 introduce draft-only Melen/coastline activity, the Loki Familia's Leviathan-seal inspection, and a Kali-led fleet approaching Melen. Do not treat the fleet's purpose, the seal's broader history, or these events as approved continuity.
