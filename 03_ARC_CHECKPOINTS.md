@@ -180,3 +180,13 @@ the finalized prose.
 - Hestia performs Bell's first Falna blessing. She perceives his soul as deeply unusual and unsettling.
 - The draft lists Bell as fourteen, Race “Human?”, Level One, with S/999 in STR, END, DEX, AGI, and MAG; five skills; seven spells; and numerous Development Abilities.
 - **Status:** Author-requested repository draft only. The detailed Falna values, skills, spells, Development Abilities, and their mechanics are not finalized/locked. The broad Level One Development Ability list is an apparent exception to the usual canon framework and requires author confirmation. Do not treat this entry as an approved status ledger until confirmed.
+
+
+## Arc 8 Chapters 80–84 — working manuscript status only [DRAFT; NOT APPROVED CHECKPOINTS]
+
+- Chapters 80–84 are present in `Manuscript/` as working drafts stored at the author's request. They are not finalized/locked and are not approved continuity checkpoints.
+- Chapter 80 depicts Bell and Ein arriving in Melen and establishing a campsite; Chapter 81 depicts the Loki Familia expedition travelling to Melen; Chapter 82 depicts Kali's fleet approaching Melen; Chapter 83 depicts a private evening at the campsite; Chapter 84 depicts the completed Leviathan-seal inspection and Ais, Alicia, and Lefiya finding Bell and Filvis at the campsite.
+- These summaries are navigation aids only. Do not promote the fleet's purpose, seal history, exact chronology, or other draft-only details into approved continuity.
+- Chapter 84 uses “Filvis” for Ein in the public scene with outside visitors; “Ein” remains the private name used in private scenes, per the author's explicit 2026-11-23 correction. The relationship to the Dionysus-associated Filvis record and the Chalia/Challia spelling remain unresolved.
+- Chapter 79 is absent from `Manuscript/`; no contents or Chapter 78-to-80 transition should be inferred.
+- Chapter 75 remains the latest author-approved Arc 8 checkpoint recorded here.
