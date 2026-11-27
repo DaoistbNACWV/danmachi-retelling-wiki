@@ -6,10 +6,27 @@ This page makes the limits of the current archive visible. It should be updated 
 
 ## Current state
 
-**Wiki:** Initial framework created 2026-11-11; audit and updates completed 2026-11-20.  
-**Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` currently contains Chapters 70–78, including the working Chapter 71 copy. Chapters 72, 76, and 77 are drafts; Chapter 78 is an author-accepted repository draft, not yet finalized/locked. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
-**Latest explicitly finalized/approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76 and 77 are drafts; Chapter 78 is author-accepted for repository storage but is not marked finalized/locked.  
+**Wiki:** Initial framework created 2026-11-11; latest audit completed 2026-11-27.  
+**Manuscript:** Partial source archive and chapter files; not a complete chapter-by-chapter Arcs 1–8 manuscript. `Manuscript/` contains Chapter 070, the working Chapter 71 copy, Chapters 072–078, and Chapters 080–084. Chapter 079 is absent. Chapters 72, 76–77, and 80–84 are drafts; Chapter 78 is an author-accepted repository draft, not finalized/locked. Chapter 73 and 74 approval status is not explicitly recorded in their files.  
+**Latest explicitly finalized/approved Arc 8 chapter:** Chapter 75, “By My Words.” Chapters 76–77 and 80–84 are drafts; Chapter 78 is author-accepted for repository storage but is not marked finalized/locked.  
+**Latest working manuscript file:** Chapter 84, “The Break” [WORKING DRAFT — NOT FINALIZED / LOCKED].  
 **Continuity:** Several supported checkpoints exist, but important character, chronology, and power-system records remain incomplete.
+
+## Audit — 2026-11-27
+
+- **Repository / branch:** The requested legacy repository name resolves to `DaoistbNACWV/danmachi-retelling-wiki`; the audited branch is `main`. The pre-audit HEAD was [`71032534`](https://github.com/DaoistbNACWV/danmachi-retelling-wiki/commit/7103253410ae187bb72edaaa7d07a15158547714), 13 commits ahead of the previous audited HEAD `54fac910`.
+- **Files reviewed:** `01_PROJECT_INSTRUCTIONS.md`, `02_MASTER_CONTINUITY.md`, `03_ARC_CHECKPOINTS.md`, `04_CHARACTER_AND_WORLD_REFERENCE.md`, `05_MANUSCRIPT_INDEX_AND_GAPS.md`, `ARC_1_TO_8_MIGRATION_STATUS.md`, `MASTER_WRITING_SYSTEM_Swiss_Knife_v1.0.md`, `Wiki/Continuity-Guide.md`, relevant Wiki character/timeline/world/system pages, root and Wiki README files, and the Pages workflow. Chapters 80–84 were reviewed in full; relevant identity/relationship passages in Chapters 71, 72, 75, and 76 were cross-checked.
+- **New manuscript files:** Chapters 80–84 were added under `Manuscript/`. The repository index and commit history classify all five as working drafts stored at the author's request. Chapter 84 was initially a blank placeholder and was subsequently populated. The chapter files themselves do not carry a top-of-file draft banner; the status is recorded in the index and commit history. No draft was promoted to approved continuity.
+- **Author naming decision:** The author's 2026-11-23 correction changes Chapter 84's public-scene name from “Ein” to “Filvis.” The accompanying index note specifies that “Ein” remains her private name, used by Bell in private scenes. Chapters 80 and 83 use Ein in private scenes; Chapter 84 uses Filvis with outside visitors. This naming convention does not resolve the relationship between Ein's public identity and the Dionysus-associated Filvis record.
+- **Chronology:** No direct contradiction was found within Chapters 80–84. Chapter 80 places Bell and Ein in Melen; Chapter 81 has the Loki Familia travelling there; Chapter 82 has Kali's fleet approaching; Chapter 83 takes place at night at the campsite; Chapter 84 follows the Loki Familia's seal inspection and the visitors' discovery of Bell and Filvis. Exact dates, the fleet's arrival relative to the expedition, and the transition from Chapter 78's Hearth Manor endpoint to Chapter 80's Melen arrival are not established. Chapter 79 is absent.
+- **Campsite ward:** Chapter 83's latest wording says the ward warns of approaching intruders and discourages disturbances but does not conceal the campsite. This is consistent with Chapter 84's visible smoke; no concealment contradiction remains.
+- **Leviathan seal / Kali fleet:** Chapter 84's intact-seal finding and Chapter 82's Kali-led fleet, Amazones, and chained male captives are draft-only. The seal's exact location/history, the fleet's purpose and arrival time, and the captives' identities/background remain [OPEN]. Do not infer a Familia name or motive for the fleet.
+- **Character knowledge:** Chapter 84 does not establish whether Ais, Alicia, or Lefiya recognize Filvis or know her public identity. Their prior knowledge remains [OPEN]; do not add recognition or backstory without a source.
+- **Arc 8 gate:** No excluded character from the active Arc 8 gate appears or is mentioned in Chapters 80–84.
+- **Power/status scan:** Chapters 80–84 establish no new Falna values, Levels, skills, spells, equipment, injuries, or Familia changes. Do not infer any from these drafts.
+- **Index/navigation defects found:** The endpoint/status records still described Chapter 78 as the highest manuscript file; several Wiki pages had not indexed Chapters 80–84; root and Wiki landing pages contained redundant navigation entries; and the Systems page had a joined heading. These reference/navigation issues were corrected in this audit.
+- **Storage and preservation:** All five new chapters are already in `Manuscript/`. Chapter 79 was not created. The historical Chapter 71 copy was preserved. No manuscript prose was rewritten, and no historical file was moved, duplicated, or deleted.
+- **Open author decisions:** Chapter 79's missing source; Chapter 73–74 approval status; final approval of Chapters 80–84; the two-Filvis identity/record relationship; “Chalia” versus “Challia”; the visitors' knowledge of Filvis; exact Chapter 78-to-80 chronology; the Leviathan seal's context; and the Kali fleet's purpose and captives' identities.
 
 ## Audit — 2026-11-20
 
