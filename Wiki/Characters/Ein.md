@@ -25,9 +25,16 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 ## Chapter 78 — “The Fool” [DRAFT COMPLETE — AUTHOR-ACCEPTED FOR REPOSITORY]
 
 - Ein accompanies Bell to Uranus's Prayer Altar approximately one week after Bell requested permission to use Arcanum. Bell introduces her to Uranus as his girlfriend.
-- At the end of the chapter, Ein returns to Hearth Manor with Bell. This is the last observed location in the author-accepted draft, not a later current-location guarantee; subsequent whereabouts remain [OPEN].
+- At the end of Chapter 78, Ein returns to Hearth Manor with Bell. Later working drafts (Chapters 80, 83, and 84) place her with Bell in Melen, but these are not approved location updates. Her current approved location remains [OPEN].
 - Ein is present when Bell restores Fels and witnesses the return of Fels's physical body and identity as Senku Ishigami.
 - This chapter does not resolve the open relationship between Ein and the separate Filvis Chalia identity/record. The Chapter 76 surname spelling conflict also remains unresolved.
+
+### Chapters 80–84 — later working drafts [NOT APPROVED CONTINUITY]
+
+- **Chapters 80 and 83 [WORKING DRAFTS]:** Private scenes at Melen use the name Ein and depict her travelling/camping with Bell. These are draft-scene events, not an approved current-location update.
+- **Chapter 84 [WORKING DRAFT]:** In the scene with outside visitors, narration and dialogue use “Filvis” because that is her public identity; “Ein” remains her private name, used in private scenes. This follows the author's explicit 2026-11-23 correction and does not resolve the separate Dionysus-associated Filvis record.
+- **[OPEN]** Chapter 84 does not establish whether Ais, Alicia, or Lefiya recognize Filvis or know the history behind her public identity. Do not assign them knowledge beyond the scene.
+- The Chalia/Challia surname discrepancy remains [CONFLICT]. Chapter 84 uses only “Filvis” and does not resolve the spelling.
 
 ## Identity and continuity cautions
 
@@ -47,4 +54,7 @@ Ein is the person whose corruption Bell investigates and ultimately removes in t
 - [Manuscript: Chapter 76 — Relief](../../Manuscript/Chapter%20076%20-%20Relief.md) — draft-only Guild registration and public-identity proposal.
 - [Manuscript: Chapter 77 — The Opposite of Despair](../../Manuscript/Chapter%20077%20-%20The%20Opposite%20of%20Despair.md) — draft-only Falna and ability developments.
 - [Manuscript: Chapter 78 — The Fool](../../Manuscript/Chapter%20078%20-%20The%20Fool.md) — author-accepted draft; Ein accompanies Bell to the Prayer Altar and witnesses Fels's restoration.
+- [Manuscript: Chapter 80 — Melen](../../Manuscript/Chapter%20080%20-%20Melen.md) — working draft; Bell and Ein arrive in Melen.
+- [Manuscript: Chapter 83 — Night Life](../../Manuscript/Chapter%20083%20-%20Night%20Life.md) — working draft; private campsite scene.
+- [Manuscript: Chapter 84 — The Break](../../Manuscript/Chapter%20084%20-%20The%20Break.md) — working draft; public-scene use of Filvis and the visitors' discovery.
 
