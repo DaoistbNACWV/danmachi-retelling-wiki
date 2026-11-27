@@ -492,10 +492,39 @@ The closest conceptual label is a **bootstrap paradox / self-consistency loop**:
 - Bell can move because the technique permits him to move forward in the future, making future-derived output available in the present.
 - Preserve the distinction between this and ordinary speed, reflexes, or resistance to time stop.
 - The causal loop requires Bell to continue to exist for the future operation/output to exist, as currently described by the author.
-- This is a temporal dependency, not yet a general declaration that Bell is immortal or cannot be killed by any means. Whether and how an external event could break, override, or destabilize the loop is unresolved.
-- Do not invent a timeline-erasure outcome, automatic resurrection, invulnerability, energy debt, or a specific failure consequence. The author's statement that Bell must always exist for the technique to function is established; the precise behavior if that condition is violated remains to be defined.
+- This causal loop is distinct from Eternity's defensive property. Eternity's harm-rejection rule and its stated exceptions are documented separately; do not use The World's paradox as a substitute explanation for Eternity's defense.
+- Do not invent a timeline-erasure outcome, automatic resurrection, energy debt, or a specific failure consequence. The author's statement that Bell must always exist for The World to function is established; the precise behavior if that condition is violated remains to be defined.
 - Do not automatically transfer this paradox to Eternity's ordinary defensive operation or to every other application of Time Manipulation.
 - The exact boundaries of the stopped region, activation conditions, duration, targets, and interaction with other time-based effects remain unspecified.
+
+
+
+### 12.10 Eternity — absolute rejection of harm and stated exceptions
+
+**Status:** AUTHOR-ESTABLISHED MECHANIC; exact exception mechanics remain open
+
+Eternity's defensive logic is not merely a shield that blocks attacks after they reach Bell. **Anything that can or could cause damage to Bell is rejected by the technique's temporal logic.** If an event, attack, or effect would harm him, Eternity rejects that possibility before the harm can be realized against him.
+
+As currently established, this means Bell is functionally unharmed by any ordinary source of damage while Eternity is operating. The protection is framed in terms of rejecting the possibility of harm itself, not simply resisting force, durability-checking an attack, or intercepting a projectile.
+
+The author has specified only two categories of exception through which Bell can be killed despite Eternity:
+
+1. **A higher-dimensional existence:** an entity whose mode of existence is higher-dimensional can overcome the defensive logic.
+2. **Mahoraga:** Mahoraga is also a stated exception and can potentially overcome Eternity sufficiently to kill Bell.
+
+These are author-established exceptions. Their precise mechanisms have not yet been defined. In particular, do not invent a specific dimensional hierarchy, assume every higher-dimensional being automatically wins in every circumstance, or prescribe exactly how Mahoraga adapts to or bypasses Eternity without further author direction.
+
+#### Continuity safeguards
+
+- Eternity rejects anything that can or could damage Bell; it is not merely conventional spatial interception or physical durability.
+- Treat Bell as effectively impossible to harm while Eternity is functioning, subject to the two stated exceptions.
+- The currently stated ways to kill Bell through Eternity's defense are a higher-dimensional existence or Mahoraga.
+- Mahoraga's exception is established, but the exact adaptation sequence, required exposure, timing, and bypass mechanism remain unspecified.
+- The meaning and criteria of a "higher-dimensional existence" remain to be defined; do not invent a ranking system or additional exceptions.
+- Do not casually add other counters, vulnerabilities, attack categories, or bypass methods.
+- Eternity's stale-state exploit concerns its temporal processing and ordinary Cursed Energy expenditure. It does not weaken the rejection principle.
+- This defensive property belongs to Eternity. Do not assume The World independently grants the same absolute rejection, or that all of Bell's Time Manipulation applications share it.
+- This is a defensive near-absolute with explicitly stated exceptions, not a blanket claim that Bell cannot be killed by any conceivable means outside the established rules.
 
 
 
@@ -503,5 +532,6 @@ The closest conceptual label is a **bootstrap paradox / self-consistency loop**:
 
 - **2026-11-27:** Initial foundation drafted from the JJK systems and crossover issues discussed with the author. Timeline, arrival location, and core energy compatibility remain undecided. Bell-specific principles are proposals, not silently approved canon.
 - **2026-11-27:** Added the author-established reincarnation premise: Retelling Bell is reborn as Gojo Toki in the Gojo Clan; his soul is cleansed, but his divine nature preserves his memories, which awaken at age five. Added Time Manipulation, Eternity, and The World as currently defined. Unspecified mechanics remain open.
+- **2026-11-28:** Added Eternity's absolute harm-rejection principle and the two author-stated lethal exceptions: higher-dimensional existence and Mahoraga. The precise bypass mechanics remain open.
 - **2026-11-28:** Added The World's Maximum Output mechanics: Bell allows the time-stop effect to include him, yet moves through future-derived output available in the present. Documented the resulting self-sustaining causal loop / bootstrap paradox and kept immortality, failure consequences, and external interruption unresolved.
 - **2026-11-27:** Added Eternity's CE-cost exploit: Bell binds himself to a stale temporal state, interrupting ordinary CE expenditure. Expanded the mechanism with the author's perpetual-motion analogy: the technique's next-second output is available in the present, while Bell acts through a stale/past temporal reference and remains in the present, allowing him to move in frozen time. The exact metaphysical accounting and boundaries remain open.
