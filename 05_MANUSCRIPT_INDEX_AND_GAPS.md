@@ -178,9 +178,9 @@ overwrite a user-approved finalized chapter with a draft.
 - **[OPEN] Chapter 79 remains absent** from the current `Manuscript/` sequence. Do not infer its contents or fill the gap.
 
 
-## Jujutsu Kaisen crossover — Chapter Eighty-Nine [WORKING DRAFT — STORED AT AUTHOR'S REQUEST]
+## Jujutsu Kaisen crossover — Chapter Eighty-Eight [WORKING DRAFT — STORED AT AUTHOR'S REQUEST]
 
-- `Manuscript/Chapter 089 - Gojo Toki.md` — Chapter Eighty-Nine, “Gojo Toki.” **[WORKING DRAFT — STORED AT AUTHOR'S REQUEST]** Bell Cranel is reborn into the Jujutsu Kaisen setting as Gojo Toki, the four-year-old son of Gojo Gin and Gojo Haku. Toki retains substantial memories of his previous existence as Bell Cranel/Chronos, although the chapter describes some memories as fragmented or distant.
+- `Manuscript/Chapter 088 - Gojo Toki.md` — Chapter Eighty-Eight, “Gojo Toki.” **[WORKING DRAFT — STORED AT AUTHOR'S REQUEST]** Bell Cranel is reborn into the Jujutsu Kaisen setting as Gojo Toki, the four-year-old son of Gojo Gin and Gojo Haku. Toki retains substantial memories of his previous existence as Bell Cranel/Chronos, although the chapter describes some memories as fragmented or distant.
 - Toki's father takes nearly a month to choose his name and settles on “Toki,” meaning time, because he had all the time in the world to name his son.
 - While reading in the Gojo clan library, Toki learns the basics of cursed energy, cursed spirits, jujutsu sorcerers, innate cursed techniques, the Limitless, and the Six Eyes. The chapter identifies sixteen-year-old Gojo Satoru as Toki's uncle and the current strongest member of the clan.
 - Toki is already capable of manipulating cursed energy and using Reverse Cursed Technique at age four. The clan regards him as a prodigy, and his family's standing is elevated from a branch household to the main clan.
